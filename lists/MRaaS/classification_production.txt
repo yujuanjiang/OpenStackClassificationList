@@ -1,0 +1,10 @@
+NativeFileSystemStore.java
+SwiftNativeFileSystemStore.java
+PartialListing.java
+NativeSwiftFileSystem.java
+FileMetadata.java
+SwiftCredentials.java
+SwiftException.java
+SwiftMetadata.java
+Credentials.java
+Swift.java

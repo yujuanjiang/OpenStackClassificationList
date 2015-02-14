@@ -1,0 +1,7 @@
+README.md
+generator.py
+genconfs.sh
+doc-test.conf.sample
+doctest.py
+openstack-doc-test.rst
+test-requirements.txt

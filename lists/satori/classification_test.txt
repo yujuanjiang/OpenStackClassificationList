@@ -1,0 +1,14 @@
+.testr.conf
+run_tests.sh
+test_ssh.py
+test_shell.py
+test_formats_text.py
+test_common_logging.py
+__init__.py
+test_dns.py
+test_common_templating.py
+test_utils.py
+test_bash.py
+utils.py
+test_sysinfo_ohai_solo.py
+test-requirements.txt

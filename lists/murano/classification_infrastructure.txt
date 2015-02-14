@@ -1,0 +1,4 @@
+typespec.py
+murano-repository.rst
+index.rst
+murano-api.rst

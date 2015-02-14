@@ -1,0 +1,13 @@
+test.sh
+test-jenkins-api.py
+murano-tests.config
+xenapi-os-testing.config
+oslotest.config
+test-manage-project.config
+subunit2sql.config
+run-unittests.sh
+subunit2html.py
+community.pp
+features.conf
+test-infra-requirements.rst
+test-requirements.txt

@@ -1,0 +1,16 @@
+.testr.conf
+gr-base.txt
+project.txt
+setup.cfg
+pbr_setup.cfg
+dev-req.txt
+test-project.txt
+project-with-oslo-tar.txt
+old-setup.py
+project-with-bad-requirement.txt
+setup.py
+test_update.py
+__init__.py
+test_update_suffix.py
+test_update_pbr.py
+test-requirements.txt

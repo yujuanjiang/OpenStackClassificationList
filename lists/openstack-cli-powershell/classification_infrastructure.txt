@@ -1,0 +1,3 @@
+WidgetInc.nuspec
+openstack-cli-powershell.nuspec
+AcmeInc.nuspec

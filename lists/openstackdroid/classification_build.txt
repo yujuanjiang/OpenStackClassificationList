@@ -1,0 +1,15 @@
+AndroidManifest.xml
+dimens.xml
+styles.xml
+connection_profile_activity.xml
+profile_list_item.xml
+connection_profile_menu.xml
+login_contextual.xml
+login_menu.xml
+styles.xml
+cloud_browser.xml
+strings.xml
+dimens.xml
+styles.xml
+dimens.xml
+config

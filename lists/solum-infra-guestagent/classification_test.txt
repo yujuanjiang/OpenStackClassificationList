@@ -1,0 +1,5 @@
+.testr.conf
+test_solum_guestagent.py
+__init__.py
+base.py
+test-requirements.txt

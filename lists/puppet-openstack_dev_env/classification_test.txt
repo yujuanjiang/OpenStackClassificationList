@@ -1,0 +1,3 @@
+openstack_test.sh
+test_swift_cluster.rb
+test_two_node.rb

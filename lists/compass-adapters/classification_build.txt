@@ -1,0 +1,6 @@
+kdump.xml
+suse_scriptwrapper.xml
+proxy.xml
+hosts.xml
+networking.xml
+config

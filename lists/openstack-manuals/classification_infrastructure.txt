@@ -1,0 +1,17 @@
+cinder-netapp_cdot_extraspecs.xml
+ceilometer-inspector.xml
+section_objectstorage_tenant-specific-image-storage.xml
+Specialized_OOO.png
+Special_case_SDN_hosted.png
+Specialized_VDI1.png
+Specialized_Hardware2.png
+Special_case_SDN_external.png
+section_multi_hypervisor_specialized.xml
+section_networking_specialized.xml
+section_software_defined_networking_specialized.xml
+section_hardware_specialized.xml
+section_openstack_on_openstack_specialized.xml
+section_desktop_as_a_service_specialized.xml
+ch_specialized.xml
+hot_spec.rst
+section_cli_nova_specify_host.xml

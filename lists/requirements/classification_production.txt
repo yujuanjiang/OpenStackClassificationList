@@ -1,0 +1,3 @@
+update.py
+detail.py
+setup.py

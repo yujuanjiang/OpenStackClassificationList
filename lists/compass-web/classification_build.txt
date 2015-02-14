@@ -1,0 +1,8 @@
+machine_host_columns.json
+config.json
+timezone.json
+monitoring_nav.json
+wizard_steps.json
+fontawesome-webfont.svg
+glyphicons-halflings-regular.svg
+config

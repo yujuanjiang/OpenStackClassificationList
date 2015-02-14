@@ -1,0 +1,12 @@
+baremetal-build-and-test-cycle.dia
+devtest_ramdisk.sh
+devtest_overcloud.sh
+devtest.sh
+devtest_setup.sh
+devtest_update_network.sh
+devtest_undercloud.sh
+devtest_variables.sh
+devtest_testenv.sh
+devtest_end.sh
+devtest_seed.sh
+test-requirements.txt

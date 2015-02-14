@@ -1,0 +1,5 @@
+.testr.conf
+test_shell.py
+test_auth.py
+__init__.py
+test-requirements.txt

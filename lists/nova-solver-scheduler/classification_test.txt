@@ -1,0 +1,13 @@
+test_host_manager.py
+test_solver_scheduler.py
+fakes.py
+test_volume_affinity_cost.py
+__init__.py
+test_allocation_constraints.py
+test_io_ops_constraint.py
+test_non_trivial_solution_constraint.py
+test_max_instances_per_host_constraint.py
+test_costs.py
+test_availability_zone_constraint.py
+test_linearconstraints.py
+test_active_host_constraint.py

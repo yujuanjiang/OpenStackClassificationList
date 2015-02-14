@@ -1,0 +1,8 @@
+de.po
+glossary.pot
+ko_KR.po
+ja.po
+fr.po
+ja.po
+security-guide.pot
+doc-tools-check-languages.conf

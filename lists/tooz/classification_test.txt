@@ -1,0 +1,7 @@
+.testr.conf
+setup-test-env.sh
+test_coordination.py
+__init__.py
+__init__.py
+test_memcached.py
+test-requirements.txt

@@ -1,0 +1,8 @@
+.testr.conf
+__init__.py
+sample_review.json
+sample_default_data.json
+test_main.py
+test_config_files.py
+__init__.py
+test-requirements.txt

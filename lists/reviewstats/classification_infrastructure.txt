@@ -1,0 +1,3 @@
+docs-specs.json
+nova-specs.json
+qa-specs.json

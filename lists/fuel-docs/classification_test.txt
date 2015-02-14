@@ -1,0 +1,17 @@
+8900-testing-details.rst
+0400-sanity-tests-about.rst
+0500-test-network.rst
+0410-functional-tests-about.rst
+0630-heat-prepare-test.rst
+0650-heat-test-details.rst
+7700-prepare-to-test.rst
+7750-test-details.rst
+7482-test-prepare.rst
+7485-test-details.rst
+020-new-features.rst
+020-new-features.rst
+019-new-features-501.rst
+020-new-features.rst
+0600-platform-tests-intro.rst
+0200-run-tests.rst
+0300-test-fails.rst

@@ -1,0 +1,8 @@
+.testr.conf
+test_shell.py
+test_command.py
+test_client.py
+__init__.py
+test_base.py
+test.py
+test-requirements.txt

@@ -1,0 +1,13 @@
+.testr.conf
+joker_test.py
+test_config_schema_registry.py
+test_mark.py
+test_type_validators.py
+sample.feature
+sample_havana.feature
+version.feature
+test_version.py
+test_ini.py
+test_configuration.py
+test-requirements.txt
+discover_test.py

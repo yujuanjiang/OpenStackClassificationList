@@ -1,0 +1,10 @@
+.testr.conf
+__init__.py
+base.py
+test_no_dup_filenames.py
+test_os_svc_daemon.py
+__init__.py
+tests2skip.py
+tests2skip.txt
+deploy-testenv
+test-requirements.txt

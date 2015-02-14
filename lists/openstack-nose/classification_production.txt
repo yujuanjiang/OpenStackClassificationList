@@ -1,0 +1,3 @@
+__init__.py
+nose_plugin.py
+setup.py

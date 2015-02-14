@@ -1,0 +1,12 @@
+migrate_ks.py
+cobbler.conf
+modules.conf
+preseed_rsyslog.conf
+kickstart_rsyslog.conf
+preseed_limits.conf
+kickstart_client.rb
+preseed_client.rb
+preseed_sysctl.conf
+kickstart_sysctl.conf
+kickstart_yum.conf
+kickstart_limits.conf

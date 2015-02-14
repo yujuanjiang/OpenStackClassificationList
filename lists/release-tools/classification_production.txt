@@ -1,0 +1,13 @@
+rccut.sh
+milestone.sh
+create_milestones.py
+ms2version.py
+rcdelivery.sh
+process_bugs.py
+swiftrc.sh
+repo_tarball_diff.sh
+consolidate_release_page.py
+setup.py
+upload_release.py
+wait_for_tarball.py
+similar_tarballs.sh

@@ -1,0 +1,8 @@
+doc-tools-check-languages.conf
+de.po
+glossary.pot
+ko_KR.po
+ja.po
+fr.po
+openstack-ops.pot
+ja.po

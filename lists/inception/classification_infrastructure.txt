@@ -1,0 +1,3 @@
+install_chefserver.sh
+setup_chef_repo.sh
+install_chefserver_deps.sh

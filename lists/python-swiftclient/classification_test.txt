@@ -1,0 +1,16 @@
+.testr.conf
+run_tests.sh
+test_shell.py
+__init__.py
+test_multithreading.py
+test_swiftclient.py
+test_utils.py
+utils.py
+test_command_helpers.py
+__init__.py
+sample.conf
+__init__.py
+test_swiftclient.py
+.unittests
+.functests
+test-requirements.txt
