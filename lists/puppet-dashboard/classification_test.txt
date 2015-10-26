@@ -1,2 +1,0 @@
-init.pp
-dashboard_spec.rb

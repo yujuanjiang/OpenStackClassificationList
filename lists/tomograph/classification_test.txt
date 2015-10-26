@@ -1,4 +1,0 @@
-basic.py
-bench.py
-py33-test-requirements.txt
-test-requirements.txt

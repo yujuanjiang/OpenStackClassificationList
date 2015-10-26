@@ -1,9 +1,0 @@
-run_tests.sh
-unittest2-discover.patch
-functions.sh
-test_ini.sh
-test_config.sh
-test_ip.sh
-run_test.sh
-test_functions.sh
-neutron-adv-test.sh

@@ -1,5 +1,0 @@
-validate.html.xslt
-foafroll.xml.xslt
-atom.xml.xslt
-opml.xml.xslt
-planet.css

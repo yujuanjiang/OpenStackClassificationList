@@ -1,5 +1,0 @@
-run_tests.sh
-test_backends_compute.py
-test_backends_storage.py
-test_backends_network.py
-system_test.py

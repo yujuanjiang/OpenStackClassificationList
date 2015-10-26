@@ -1,8 +1,0 @@
-.testr.conf
-__init__.py
-test_bashate.py
-base.py
-E002_bad.sh
-legacy_sample.sh
-E001_bad.sh
-test-requirements.txt

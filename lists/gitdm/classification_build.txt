@@ -1,2 +1,0 @@
-gitdm.config
-config

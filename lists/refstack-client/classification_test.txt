@@ -1,6 +1,0 @@
-.testr.conf
-subunit_processor.py
-__init__.py
-tests.py
-__init__.py
-test-requirements.txt

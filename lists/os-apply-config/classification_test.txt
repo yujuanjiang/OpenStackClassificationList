@@ -1,9 +1,0 @@
-.testr.conf
-test_collect_config.py
-__init__.py
-test_value_type.py
-test_json_renderer.py
-test_apply_config.py
-script.conf
-keystone.conf
-test-requirements.txt

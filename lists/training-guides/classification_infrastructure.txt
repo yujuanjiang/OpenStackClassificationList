@@ -1,9 +1,0 @@
-seperate-folders-for-books.rst
-developer-training-guide-how-to-participate-classroom.rst
-developer-training-guide-apis-deep-dive-classroom.rst
-developer-training-guide-prerequisites.rst
-developer-training-guide-apis-deep-dive-labs.rst
-developer-training-guide-apis-deep-dive-quizzes.rst
-README.rst
-template.rst
-section_objectstorage_tenant-specific-image-storage.xml

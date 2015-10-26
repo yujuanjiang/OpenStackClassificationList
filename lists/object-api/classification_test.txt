@@ -1,3 +1,0 @@
-doc-test.conf
-ch_object-api-concepts-and-features.xml
-test-requirements.txt

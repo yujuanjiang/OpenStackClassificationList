@@ -1,6 +1,0 @@
-__init__.py
-__init__.py
-rickshaw.js
-rickshaw.css
-__init__.py
-setup.py

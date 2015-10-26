@@ -1,4 +1,0 @@
-__init__.py
-cmd.py
-git-review.1
-setup.py

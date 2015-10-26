@@ -1,5 +1,0 @@
-.testr.conf
-test_workflow_parsers.py
-__init__.py
-settings.py
-test-requirements.txt

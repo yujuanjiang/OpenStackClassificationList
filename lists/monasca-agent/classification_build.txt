@@ -1,4 +1,0 @@
-dd-agent.xml
-agent.svg
-setup.cfg
-config

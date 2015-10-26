@@ -1,2 +1,0 @@
-test_merge.bash
-test-requirements.txt

@@ -1,9 +1,0 @@
-__init__.py
-layout.html
-theme.conf
-default.css
-tweaks.css
-basic.css
-nature.css
-intersphinx.py
-setup.py

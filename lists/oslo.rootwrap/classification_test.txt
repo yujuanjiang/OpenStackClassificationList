@@ -1,5 +1,0 @@
-.testr.conf
-test_rootwrap.py
-__init__.py
-test_functional.py
-test-requirements.txt

@@ -1,5 +1,0 @@
-.testr.conf
-__init__.py
-test_titles.py
-unit-test-cases-for-cinder-scripts.rst
-united-policy.json-in-cinder.rst

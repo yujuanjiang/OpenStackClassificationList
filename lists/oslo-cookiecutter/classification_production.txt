@@ -1,6 +1,0 @@
-openstack-common.conf
-__init__.py
-__init__.py
-openstack-common.conf
-setup.py
-conf.py

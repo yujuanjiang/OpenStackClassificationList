@@ -1,3 +1,0 @@
-prep_cloud.py
-setup_ubuntu_env.sh
-setup.py

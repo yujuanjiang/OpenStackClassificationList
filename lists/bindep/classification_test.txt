@@ -1,5 +1,0 @@
-.testr.conf
-__init__.py
-test_depends.py
-test_main.py
-test-requirements.txt

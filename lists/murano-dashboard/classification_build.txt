@@ -1,3 +1,0 @@
-fontawesome-webfont.svg
-setup.cfg
-config

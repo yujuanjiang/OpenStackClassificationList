@@ -1,8 +1,0 @@
-testcache.py
-MockStackEnvironment.py
-__init__.py
-test_cacheManager.py
-MockOS.py
-MockCacheManager.py
-test_OSInfo.py
-MockNovaInstance.py

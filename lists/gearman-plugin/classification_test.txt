@@ -1,7 +1,0 @@
-FakeWorkerThread.java
-GearmanProxyTest.java
-GearmanPluginConfigTest.java
-AbstractWorkerThreadTest.java
-GearmanPluginUtilTest.java
-ManagementWorkerThreadTest.java
-ExecutorWorkerThreadTest.java

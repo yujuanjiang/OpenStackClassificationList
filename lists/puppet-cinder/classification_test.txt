@@ -1,2 +1,0 @@
-setup_test_volume.pp
-cinder_setup_test_volume_spec.rb

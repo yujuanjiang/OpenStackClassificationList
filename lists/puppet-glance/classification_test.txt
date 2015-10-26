@@ -1,5 +1,0 @@
-registry.pp
-init.pp
-site.pp
-api.pp
-glance_spec.rb

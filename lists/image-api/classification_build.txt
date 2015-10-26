@@ -1,9 +1,0 @@
-config
-os-image-service-devguide.xml
-imagesapi.xml
-pom.xml
-imagesapigeneralinfo.xml
-imageapioverview.xml
-pom.xml
-pom.xml
-bk-image-api-v2.0.xml

@@ -1,2 +1,0 @@
-doc-test.conf
-test-requirements.txt

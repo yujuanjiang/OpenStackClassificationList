@@ -1,2 +1,0 @@
-gate-ui-tests.sh
-test-requirements.txt

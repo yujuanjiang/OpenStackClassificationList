@@ -1,3 +1,0 @@
-NativeSwiftFileSystemContractBaseTest.java
-SwiftNativeFileSystemContractTest.java
-TestSwiftNativeCredentials.java

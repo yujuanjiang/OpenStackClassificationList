@@ -1,6 +1,0 @@
-murano-engine-app-deployment-tests-ubuntu.yaml
-murano-engine-app-deployment-tests-centos.yaml
-murano-dashboard-integration-tests-ubuntu.yaml
-murano-dashboard-integration-tests-centos.yaml
-murano-dashboard-integration-tests.sh
-murano-engine-with-deployment-tests.sh

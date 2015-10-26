@@ -1,4 +1,0 @@
-ini_setting_spec.rb
-nova_network_spec.rb
-nova_config_spec.rb
-test-001_spec.rb

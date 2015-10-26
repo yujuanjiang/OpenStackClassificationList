@@ -1,5 +1,0 @@
-.testr.conf
-__init__.py
-test_jenkins.py
-helper.py
-test-requirements.txt

@@ -1,3 +1,0 @@
-setup.cfg
-setup.cfg
-config

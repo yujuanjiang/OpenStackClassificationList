@@ -1,4 +1,0 @@
-functions.sh
-devstack-vm-gate-wrap.sh
-devstack-vm-gate-dev.sh
-devstack-vm-gate.sh

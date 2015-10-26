@@ -1,6 +1,0 @@
-bower.json
-package.json
-custom_icons.svg
-openstack.svg
-storyboard.svg
-config

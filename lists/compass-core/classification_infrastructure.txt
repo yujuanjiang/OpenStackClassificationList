@@ -1,6 +1,0 @@
-chef.sh
-chefhandler.py
-chef-server.rb
-addroles.py
-adddatabags.py
-addcookbooks.py

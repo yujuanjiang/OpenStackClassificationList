@@ -1,8 +1,0 @@
-config.xsl
-developers-guide.css
-administrators-guide.css
-config.xsl
-config.xsl
-user-guide.css
-config.xsl
-getting-started.css

@@ -1,5 +1,0 @@
-.testr.conf
-test_designateclient.py
-__init__.py
-base.py
-test-requirements.txt

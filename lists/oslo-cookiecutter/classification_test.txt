@@ -1,5 +1,0 @@
-.testr.conf
-__init__.py
-test_{{cookiecutter.module_name}}.py
-test-requirements.txt
-test_template.sh

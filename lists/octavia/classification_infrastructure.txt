@@ -1,4 +1,0 @@
-design.rst
-example.dot
-template.rst
-skeleton.rst

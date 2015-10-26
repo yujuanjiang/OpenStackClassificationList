@@ -1,9 +1,0 @@
-test_file.pp
-cloudcontroller.pp
-all.pp
-testfile.pp
-site.pp
-auth_file.pp
-compute.pp
-openstack_test_file_spec.rb
-test_nova.sh.erb

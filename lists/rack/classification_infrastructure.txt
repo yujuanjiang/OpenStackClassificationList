@@ -1,1 +1,0 @@
-fluent-plugin-udp_msgpack.gemspec

@@ -1,6 +1,0 @@
-.testr.conf
-__init__.py
-test_bench.py
-test_utils.py
-.unittests
-test-requirements.txt

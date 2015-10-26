@@ -1,8 +1,0 @@
-flavor_create.json
-get_console_output.json
-nova_keypair.json
-stress-tox-job.json
-volume-attach-verify.json
-ssh_floating.json
-setup.cfg
-config

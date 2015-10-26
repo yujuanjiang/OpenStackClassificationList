@@ -1,4 +1,0 @@
-setup.cfg
-audit.json
-react.json
-config

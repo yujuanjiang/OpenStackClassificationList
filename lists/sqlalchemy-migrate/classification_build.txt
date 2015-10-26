@@ -1,4 +1,0 @@
-migrate.cfg
-migrate.cfg
-setup.cfg
-config

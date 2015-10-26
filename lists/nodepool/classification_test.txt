@@ -1,9 +1,0 @@
-.testr.conf
-test_allocator.py
-__init__.py
-test_nodepool.py
-node_dib.yaml
-node_az.yaml
-node.yaml
-subnodes.yaml
-test-requirements.txt

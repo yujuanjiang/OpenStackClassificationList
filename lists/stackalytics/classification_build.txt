@@ -1,7 +1,0 @@
-ostackportal_moon.svg
-default_data.schema.json
-default_data.json
-corrections.json
-corrections.schema.json
-setup.cfg
-config

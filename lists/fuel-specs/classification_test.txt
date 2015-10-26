@@ -1,4 +1,0 @@
-.testr.conf
-__init__.py
-test_titles.py
-feature-groups.rst

@@ -1,7 +1,0 @@
-__init__.py
-swiftpolicy.py
-enforcer.py
-__init__.py
-policy_parser.py
-__init__.py
-setup.py

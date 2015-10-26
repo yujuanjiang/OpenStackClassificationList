@@ -1,6 +1,0 @@
-__init__.py
-__init__.py
-spin.js
-spin.jquery.js
-__init__.py
-setup.py

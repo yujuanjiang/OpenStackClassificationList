@@ -1,4 +1,0 @@
-babel.cfg
-boto.cfg
-setup.cfg
-config

@@ -1,5 +1,0 @@
-.testr.conf
-run_tests.sh
-test_cli.py
-__init__.py
-test-requirements.txt

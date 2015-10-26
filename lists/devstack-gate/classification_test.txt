@@ -1,7 +1,0 @@
-test-matrix.py
-.testr.conf
-test-functions.sh
-run-tests.sh
-features.yaml
-test-features.sh
-test-requirements.txt

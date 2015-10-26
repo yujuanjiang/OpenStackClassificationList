@@ -1,7 +1,0 @@
-groups.json
-groups-translations.make
-drupal-org-core.make
-events.json
-drupal-org.make
-build-groups.make
-config

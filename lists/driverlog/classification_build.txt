@@ -1,4 +1,0 @@
-default_data.schema.json
-default_data.json
-setup.cfg
-config

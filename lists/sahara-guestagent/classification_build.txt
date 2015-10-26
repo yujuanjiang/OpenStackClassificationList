@@ -1,3 +1,0 @@
-babel.cfg
-setup.cfg
-config

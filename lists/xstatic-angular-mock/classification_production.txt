@@ -1,5 +1,0 @@
-__init__.py
-__init__.py
-__init__.py
-angular-mock.js
-setup.py

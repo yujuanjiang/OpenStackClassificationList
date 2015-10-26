@@ -1,5 +1,0 @@
-setup.cfg
-xml.xsd
-wadl.xsd
-scrapy.cfg
-config

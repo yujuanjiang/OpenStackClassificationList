@@ -1,2 +1,0 @@
-unitedstack.png
-test.py

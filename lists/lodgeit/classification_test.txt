@@ -1,8 +1,0 @@
-advanced_features.png
-__init__.py
-runner.py
-__init__.py
-test_urls.py
-__init__.py
-test_api.py
-alfajor.ini

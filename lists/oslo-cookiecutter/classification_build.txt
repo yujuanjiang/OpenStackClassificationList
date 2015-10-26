@@ -1,4 +1,0 @@
-cookiecutter.json
-babel.cfg
-setup.cfg
-config

@@ -1,1 +1,0 @@
-os_any2array_spec.rb

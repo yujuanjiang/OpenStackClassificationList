@@ -1,7 +1,0 @@
-.testr.conf
-test_elementdeps.py
-__init__.py
-test_elements.py
-test_no_dup_filenames.py
-10-SYSTEMD_SYSTEM_UNIT_DIR.bash
-test-requirements.txt

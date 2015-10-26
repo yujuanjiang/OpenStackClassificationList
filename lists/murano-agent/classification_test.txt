@@ -1,3 +1,0 @@
-__init__.py
-test_agent.py
-test-requirements.txt

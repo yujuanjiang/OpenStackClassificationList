@@ -1,4 +1,0 @@
-babel.cfg
-migrate.cfg
-setup.cfg
-config

@@ -1,4 +1,0 @@
-__init__.py
-__init__.py
-run_mirror.py
-setup.py

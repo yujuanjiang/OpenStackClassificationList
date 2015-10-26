@@ -1,7 +1,0 @@
-PuppetMaster_Single_Instance.template
-hook-puppet.py
-50-heat-config-hook-puppet
-README.rst
-example-puppet-manifest.pp
-example-puppet-template.yaml
-chef-server.yaml

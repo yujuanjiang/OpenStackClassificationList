@@ -1,9 +1,0 @@
-packages.config
-OpenStack40.csproj
-App.config
-CustomServiceClientExample.csproj
-App.config
-SimpleStorageExample.csproj
-packages.config
-OpenStack45-PCL.csproj
-config

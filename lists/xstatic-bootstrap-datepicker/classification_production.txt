@@ -1,6 +1,0 @@
-__init__.py
-__init__.py
-__init__.py
-bootstrap-datepicker.js
-datepicker.css
-setup.py

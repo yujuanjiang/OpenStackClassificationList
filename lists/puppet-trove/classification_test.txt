@@ -1,2 +1,0 @@
-ini_setting_spec.rb
-trove_config_spec.rb

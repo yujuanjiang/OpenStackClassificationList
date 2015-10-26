@@ -1,3 +1,0 @@
-os_refresh_config.py
-__init__.py
-setup.py

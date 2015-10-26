@@ -1,3 +1,0 @@
-index_test.html
-its-bars-test.html
-openstack-community-affs.csv

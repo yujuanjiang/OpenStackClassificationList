@@ -1,6 +1,0 @@
-babel.cfg
-policy.json
-schema-image.json
-setup.cfg
-migrate.cfg
-config

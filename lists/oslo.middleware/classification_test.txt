@@ -1,8 +1,0 @@
-.testr.conf
-test_catch_errors.py
-__init__.py
-test_request_id.py
-test_correlation_id.py
-test_sizelimit.py
-run_cross_tests.sh
-test-requirements.txt

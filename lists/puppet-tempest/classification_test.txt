@@ -1,5 +1,0 @@
-init.pp
-ini_setting_spec.rb
-tempest_config_spec.rb
-tempest_glance_id_setter_spec.rb
-tempest_neutron_net_id_setter_spec.rb

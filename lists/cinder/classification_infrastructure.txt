@@ -1,8 +1,0 @@
-types_extra_specs.py
-qos_specs_manage.py
-qos_specs.py
-qos_spec.rng
-qos_specs.rng
-qos_specs.py
-018_add_qos_specs.py
-extra_specs_ops.py

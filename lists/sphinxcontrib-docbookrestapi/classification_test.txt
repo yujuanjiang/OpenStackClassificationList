@@ -1,3 +1,0 @@
-.testr.conf
-test_utils.py
-test-requirements.txt

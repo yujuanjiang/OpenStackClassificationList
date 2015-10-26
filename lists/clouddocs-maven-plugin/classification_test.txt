@@ -1,4 +1,0 @@
-GlossaryResolverTest.java
-CalabashHelperTest.java
-norm-test.xpl
-test-error.xpl

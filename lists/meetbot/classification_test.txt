@@ -1,4 +1,0 @@
-test-script-1.log.txt
-test-script-2.log.txt
-run_test.py
-test.py

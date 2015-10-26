@@ -1,3 +1,0 @@
-ip.filters
-setup.cfg
-config

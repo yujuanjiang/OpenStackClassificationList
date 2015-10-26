@@ -1,8 +1,0 @@
-version.py
-collect_config.py
-config_exception.py
-__init__.py
-apply_config.py
-value_types.py
-renderers.py
-setup.py

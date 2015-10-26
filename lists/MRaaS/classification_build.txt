@@ -1,7 +1,0 @@
-build.xml
-core-site.xml
-core-default.xml
-hdfs-site.xml
-mapred-site.xml
-pom.xml
-config

@@ -1,8 +1,0 @@
-classification_build.txt
-classification_test.txt
-classification_build.txt
-shell.txt
-classification_test.txt
-descriptors.txt
-libs.txt
-classification_others.txt

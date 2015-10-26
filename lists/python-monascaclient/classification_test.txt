@@ -1,6 +1,0 @@
-.testr.conf
-run_tests.sh
-test_shell.py
-__init__.py
-fakes.py
-test-requirements.txt

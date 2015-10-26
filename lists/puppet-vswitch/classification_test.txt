@@ -1,1 +1,0 @@
-vs_bridge_spec.rb

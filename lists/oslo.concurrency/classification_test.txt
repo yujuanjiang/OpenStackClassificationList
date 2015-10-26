@@ -1,8 +1,0 @@
-.testr.conf
-test_lockutils.py
-__init__.py
-test_processutils.py
-test_lockutils_eventlet.py
-__init__.py
-run_cross_tests.sh
-test-requirements.txt

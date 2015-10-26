@@ -1,5 +1,0 @@
-.testr.conf
-test.rst
-test.rst
-test.rst
-test-requirements.txt

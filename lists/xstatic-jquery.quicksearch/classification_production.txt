@@ -1,5 +1,0 @@
-__init__.py
-__init__.py
-jquery.quicksearch.js
-__init__.py
-setup.py

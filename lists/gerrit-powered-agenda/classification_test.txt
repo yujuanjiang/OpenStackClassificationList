@@ -1,5 +1,0 @@
-.testr.conf
-test_meeting.py
-__init__.py
-openstack-community-team-meeting.yaml
-test-requirements.txt

@@ -1,4 +1,0 @@
-l2-agent-config.erb
-openstackrc.erb
-default.neutron-server.erb
-init.neutron-plugin-openvswitch-agent.erb

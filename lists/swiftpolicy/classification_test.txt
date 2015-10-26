@@ -1,3 +1,0 @@
-__init__.py
-default.json
-test_swiftpolicy.py

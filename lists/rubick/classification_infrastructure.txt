@@ -1,6 +1,0 @@
-__init__.py
-lettuce_runner.py
-steps.py
-keystone_endpoints.py
-keystone_authtoken.py
-default.rb

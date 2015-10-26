@@ -1,4 +1,0 @@
-setup.cfg
-site.xml
-pom.xml
-config

@@ -1,2 +1,0 @@
-Microsoft.ServiceModel.Http.Test.dll
-Microsoft.ServiceModel.Http.Client.UnitTest.dll

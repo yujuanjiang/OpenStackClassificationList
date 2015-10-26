@@ -1,8 +1,0 @@
-migrate.cfg
-setup.cfg
-ansible.cfg
-rabbitmq.config
-ansible.cfg
-tempalte_dmesg.json
-tempalte_openstack.json
-config

@@ -1,7 +1,0 @@
-.testr.conf
-__init__.py
-base.py
-__init__.py
-test_nop.py
-test_glance.py
-test-requirements.txt

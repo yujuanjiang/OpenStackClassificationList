@@ -1,5 +1,0 @@
-__init__.py
-__init__.py
-__init__.py
-angular-cookies.js
-setup.py

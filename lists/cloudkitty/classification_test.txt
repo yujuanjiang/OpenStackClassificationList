@@ -1,4 +1,0 @@
-.testr.conf
-test_fake.py
-__init__.py
-test-requirements.txt
