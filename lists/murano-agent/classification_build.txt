@@ -1,0 +1,10 @@
+App.config
+SampleExecutionPlan.json
+WindowsAgent.csproj
+packages.config
+repositories.config
+App.config
+ExecutionPlanGenerator.csproj
+packages.config
+setup.cfg
+config

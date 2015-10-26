@@ -1,0 +1,10 @@
+doc-test.conf
+nova-testing.xml
+neutron-testing.xml
+glance-testing.xml
+section_objectstorage-features.xml
+section_networking_adv_operational_features.xml
+section_networking_adv_features.xml
+section_object-storage-features.xml
+test-stack.yml
+test-requirements.txt

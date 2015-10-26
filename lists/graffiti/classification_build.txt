@@ -1,0 +1,11 @@
+babel.cfg
+CapabilityType-os-compute-guest.json
+CapabilityType-trust.json
+CapabilityType_ApplicationDevelopment.json
+CapabilityType-os-compute-host.json
+CapabilityType-Samples.json
+Namespaces.json
+CapabilityType-os-compute-cpu.json
+CapabilityType-os-glance.json
+setup.cfg
+config

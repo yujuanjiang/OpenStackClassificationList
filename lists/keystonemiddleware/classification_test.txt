@@ -1,0 +1,9 @@
+.testr.conf
+__init__.py
+test_opts.py
+test_memcache_crypt.py
+utils.py
+client_fixtures.py
+test_auth_token_middleware.py
+test_s3_token_middleware.py
+test-requirements.txt

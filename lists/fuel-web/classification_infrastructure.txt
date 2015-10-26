@@ -1,0 +1,4 @@
+puppet_tips.rst
+puppet.py
+from_5_0_to_any_fix_puppet_manifests.py
+fencing-agent_spec.rb

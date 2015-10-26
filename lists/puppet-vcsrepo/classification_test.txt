@@ -1,0 +1,6 @@
+cvs_spec.rb
+hg_spec.rb
+bzr_spec.rb
+svn_spec.rb
+git_spec.rb
+README.markdown

@@ -1,0 +1,11 @@
+.testr.conf
+test.sh
+test_config.py
+test_import_exceptions.py
+__init__.py
+test_gittest.py
+test_comments.py
+__init__.py
+test_doctest.py
+test_local.py
+test-requirements.txt

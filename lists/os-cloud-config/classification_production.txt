@@ -1,0 +1,17 @@
+openstack-common.conf
+__init__.py
+__init__.py
+_clients.py
+keystone.py
+exception.py
+keystone_pki.py
+nodes.py
+__init__.py
+gettextutils.py
+__init__.py
+init_keystone.py
+generate_keystone_pki.py
+__init__.py
+register_nodes.py
+setup.py
+conf.py

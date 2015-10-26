@@ -1,0 +1,5 @@
+openstack-common.conf
+__init__.py
+bashate.py
+setup.py
+conf.py

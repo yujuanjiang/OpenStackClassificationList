@@ -1,0 +1,3 @@
+start-mysql.sh
+diskimage-create.sh
+setup.py

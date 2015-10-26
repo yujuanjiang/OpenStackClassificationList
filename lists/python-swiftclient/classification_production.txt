@@ -1,0 +1,12 @@
+version.py
+__init__.py
+shell.py
+multithreading.py
+command_helpers.py
+exceptions.py
+client.py
+utils.py
+swift
+setup.py
+conf.py
+swift.1

@@ -1,0 +1,7 @@
+.testr.conf
+__init__.py
+test_main.py
+test_os_refresh_config.py
+01-test
+40-error
+test-requirements.txt

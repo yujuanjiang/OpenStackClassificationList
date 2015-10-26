@@ -1,0 +1,8 @@
+identify-code-to-deprecate.rst
+api-v1.md
+ability_to_upload_a_complete_tempest_config.rst
+simplify-uploads-by-only-sending-pass-results.rst
+refstack-org-api-cloud-uuid.rst
+refstack-org-tcup-base.rst
+README.rst
+template.rst

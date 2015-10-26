@@ -1,0 +1,5 @@
+doc-test.conf
+unit_tests.xml
+section_objectstorage-features.xml
+test-stack.yml
+test-requirements.txt

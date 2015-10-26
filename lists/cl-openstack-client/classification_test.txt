@@ -1,0 +1,6 @@
+keystone.lisp
+openstack.lisp
+run-tests.lisp
+run-tests.sh
+cl-openstack-client-test.asd
+test-requirements.txt

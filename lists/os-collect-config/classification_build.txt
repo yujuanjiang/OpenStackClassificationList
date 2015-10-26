@@ -1,0 +1,3 @@
+setup.cfg
+os-collect-config-and-friends.svg
+config

@@ -1,0 +1,6 @@
+.testr.conf
+test_reviewers.py
+test_projectinfo.py
+__init__.py
+base.py
+test-requirements.txt

@@ -1,0 +1,7 @@
+.testr.conf
+run_tests.sh
+test_noop.py
+__init__.py
+test.ci
+test.py
+test-requirements.txt

@@ -1,0 +1,7 @@
+openstack-magnetodb.spec
+openstack-magnetodb-api-gunicorn
+openstack-magnetodb-api
+gunicorn27
+python-futures.spec
+python-scales.spec
+python-cassandradriver.spec
