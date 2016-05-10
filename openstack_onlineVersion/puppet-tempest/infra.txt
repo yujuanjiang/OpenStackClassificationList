@@ -1,0 +1,12 @@
+lib/puppet/parser/functions/os_concat.rb
+lib/puppet/provider/tempest_config/ini_setting.rb
+lib/puppet/provider/tempest_glance_id_setter/ruby.rb
+lib/puppet/provider/tempest_neutron_net_id_setter/ruby.rb
+lib/puppet/provider/tempest_quantum_net_id_setter/ruby.rb
+lib/puppet/type/tempest_config.rb
+lib/puppet/type/tempest_glance_id_setter.rb
+lib/puppet/type/tempest_neutron_net_id_setter.rb
+lib/puppet/type/tempest_quantum_net_id_setter.rb
+manifests/init.pp
+manifests/params.pp
+tests/init.pp

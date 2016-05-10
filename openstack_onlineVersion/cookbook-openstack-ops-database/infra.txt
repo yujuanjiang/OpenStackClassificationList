@@ -1,0 +1,8 @@
+attributes/default.rb
+recipes/client.rb
+recipes/mysql-client.rb
+recipes/mysql-server.rb
+recipes/openstack-db.rb
+recipes/postgresql-client.rb
+recipes/postgresql-server.rb
+recipes/server.rb

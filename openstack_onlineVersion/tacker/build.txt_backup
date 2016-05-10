@@ -1,0 +1,6 @@
+doc/Makefile
+doc/Makefile
+neutron/plugins/openvswitch/agent/xenapi/contrib/build-rpm.sh
+doc/pom.xml
+doc/source/docbkx/docbkx-example/pom.xml
+tools/install_venv.py

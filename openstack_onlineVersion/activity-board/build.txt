@@ -1,0 +1,8 @@
+browser/Makefile
+dashboard/VizGrimoireJS/Makefile
+Makefile
+newbrowser/Makefile
+reports/2014-q4/latex/makefile
+reports/2015-q1/latex/makefile
+reports/2015-q2/latex/makefile
+VizGrimoireJS/Makefile

@@ -1,0 +1,17 @@
+run_tests.sh
+tests/functional/test_swiftclient.py
+tests/test_client.py
+tests/test_command_helpers.py
+tests/test_multithreading.py
+tests/test_shell.py
+tests/test_swiftclient.py
+tests/test_utils.py
+tests/unit/test_command_helpers.py
+tests/unit/test_multithreading.py
+tests/unit/test_shell.py
+tests/unit/test_swiftclient.py
+tests/unit/test_utils.py
+tests/unit/utils.py
+tests/utils.py
+tools/test-requires
+tox.ini

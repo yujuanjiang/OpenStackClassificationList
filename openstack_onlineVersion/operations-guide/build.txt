@@ -1,0 +1,2 @@
+doc/openstack-ops/pom.xml
+doc/src/docbkx/openstack-ops/pom.xml

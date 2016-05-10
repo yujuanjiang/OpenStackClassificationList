@@ -1,0 +1,12 @@
+etc/status/README.rst
+etc/status/.gitignore
+.gitignore
+etc/status/public_html/images/black.png
+etc/status/public_html/images/green.png
+etc/status/public_html/images/grey.png
+etc/status/public_html/images/line-angle.png
+etc/status/public_html/images/line.png
+etc/status/public_html/images/line-t.png
+etc/status/public_html/images/red.png
+.gitreview
+.mailmap

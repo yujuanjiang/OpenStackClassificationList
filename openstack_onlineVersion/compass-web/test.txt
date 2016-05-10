@@ -1,0 +1,8 @@
+public/ods/ui/features/features_test.html
+public/ods/ui/host_config/host_config_test.html
+public/ods/ui/install_review/install_review_test.html
+public/ods/ui/networking/networking_test.html
+public/ods/ui/security/security_test.html
+public/ods/ui/servers/servers_test.html
+public/ods/ui/switch_entry/servers_test.html
+public/ods/ui/welcome/welcome_test.html

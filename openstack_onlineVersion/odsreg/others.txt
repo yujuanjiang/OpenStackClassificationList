@@ -1,0 +1,4 @@
+.gitignore
+cfp/static/openstack-logo.png
+cfp/static/openstack-page-bkg.jpg
+.gitreview

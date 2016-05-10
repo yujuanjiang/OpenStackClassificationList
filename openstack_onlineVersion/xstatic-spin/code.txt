@@ -1,0 +1,5 @@
+xstatic/__init__.py
+xstatic/pkg/__init__.py
+xstatic/pkg/spin/data/spin.jquery.js
+xstatic/pkg/spin/data/spin.js
+xstatic/pkg/spin/__init__.py

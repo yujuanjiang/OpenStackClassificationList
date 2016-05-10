@@ -1,0 +1,4 @@
+horizon_dashboard/README.rst
+.gitignore
+horizon_dashboard/.gitignore
+.gitreview

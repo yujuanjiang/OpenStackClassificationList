@@ -1,0 +1,16 @@
+CHANGELOG
+.fixtures.yml
+.gemfile
+.gitignore
+.gitreview
+LICENSE
+Modulefile
+README.md
+templates/local_settings.py.erb
+.travis.yml
+spec/classes/horizon_init_spec.rb
+spec/classes/horizon_wsgi_apache_spec.rb
+spec/shared_examples.rb
+spec/spec_helper.rb
+spec/unit/puppet/parser/functions/os_any2array_spec.rb
+spec/fixtures/override_local_settings.py.erb

@@ -1,0 +1,14 @@
+examples/ironic.pp
+manifests/api.pp
+manifests/client.pp
+manifests/conductor.pp
+manifests/db/mysql/host_access.pp
+manifests/db/mysql.pp
+manifests/drivers/ipmi.pp
+manifests/drivers/pxe.pp
+manifests/init.pp
+manifests/keystone/auth.pp
+manifests/params.pp
+lib/puppet/provider/ironic_config/ini_setting.rb
+lib/puppet/provider/ironic.rb
+lib/puppet/type/ironic_config.rb

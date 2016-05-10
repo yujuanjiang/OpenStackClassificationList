@@ -1,0 +1,8 @@
+MANIFEST.in
+README.txt
+setup.py
+xstatic/__init__.py
+xstatic/pkg/bootstrap_datepicker/data/bootstrap-datepicker.js
+xstatic/pkg/bootstrap_datepicker/data/datepicker.css
+xstatic/pkg/bootstrap_datepicker/__init__.py
+xstatic/pkg/__init__.py

@@ -1,0 +1,13 @@
+LICENSE
+README.md
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+doc/.gitignore
+doc/source/index.rst
+MANIFEST.in
+doc/source/conf.py
+openstack-common.conf
+setup.cfg
+setup.py

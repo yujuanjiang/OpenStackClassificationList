@@ -1,0 +1,6 @@
+doc/image-api-v1/pom.xml
+doc/image-api-v2/pom.xml
+doc/pom.xml
+openstack-image-service-api/pom.xml
+openstack-image-service-api/src/markdown/pom.xml
+openstack-image-service-dev/pom.xml

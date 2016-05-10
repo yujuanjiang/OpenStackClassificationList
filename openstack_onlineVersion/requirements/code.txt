@@ -1,0 +1,4 @@
+detail.py
+tests/__init__.py
+tools/update.sh
+update.py

@@ -1,0 +1,16 @@
+run_tests.sh
+tests/installer/test_drones.py
+tests/installer/test_processors.py
+tests/installer/test_sequences.py
+tests/installer/test_setup_params.py
+tests/installer/test_utils.py
+tests/installer/test_validators.py
+tests/modules/test_ospluginutils.py
+tests/modules/test_puppet.py
+tests/test_base.py
+tests/test_ospluginutils.py
+tests/test_plugin_serverprep.py
+tests/test.py
+tests/test_validators.py
+tools/test-requires
+tox.ini

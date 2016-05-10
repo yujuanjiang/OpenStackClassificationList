@@ -1,0 +1,7 @@
+Deployment/cloudbase-init/config/cloudbase-init.conf
+Deployment/ExecutionPlan/1.CreatePrimaryDC/CreatePrimaryDC.json
+Deployment/ExecutionPlan/2.JoinDomain/out.json
+Deployment/ExecutionPlan/3.CreateSecondaryDC/out.json
+Deployment/ExecutionPlan/4.JoinAndPromote/out.json
+Deployment/ExecutionPlan/GetDnsIpAddressesOnDc/out.json
+Deployment/ExecutionPlan/InstallIIS/out.json

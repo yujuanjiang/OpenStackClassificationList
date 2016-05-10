@@ -1,0 +1,16 @@
+README.rst
+.gitignore
+.gitreview
+.mailmap
+CONTRIBUTING.md
+MANIFEST.in
+openstack-common.conf
+tools/pip-requires
+patchset-created
+change-merged
+jeepyb/config/openstackwatch.ini-sample
+jeepyb/config/subscribers-sample
+setup.cfg
+gerritx/openstack/common/setup.py
+jeepyb/openstack/common/setup.py
+setup.py

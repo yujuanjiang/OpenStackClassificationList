@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+.gitreview
+.testr.conf
+setup.cfg
+sphinxcontrib/docbookrestapi/setup.py
+sphinxcontrib/setup.py
+setup.py

@@ -1,0 +1,8 @@
+integration/create_vm
+integration/redstack
+scripts/create_vm
+scripts/files/keys/authorized_keys
+scripts/functions_qemu
+scripts/image-projects-list
+scripts/projects-list
+scripts/redstack

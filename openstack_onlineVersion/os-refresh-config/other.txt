@@ -1,0 +1,12 @@
+.gitignore
+.gitreview
+LICENSE
+os-refresh-config
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt
+tests/configure.d/40-error

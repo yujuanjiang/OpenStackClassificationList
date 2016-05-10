@@ -1,0 +1,4 @@
+.gitignore
+MANIFEST.in
+README.txt
+setup.py

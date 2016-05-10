@@ -1,0 +1,10 @@
+>>> pycadf/infra.txt: 1 bladfafhafadfa.txt
+tools/debug_helper.sh
+>>> python-keystoneclient/infra.txt: 1 bladfafhafadfa.txt
+tools/debug_helper.sh
+>>> keystonemiddleware/infra.txt: 1 bladfafhafadfa.txt
+tools/debug_helper.sh
+>>> ceilometer/infra.txt: 1 bladfafhafadfa.txt
+tools/debug_helper.sh
+>>> keystone/infra.txt: 1 bladfafhafadfa.txt
+tools/debug_helper.sh

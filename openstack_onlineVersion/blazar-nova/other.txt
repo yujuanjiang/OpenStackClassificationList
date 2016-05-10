@@ -1,0 +1,14 @@
+etc/nova.conf.example
+.gitignore
+.gitreview
+HACKING.rst
+LICENSE
+MANIFEST.in
+openstack-common.conf
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

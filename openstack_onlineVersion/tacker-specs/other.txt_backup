@@ -1,0 +1,14 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+specs/juno/api.rst
+specs/juno/example.rst
+specs/skeleton.rst
+specs/template.rst
+doc/source/specs
+doc/source/conf.py
+setup.cfg
+setup.py

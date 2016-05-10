@@ -1,0 +1,12 @@
+LICENSE
+README.md
+.gitreview
+solver_scheduler.rst
+etc/nova/nova.conf.sample
+etc/nova/solver_scheduler_conf.sample
+installation/install.sh
+installation/uninstall.sh
+installation/install
+installation/uninstall
+install_manager
+solver-scheduler

@@ -1,0 +1,9 @@
+CHANGELOG
+.fixtures.yml
+.gemfile
+.gitignore
+.gitreview
+LICENSE
+Modulefile
+README.md
+.travis.yml

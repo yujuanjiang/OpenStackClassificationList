@@ -1,0 +1,5 @@
+docs/0.0.1/Makefile
+docs/Makefile
+pecan/scaffolds/base/setup.cfg_tmpl
+pecan/scaffolds/rest-api/setup.cfg_tmpl
+pecan/templates/project/setup.cfg_tmpl

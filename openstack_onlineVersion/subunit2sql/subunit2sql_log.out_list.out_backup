@@ -1,0 +1,11 @@
+subunit2sql/db/api.py
+subunit2sql/db/models.py
+subunit2sql/exceptions.py
+subunit2sql/migrations/env.py
+subunit2sql/migrations/versions/13d819bbb0ff_create_missing_indexes.py
+subunit2sql/migrations/versions/1f92cfe8a6d3_create_runs_table.py
+subunit2sql/migrations/versions/4ca26dac400e_create_metadata_tables.py
+subunit2sql/read_subunit.py
+subunit2sql/shell.py
+subunit2sql/subunit.py
+subunit2sql/write_subunit.py

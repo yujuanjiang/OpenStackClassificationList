@@ -1,0 +1,5 @@
+manifests/init.pp
+manifests/params.pp
+manifests/passenger.pp
+tests/init.pp
+templates/puppet-dashboard-sysconfig

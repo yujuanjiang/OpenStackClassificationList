@@ -1,0 +1,8 @@
+.fixtures.yml
+Gemfile
+LICENSE
+Modulefile
+Rakefile
+README.md
+spec/init_spec.rb
+spec/spec_helper.rb

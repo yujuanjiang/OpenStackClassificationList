@@ -1,0 +1,10 @@
+CHANGELOG
+.fixtures.yml
+.gemfile
+.gitignore
+.gitreview
+LICENSE
+Modulefile
+README.md
+templates/local_settings.py.erb
+.travis.yml

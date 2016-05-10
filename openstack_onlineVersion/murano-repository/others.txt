@@ -1,0 +1,6 @@
+muranorepository/locale/muranorepository.pot
+etc/init.d/README.rst
+metadata_service/tools/conf/README
+muranorepository/locale/README
+.gitignore
+.gitreview

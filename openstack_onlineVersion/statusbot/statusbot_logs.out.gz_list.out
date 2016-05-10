@@ -1,0 +1,12 @@
+LICENSE
+openstack-common.conf
+setup.py
+statusbot/bot.py
+statusbot/__init__.py
+statusbot/openstack/common/__init__.py
+statusbot/openstack/common/setup.py
+statusbot/openstack/common/version.py
+statusbot/openstack/__init__.py
+tools/pip-requires
+tools/test-requires
+tox.ini

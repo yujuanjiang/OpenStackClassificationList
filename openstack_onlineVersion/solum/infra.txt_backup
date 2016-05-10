@@ -1,0 +1,10 @@
+contrib/build-farm/images/drone/Dockerfile
+contrib/build-farm/images/jenkins/Dockerfile
+contrib/infra/build-farm/images/drone/Dockerfile
+contrib/infra/build-farm/images/guestagent/Dockerfile
+contrib/infra/build-farm/images/jenkins/Dockerfile
+contrib/infra/source-control/images/gitolite/Dockerfile
+examples/language-packs/chef/Dockerfile
+examples/language-packs/go/Dockerfile
+tools/check_for_alembic_branches.sh
+tools/config/generate_sample.sh

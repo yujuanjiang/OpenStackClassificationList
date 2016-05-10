@@ -1,0 +1,9 @@
+doc/marconi-api-ref/pom.xml
+doc/marconi-get-started/pom.xml
+doc/pom.xml
+doc/user-guide/pom.xml
+doc/user-guide/zaqar-api-ref/pom.xml
+doc/user-guide/zaqar-get-started/pom.xml
+doc/zaqar-api-ref/pom.xml
+doc/zaqar-get-started/pom.xml
+tools/install_venv.py

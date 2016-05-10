@@ -1,0 +1,5 @@
+src/deb/control/postinst
+src/deb/control/postrm
+src/deb/control/prerm
+src/deb/etc/persister-config.yml-sample
+src/deb/init/mon-persister.conf

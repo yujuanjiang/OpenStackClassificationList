@@ -1,0 +1,4 @@
+test/README.md
+tests/manual/README.md
+.gitignore
+.gitreview

@@ -1,0 +1,4 @@
+xstatic/__init__.py
+xstatic/pkg/hogan/data/hogan.js
+xstatic/pkg/hogan/__init__.py
+xstatic/pkg/__init__.py

@@ -1,0 +1,2 @@
+deployment/centos/magnetodb-specs/openstack-magnetodb-api
+deployment/centos/magnetodb-specs/openstack-magnetodb-api-gunicorn

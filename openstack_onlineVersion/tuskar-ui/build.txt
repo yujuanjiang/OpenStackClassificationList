@@ -1,0 +1,6 @@
+django-openstack/Makefile
+doc/Makefile
+docs/Makefile
+horizon/Makefile
+Makefile
+openstack-dashboard/Makefile

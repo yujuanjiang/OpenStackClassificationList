@@ -1,0 +1,4 @@
+tests/unit/test_ci_configuration.py
+tests/unit/test_config_files.py
+tests/unit/test_main.py
+tox.ini

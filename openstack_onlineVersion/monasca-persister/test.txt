@@ -1,0 +1,4 @@
+src/test/java/com/hpcloud/KafkaConsumerTest.java
+src/test/java/com/hpcloud/MonConsumerTest.java
+src/test/java/com/hpcloud/mon/persister/MonPersisterConsumerTest.java
+src/test/java/com/hpcloud/mon/persister/Test.java

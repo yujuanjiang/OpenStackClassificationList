@@ -1,0 +1,17 @@
+spec/classes/ceilometer_agent_auth_spec.rb
+spec/classes/ceilometer_agent_central_spec.rb
+spec/classes/ceilometer_agent_compute_spec.rb
+spec/classes/ceilometer_agent_notification_spec.rb
+spec/classes/ceilometer_alarm_evaluator_spec.rb
+spec/classes/ceilometer_alarm_notifier_spec.rb
+spec/classes/ceilometer_api_spec.rb
+spec/classes/ceilometer_client_spec.rb
+spec/classes/ceilometer_collector_spec.rb
+spec/classes/ceilometer_config_spec.rb
+spec/classes/ceilometer_db_mysql_spec.rb
+spec/classes/ceilometer_db_spec.rb
+spec/classes/ceilometer_expirer_spec.rb
+spec/classes/ceilometer_init_spec.rb
+spec/classes/ceilometer_keystone_auth_spec.rb
+spec/shared_examples.rb
+spec/spec_helper.rb

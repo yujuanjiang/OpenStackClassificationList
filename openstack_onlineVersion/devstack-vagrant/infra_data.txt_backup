@@ -1,0 +1,3 @@
+puppet/modules/vcsrepo/Modulefile
+puppet/modules/devstack/files/compute.conf
+puppet/modules/devstack/files/manager.conf

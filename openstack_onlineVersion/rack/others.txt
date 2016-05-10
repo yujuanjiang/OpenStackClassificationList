@@ -1,0 +1,8 @@
+rack/db/sqlalchemy/migrate_repo/README
+rack/openstack/common/README
+tools/ansible-openstack-log/README.md
+tools/ansible-openstack/openstack-ansible-modules/README.md
+tools/ansible-openstack/README.md
+tools/fluentd-plugin-udp_msgpack/README.md
+.gitignore
+.gitreview

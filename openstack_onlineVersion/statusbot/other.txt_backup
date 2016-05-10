@@ -1,0 +1,5 @@
+LICENSE
+.gitignore
+.gitreview
+openstack-common.conf
+tools/pip-requires

@@ -1,0 +1,15 @@
+glance/store/tests/base.py
+glance/store/tests/fakes.py
+glance/store/tests/utils.py
+tests/unit/base.py
+tests/unit/test_cinder_store.py
+tests/unit/test_filesystem_store.py
+tests/unit/test_gridfs_store.py
+tests/unit/test_http_store.py
+tests/unit/test_rbd_store.py
+tests/unit/test_s3_store.py
+tests/unit/test_sheepdog_store.py
+tests/unit/test_store_base.py
+tests/unit/test_swift_store.py
+tests/unit/test_vmware_store.py
+tox.ini

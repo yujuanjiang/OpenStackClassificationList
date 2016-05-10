@@ -1,0 +1,4 @@
+.gitignore
+xstatic/pkg/bootstrap_scss/data/fonts/bootstrap/glyphicons-halflings-regular.svg
+xstatic/pkg/bootstrap_scss/data/img/glyphicons-halflings.png
+xstatic/pkg/bootstrap_scss/data/img/glyphicons-halflings-white.png

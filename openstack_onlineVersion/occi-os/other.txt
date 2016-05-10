@@ -1,0 +1,8 @@
+api/extensions/README.rst
+api-paste.ini
+Authors
+doc/occi.md
+.gitignore
+LICENSE
+README.md
+setup.py

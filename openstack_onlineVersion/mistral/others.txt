@@ -1,0 +1,4 @@
+contrib/devstack/README.rst
+mistral-demo-app/README.md
+.gitignore
+.gitreview

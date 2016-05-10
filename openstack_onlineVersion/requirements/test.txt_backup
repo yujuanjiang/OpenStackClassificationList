@@ -1,0 +1,7 @@
+tests/test_update_pbr.py
+tests/test_update.py
+tests/test_update_suffix.py
+tools/test-requires
+tox.ini
+tests/files/pbr_setup.cfg
+tests/files/setup.cfg

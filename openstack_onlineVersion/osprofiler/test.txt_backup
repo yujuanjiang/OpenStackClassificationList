@@ -1,0 +1,14 @@
+tests/cmd/test_shell.py
+tests/dummy.py
+tests/notifiers/test_base.py
+tests/notifiers/test_messaging.py
+tests/parsers/test_ceilometer.py
+tests/test_notifier.py
+tests/test_profiler.py
+tests/test.py
+tests/test_sqlalchemy.py
+tests/test_utils.py
+tests/test_web.py
+tox.ini
+requirements.txt
+test-requirements.txt

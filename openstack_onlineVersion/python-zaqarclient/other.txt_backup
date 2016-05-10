@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+HACKING.rst
+openstack-common.conf
+tools/pip-requires
+setup.cfg
+setup.py

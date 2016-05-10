@@ -1,0 +1,12 @@
+spec/api-redhat_spec.rb
+spec/api_spec.rb
+spec/client-redhat_spec.rb
+spec/client_spec.rb
+spec/db_spec.rb
+spec/default_spec.rb
+spec/identity_registration_spec.rb
+spec/image_upload_spec.rb
+spec/keystone_registration_spec.rb
+spec/registry-redhat_spec.rb
+spec/registry_spec.rb
+spec/spec_helper.rb

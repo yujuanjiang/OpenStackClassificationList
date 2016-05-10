@@ -1,0 +1,9 @@
+bin/billistix-api
+bin/billistix-central
+bin/billistix-recorder
+bin/billistix-server
+bin/billistix-sync
+bin/bufunfa-api
+bin/bufunfa-central
+bin/bufunfa-recorder
+bin/bufunfa-sync

@@ -1,0 +1,3 @@
+tests/policies/default.json
+tests/test_CWpolicy.sh
+tests/test_swiftpolicy.py

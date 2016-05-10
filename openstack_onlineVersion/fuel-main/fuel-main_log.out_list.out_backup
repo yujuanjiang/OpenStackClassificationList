@@ -1,0 +1,16 @@
+astute
+bin/agent
+binaries
+bin/create_release
+bin/deploy
+cooks
+fuel
+mcollective/modules/one/files/file_one
+naily/bin/nailyd
+netcheck.py
+orchestrator/bin/orchestrator
+os/centos/comps.xml
+recipes-library
+scripts/ci/sample-cook/recipes/crazy
+shotgun/Shotgun.egg-info/not-zip-safe
+utils/jenkins/init.d/nailgun

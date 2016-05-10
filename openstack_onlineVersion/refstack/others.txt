@@ -1,0 +1,11 @@
+alembic/README
+defcore/README.rst
+doc/README.md
+refstack/tools/execute_test/README.rst
+refstack/tools/tester/README.rst
+specs/README.rst
+.gitignore
+refstack/static/bootstrap/fonts/glyphicons-halflings-regular.svg
+refstack/static/bootstrap/serve/fonts/glyphicons-halflings-regular.svg
+refstack/static/openid.png
+.gitreview

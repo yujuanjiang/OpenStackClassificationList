@@ -1,0 +1,3 @@
+tools/generate_authors.sh
+tools/install_venv.py
+tools/with_venv.sh

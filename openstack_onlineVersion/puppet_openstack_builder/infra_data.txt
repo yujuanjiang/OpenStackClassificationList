@@ -1,0 +1,5 @@
+contrib/aptira/puppet/config.yaml
+contrib/aptira/puppet/hiera.yaml
+contrib/aptira/puppet/user.regcon.yaml
+contrib/aptira/puppet/user.RegionOne.yaml
+contrib/aptira/puppet/user.yaml

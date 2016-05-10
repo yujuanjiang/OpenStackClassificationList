@@ -1,0 +1,2 @@
+templates/default/libvirtd-ssh-config
+templates/default/rootwrap.conf

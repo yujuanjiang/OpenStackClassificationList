@@ -1,0 +1,9 @@
+baremetal-mkinitrd.sh
+diskimage_builder/elements.py
+diskimage_builder/__init__.py
+elements/__init__.py
+elements/os-svc-install/__init__.py
+elements/os-svc-install/tests/__init__.py
+phy-mkinitrd.sh
+tests/__init__.py
+udev/firmware.sh

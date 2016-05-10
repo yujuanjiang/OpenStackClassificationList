@@ -1,0 +1,6 @@
+stacks/1box.yaml
+stacks/all-by-class.yaml
+stacks/all-components.yaml
+stacks/keystone-autoscale.yaml
+stacks/one-component.yaml
+stacks/rabbitmq.yaml

@@ -1,0 +1,5 @@
+dashboard/doc/Makefile
+dashboard/Makefile
+docs/src/glazier-manual/pom.xml
+manuals/pom.xml
+windc/doc/Makefile

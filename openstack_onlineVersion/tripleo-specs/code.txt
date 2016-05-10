@@ -1,0 +1,3 @@
+tests/__init__.py
+tripleo-specs/__init__.py
+tripleo-specs/tests/__init__.py

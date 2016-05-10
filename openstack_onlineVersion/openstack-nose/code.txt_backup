@@ -1,0 +1,5 @@
+novanose.py
+openstack/nose_plugin.py
+openstack/nose.py
+openstack/__init__.py
+setup.py

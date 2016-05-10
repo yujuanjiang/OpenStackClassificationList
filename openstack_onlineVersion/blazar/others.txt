@@ -1,0 +1,10 @@
+climate/locale/climate.pot
+climate/db/migration/alembic_migrations/versions/README
+climate/db/migration/README
+climate/locale/README
+contrib/devstack/README.rst
+contrib/tempest/README.rst
+.gitignore
+doc/source/images/blazar-architecture.png
+doc/source/images/climate-architecture.png
+.gitreview

@@ -1,0 +1,6 @@
+filler/README.rst
+swift-filer/README.rst
+swift-filler.py/README.rst
+.gitignore
+.gitreview
+.mailmap

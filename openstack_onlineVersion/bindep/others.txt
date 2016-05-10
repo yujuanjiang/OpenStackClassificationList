@@ -1,0 +1,4 @@
+.gitignore
+doc/source/static/openstack_logo.png
+doc/source/static/header_bg.jpg
+.gitreview

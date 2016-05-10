@@ -1,0 +1,14 @@
+ceilometer-pollster/README
+kwapi/plugins/rrd/static/select2/README.md
+pollster/README
+.gitignore
+doc/source/bus.png
+doc/source/collector.png
+doc/source/layered_architecture.png
+doc/source/message_format.png
+doc/source/webpage.png
+kwapi/plugins/rrd/static/favicon.png
+kwapi/plugins/rrd/static/select2/select2.png
+kwapi/plugins/rrd/static/select2/select2x2.png
+kwapi/plugins/rrd/static/header.jpg
+.gitreview

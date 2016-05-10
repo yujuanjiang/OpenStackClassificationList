@@ -1,0 +1,9 @@
+oslo/sphinx/theme/openstack/static/jquery.tweet.js
+oslo/sphinx/intersphinx.py
+oslosphinx/intersphinx.py
+oslo/sphinx/theme/openstack/layout.html
+oslosphinx/theme/openstack/layout.html
+oslo/__init__.py
+oslo/sphinx/__init__.py
+oslosphinx/__init__.py
+setup.py

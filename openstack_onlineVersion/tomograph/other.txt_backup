@@ -1,0 +1,16 @@
+doc/screenshots/client-server-graphite.png
+doc/screenshots/client-server-zipkin.png
+doc/screenshots/zipkin-glance-image-list.png
+doc/openstack-patches/README.md
+README.md
+.gitreview
+doc/openstack-patches/glance-client-stable-folsom.patch
+doc/openstack-patches/glance-stable-folsom.patch
+doc/openstack-patches/keystone-stable-folsom.patch
+doc/openstack-patches/nova-stable-folsom.patch
+doc/source/index.rst
+doc/source/conf.py
+tools/pip-requires
+tomograph/backends/zipkin/generated/scribe/scribe-remote
+setup.cfg
+setup.py

@@ -1,0 +1,6 @@
+ospurge/tests/client_fixtures.py
+ospurge/tests/test_os_purge.py
+ospurge/tests/test_ospurge.py
+tox.ini
+requirements.txt
+test-requirements.txt

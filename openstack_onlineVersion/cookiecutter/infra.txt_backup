@@ -1,0 +1,4 @@
+{{cookiecutter.repo_name}}/tox.ini
+package/tox.ini
+{{project.repo_name}}/tox.ini
+repo_name/tox.ini

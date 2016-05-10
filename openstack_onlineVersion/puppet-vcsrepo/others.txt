@@ -1,0 +1,3 @@
+spec/unit/puppet/type/README.markdown
+.gitignore
+.gitreview

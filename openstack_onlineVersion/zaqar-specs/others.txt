@@ -1,0 +1,4 @@
+.gitignore
+specs/.gitignore
+.gitreview
+.mailmap

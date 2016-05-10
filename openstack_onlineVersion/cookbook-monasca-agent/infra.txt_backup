@@ -1,0 +1,7 @@
+recipes/default.rb
+recipes/dogstatsd-python.rb
+recipes/dogstatsd-ruby.rb
+recipes/mon-agent.rb
+recipes/mon-handler.rb
+recipes/plugin_cfg.rb
+recipes/repository.rb

@@ -1,0 +1,4 @@
+tuskar/api/templates/compute.yaml
+tuskar/api/templates/not_compute.yaml
+tuskar/api/templates/overcloud.yaml
+etc/tuskar/nova_overcloud_config.yml

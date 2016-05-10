@@ -1,0 +1,10 @@
+README
+LICENSE
+.gitignore
+.gitreview
+src/main/resources/index.jelly
+src/main/resources/org/jenkinsci/plugins/ZMQEventPublisher/config.jelly
+src/main/resources/org/jenkinsci/plugins/ZMQEventPublisher/HudsonNotificationProperty/config.jelly
+src/main/resources/org/jenkinsci/plugins/ZMQEventPublisher/HudsonNotificationProperty/global.jelly
+run-fast
+src/main/webapp/help-globalConfig.html

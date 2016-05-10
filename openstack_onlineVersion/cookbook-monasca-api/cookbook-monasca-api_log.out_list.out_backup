@@ -1,0 +1,3 @@
+files/default/hpmiddleware-keystore-development.jks
+files/default/hpmiddleware-keystore-production.jks
+files/default/hpmiddleware-truststore.jks

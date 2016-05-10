@@ -1,0 +1,17 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+doc/source/readme.rst
+specs/juno/common-glossary-setup.rst
+specs/juno/example.rst
+specs/juno/heat-templates.rst
+specs/skeleton.rst
+specs/template.rst
+template.rst
+doc/source/specs
+doc/source/conf.py
+setup.cfg
+setup.py

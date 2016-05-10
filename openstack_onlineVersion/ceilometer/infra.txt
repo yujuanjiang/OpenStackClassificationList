@@ -1,0 +1,3 @@
+tools/enable_notifications.sh
+tools/init_testr_if_needed.sh
+tools/make_test_data.sh

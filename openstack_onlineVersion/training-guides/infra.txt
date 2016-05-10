@@ -1,0 +1,5 @@
+doc/training-guides/training-labs/Vagrantfile
+labs/config/deploy.vagrant
+labs/config/scripts.nodeinit_vagrant
+labs/Vagrantfile
+training-labs/Vagrantfile

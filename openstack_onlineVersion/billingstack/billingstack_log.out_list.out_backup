@@ -1,0 +1,11 @@
+bin/billingstack-api
+bin/billingstack-biller
+bin/billingstack-central
+bin/billingstack-collector
+bin/billingstack-db-manage
+bin/billingstack-identity-api
+bin/billingstack-manage
+bin/billingstack-pg-gateway
+bin/billingstack-rater
+bin/billingstack-rpc-zmq-receiver
+tools/setup-requires

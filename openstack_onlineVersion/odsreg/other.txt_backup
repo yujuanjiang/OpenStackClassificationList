@@ -1,0 +1,14 @@
+cfp/static/openstack-logo.png
+LICENSE
+README.rst
+.gitignore
+.gitreview
+cfp/static/openstack-page-bkg.jpg
+cfp/static/close.gif
+cfp/static/edit.gif
+cfp/static/loop.gif
+cfp/static/odsreg.css
+event.json.sample
+local_settings.py.sample
+slots.json.sample
+topics.json.sample

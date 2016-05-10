@@ -1,0 +1,8 @@
+.gitignore
+docs/source/debug-middleware-1.png
+docs/source/debug-middleware-2.png
+pecan/middleware/resources/pecan.png
+pecan/scaffolds/base/public/images/logo.png
+pecan/templates/project/public/images/logo.png
+pecan/tests/static/self.png
+.gitreview

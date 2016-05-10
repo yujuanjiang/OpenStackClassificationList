@@ -1,0 +1,16 @@
+designate-specs.sublime-project
+doc/source/conf.py
+doc/source/index.rst
+doc/source/specs
+.gitignore
+.gitreview
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+specs/juno/example.rst
+specs/juno/zone-and-record-totalcount.rst
+specs/juno/zone-migration-between-tenants.rst
+specs/template.rst

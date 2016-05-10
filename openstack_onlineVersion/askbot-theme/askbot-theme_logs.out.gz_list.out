@@ -1,0 +1,15 @@
+config.rb
+footer
+__init__.py
+launchpad.py
+LICENSE
+os/media/images/favicon.gif
+os/media/sass/extra.scss
+os/media/sass/.extra.scss.swp
+os/media/style/extra.css
+os/templates/base.html
+os/templates/maintenance.html
+os/templates/meta/fonts.html
+os/templates/widgets/footer.html
+os/templates/widgets/meta_nav.html
+os/templates/widgets/user_navigation.html

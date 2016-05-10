@@ -1,0 +1,8 @@
+bin/README.txt
+scripts/README.txt
+test/README.md
+tests/README.md
+test/Tests/README.txt
+.gitignore
+hpcloud-logo.png
+.gitreview

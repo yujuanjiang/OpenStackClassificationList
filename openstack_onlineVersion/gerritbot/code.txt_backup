@@ -1,0 +1,8 @@
+gerritbot/bot.py
+gerritbot/openstack/common/version.py
+gerritbot/version.py
+gerritbot/openstack/common/setup.py
+gerritbot/__init__.py
+gerritbot/openstack/common/__init__.py
+gerritbot/openstack/__init__.py
+setup.py

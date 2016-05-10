@@ -1,0 +1,8 @@
+oslo.vmware/locale/oslo.vmware-log-critical.pot
+oslo.vmware/locale/oslo.vmware-log-error.pot
+oslo.vmware/locale/oslo.vmware-log-info.pot
+oslo.vmware/locale/oslo.vmware-log-warning.pot
+oslo.vmware/locale/oslo.vmware.pot
+.gitignore
+.gitreview
+.mailmap

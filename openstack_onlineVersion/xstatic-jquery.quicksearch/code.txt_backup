@@ -1,0 +1,5 @@
+xstatic/pkg/jquery_quicksearch/data/jquery.quicksearch.js
+xstatic/__init__.py
+xstatic/pkg/__init__.py
+xstatic/pkg/jquery_quicksearch/__init__.py
+setup.py

@@ -1,0 +1,9 @@
+openstack_auth/tests/data.py
+openstack_auth/tests/data_v2.py
+openstack_auth/tests/data_v3.py
+openstack_auth/tests/models.py
+openstack_auth/tests/run_tests.py
+openstack_auth/tests/settings.py
+openstack_auth/tests/tests.py
+openstack_auth/tests/urls.py
+tox.ini

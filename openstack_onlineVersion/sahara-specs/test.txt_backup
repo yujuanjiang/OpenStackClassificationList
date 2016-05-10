@@ -1,0 +1,4 @@
+tests/test_placeholder.py
+tests/test_titles.py
+tox.ini
+requirements.txt

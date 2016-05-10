@@ -1,0 +1,9 @@
+MANIFEST.in
+README.txt
+setup.py
+xstatic/__init__.py
+xstatic/pkg/__init__.py
+xstatic/pkg/jasmine/data/jasmine.css
+xstatic/pkg/jasmine/data/jasmine-html.js
+xstatic/pkg/jasmine/data/jasmine.js
+xstatic/pkg/jasmine/__init__.py

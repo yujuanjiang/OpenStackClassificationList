@@ -1,0 +1,6 @@
+.gitignore
+com.rcarrillocruz.android.openstackdroid/ic_launcher-web.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-hdpi/ic_launcher.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-mdpi/ic_launcher.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-xhdpi/ic_launcher.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-xxhdpi/ic_launcher.png

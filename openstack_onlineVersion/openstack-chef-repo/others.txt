@@ -1,0 +1,8 @@
+cookbooks/mysql/README.md
+cookbooks/osops-utils/README.md
+cookbooks/rabbitmq/README.md
+cookbooks/.gitignore
+cookbooks/osops-utils/.gitignore
+.gitignore
+documentation/essex-roles.png
+.gitreview

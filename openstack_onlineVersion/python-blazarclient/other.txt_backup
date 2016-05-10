@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+HACKING.rst
+MANIFEST.in
+openstack-common.conf
+setup.cfg
+setup.py

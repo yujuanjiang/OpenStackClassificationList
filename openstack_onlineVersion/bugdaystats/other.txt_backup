@@ -1,0 +1,6 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+config.js.sample
+setup.py

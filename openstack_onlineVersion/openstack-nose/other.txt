@@ -1,0 +1,4 @@
+.gitreview
+MANIFEST.in
+README.rst
+setup.py

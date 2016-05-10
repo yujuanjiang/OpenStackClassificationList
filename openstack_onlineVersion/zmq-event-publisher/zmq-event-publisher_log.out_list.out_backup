@@ -1,0 +1,5 @@
+run-fast
+src/main/resources/index.jelly
+src/main/resources/org/jenkinsci/plugins/ZMQEventPublisher/config.jelly
+src/main/resources/org/jenkinsci/plugins/ZMQEventPublisher/HudsonNotificationProperty/config.jelly
+src/main/resources/org/jenkinsci/plugins/ZMQEventPublisher/HudsonNotificationProperty/global.jelly

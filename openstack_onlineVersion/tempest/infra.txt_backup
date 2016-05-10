@@ -1,0 +1,9 @@
+tools/install_venv.py
+tools/install_venv_common.py
+tools/with_venv.sh
+tempest/api/orchestration/stacks/test_soft_conf.py
+tools/check_source.sh
+tools/config/generate_sample.sh
+tools/generate_sample.sh
+tools/pretty_tox_serial.sh
+tools/pretty_tox.sh

@@ -1,0 +1,7 @@
+oslo/__init__.py
+oslo/version/__init__.py
+oslo/version/tests/__init__.py
+oslo/version/version.py
+pbr/tests/__init__.py
+pbr/version.py
+tests/__init__.py

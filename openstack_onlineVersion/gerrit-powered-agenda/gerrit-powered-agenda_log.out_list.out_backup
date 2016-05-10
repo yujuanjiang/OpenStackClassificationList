@@ -1,0 +1,11 @@
+gerrit-powered-agenda/const.py
+gerrit-powered-agenda/jobs.py
+gerrit-powered-agenda/meeting.py
+gerrit-powered-agenda/util.py
+libs/icalendar-3.6.1/docs/_themes/icalendar/layout.html
+libs/icalendar-3.6.1/src/icalendar.egg-info/not-zip-safe
+libs/PyYAML-3.10/CHANGES
+libs/setuptools-2.2/build/lib/setuptools/command/launcher manifest.xml
+libs/setuptools-2.2/__pycache__/pkg_resources.cpython-33.pyc
+libs/setuptools-2.2/setuptools/command/launcher manifest.xml
+libs/setuptools-2.2/setuptools.egg-info/zip-safe

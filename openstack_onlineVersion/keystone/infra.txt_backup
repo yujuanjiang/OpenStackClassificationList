@@ -1,0 +1,8 @@
+tools/install_venv.py
+tools/install_venv_common.py
+tools/patch_tox_venv.py
+tools/with_venv.sh
+tools/convert_to_sqlite.sh
+tools/debug_helper.sh
+tools/generate_authors.sh
+tools/sample_data.sh

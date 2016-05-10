@@ -1,0 +1,5 @@
+bin/versionbuild.py
+docs/pom.xml
+rpmbuild/build_rpm.sh
+rpmbuild/package_dependencies.sh
+rpmbuild/upload_rpm.sh

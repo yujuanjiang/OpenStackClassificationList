@@ -1,0 +1,10 @@
+.fixtures.yml
+.gitignore
+.gitreview
+LICENSE
+Modulefile
+README
+README.md
+spec/classes/ceilometer_db_mysql_spec.rb
+spec/classes/designate_db_mysql_spec.rb
+spec/spec_helper.rb

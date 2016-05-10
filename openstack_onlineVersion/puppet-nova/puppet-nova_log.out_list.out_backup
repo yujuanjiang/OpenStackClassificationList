@@ -1,0 +1,11 @@
+apt
+ext/nova.sh
+gcc
+git
+glance
+Modulefile
+mysql
+nova/spec/find_spec_utils.rb
+rabbitmq
+spec/fixtures/modules/nova
+stdlib

@@ -1,0 +1,5 @@
+.gitignore
+MANIFEST.in
+README.txt
+setup.py
+xstatic/pkg/jasmine/data/jasmine.css

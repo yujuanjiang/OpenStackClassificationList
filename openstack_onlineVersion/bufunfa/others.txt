@@ -1,0 +1,4 @@
+.gitignore
+doc/source/services.png
+doc/source/storage_layout.png
+.gitreview

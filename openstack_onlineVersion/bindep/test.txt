@@ -1,0 +1,3 @@
+bindep/tests/test_depends.py
+bindep/tests/test_main.py
+tox.ini

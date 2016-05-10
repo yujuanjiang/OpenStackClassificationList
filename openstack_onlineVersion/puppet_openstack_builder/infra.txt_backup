@@ -1,0 +1,17 @@
+contrib/aptira/puppet/site.pp
+data/scenarios/3_node.pp
+manifests/setup.pp
+manifests/site.pp
+site.pp
+modules/puppet
+stack-builder/fragments/puppet-agent
+stack-builder/fragments/puppet-agent-fact
+stack-builder/fragments/puppet-master-fact
+stack-builder/fragments/puppet-modules
+stack-builder/fragments/puppet-modules-lite
+stack-builder/fragments/puppet-setup
+stack-builder/fragments/puppet-site
+contrib/aptira/build/Vagrantfile
+Vagrantfile
+contrib/aptira/build/Puppetfile
+Puppetfile

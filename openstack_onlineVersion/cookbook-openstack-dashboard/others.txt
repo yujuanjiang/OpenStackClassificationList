@@ -1,0 +1,11 @@
+.gitignore
+files/default/img/alert_red.png
+files/default/img/PrivateCloud.png
+files/default/img/Rackspace_Cloud_Company.png
+files/default/img/Rackspace_Cloud_Company_Small.png
+files/default/img/selected_arrow.png
+files/img/alert_red.png
+files/img/PrivateCloud.png
+files/img/Rackspace_Cloud_Company.png
+files/img/selected_arrow.png
+.gitreview

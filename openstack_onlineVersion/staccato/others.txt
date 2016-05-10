@@ -1,0 +1,5 @@
+nova_plugin/README.rst
+doc/source/staccato_internal_architecture.png
+doc/source/staccato_plugin_2_party.png
+doc/source/staccato_plugin_3rd_party.png
+.gitreview

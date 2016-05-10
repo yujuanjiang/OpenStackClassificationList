@@ -1,0 +1,17 @@
+README.rst
+.gitattributes
+.gitignore
+.gitreview
+CHANGELOG.md
+OpenStack/Examples/Examples.sln
+Openstack/Examples/Examples.sln
+OpenStack/OpenStack.sln
+Openstack/Openstack.sln
+OpenStack/Examples/CustomServiceClientExample/App.config
+OpenStack/Examples/SimpleStorageExample/App.config
+Openstack/Examples/SimpleStorageExample/App.config
+OpenStack/OpenStack45-PCL/packages.config
+OpenStack/openstack-dotnet.pfx
+OpenStack/OpenStack.nuspec
+OpenStack/OpenStack/packages.config
+Openstack/Openstack/packages.config

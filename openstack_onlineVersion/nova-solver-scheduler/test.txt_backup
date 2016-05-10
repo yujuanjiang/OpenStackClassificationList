@@ -1,0 +1,13 @@
+nova/tests/scheduler/fakes.py
+nova/tests/scheduler/solvers/test_active_host_constraint.py
+nova/tests/scheduler/solvers/test_allocation_constraints.py
+nova/tests/scheduler/solvers/test_availability_zone_constraint.py
+nova/tests/scheduler/solvers/test_costs.py
+nova/tests/scheduler/solvers/test_io_ops_constraint.py
+nova/tests/scheduler/solvers/test_linearconstraints.py
+nova/tests/scheduler/solvers/test_max_instances_per_host_constraint.py
+nova/tests/scheduler/solvers/test_non_trivial_solution_constraint.py
+nova/tests/scheduler/solvers/test_volume_affinity_cost.py
+nova/tests/scheduler/test_host_manager.py
+nova/tests/scheduler/test_solver_scheduler.py
+requirements.txt

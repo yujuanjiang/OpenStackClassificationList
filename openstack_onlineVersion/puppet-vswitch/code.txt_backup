@@ -1,0 +1,4 @@
+lib/facter/kernel_modules.rb
+lib/facter/openvswitch.rb
+spec/classes/vswitch_ovs_spec.rb
+spec/spec_helper.rb

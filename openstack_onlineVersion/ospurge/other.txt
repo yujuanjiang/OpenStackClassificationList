@@ -1,0 +1,13 @@
+debian/changelog
+debian/compat
+debian/control
+debian/python-resourcesmanager.preinst
+debian/rules
+.gitignore
+.gitreview
+README.md
+requirements.txt
+setup.cfg
+setup.py
+test-requirements.txt
+debian/source/format

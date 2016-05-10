@@ -1,0 +1,4 @@
+aviator.gemspec
+Gemfile
+Guardfile
+Rakefile

@@ -1,0 +1,5 @@
+src/main/resources/norm-test.xpl
+src/main/resources/test-error.xpl
+src/main/resources/test.xpl
+src/test/java/com/rackspace/cloud/api/docs/CalabashHelperTest.java
+src/test/java/com/rackspace/cloud/api/docs/GlossaryResolverTest.java

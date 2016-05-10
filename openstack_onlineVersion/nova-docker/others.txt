@@ -1,0 +1,4 @@
+contrib/devstack/README.rst
+.gitignore
+.gitreview
+.mailmap

@@ -1,0 +1,7 @@
+spec/spec_helper.rb
+spec/support/filesystem_helpers.rb
+spec/support/fixture_helpers.rb
+spec/support/provider_example_group.rb
+spec/support/provider_subject.rb
+spec/support/resource_helpers.rb
+spec/support/vcsrepo_helpers.rb

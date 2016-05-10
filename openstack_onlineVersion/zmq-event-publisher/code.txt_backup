@@ -1,0 +1,6 @@
+src/main/java/org/jenkinsci/plugins/ZMQEventPublisher/HudsonNotificationProperty.java
+src/main/java/org/jenkinsci/plugins/ZMQEventPublisher/model/BuildState.java
+src/main/java/org/jenkinsci/plugins/ZMQEventPublisher/model/JobState.java
+src/main/java/org/jenkinsci/plugins/ZMQEventPublisher/Phase.java
+src/main/java/org/jenkinsci/plugins/ZMQEventPublisher/RunListenerImpl.java
+src/main/java/org/jenkinsci/plugins/ZMQEventPublisher/ZMQRunnable.java

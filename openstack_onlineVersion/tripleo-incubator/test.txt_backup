@@ -1,0 +1,17 @@
+images/baremetal-build-and-test-cycle.dia
+tox.ini
+scripts/devtest_end.sh
+scripts/devtest_overcloud.sh
+scripts/devtest_ramdisk.sh
+scripts/devtest_seed.sh
+scripts/devtest_setup.sh
+scripts/devtest.sh
+scripts/devtest_testenv.sh
+scripts/devtest_undercloud.sh
+scripts/devtest_update_network.sh
+scripts/devtest_variables.sh
+bootstrap/bootstrap.xml
+bootstrap/seed.xml
+templates/brbm.xml
+templates/vm.xml
+scripts/bm_poseur/lib/template.xml

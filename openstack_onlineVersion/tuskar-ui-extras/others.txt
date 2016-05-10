@@ -1,0 +1,2 @@
+doc/source/README.rst
+.gitignore

@@ -1,0 +1,5 @@
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/persister-config.yml.erb

@@ -1,0 +1,8 @@
+openstack-image-service-api/src/docbkx/imageapioverview.xml
+openstack-image-service-api/src/docbkx/imagesapigeneralinfo.xml
+openstack-image-service-api/src/docbkx/imagesapi.xml
+openstack-image-service-api/src/docbkx/os-image-service-devguide.xml
+openstack-image-service-dev/src/docbkx/imageapioverview.xml
+openstack-image-service-dev/src/docbkx/imagesapigeneralinfo.xml
+openstack-image-service-dev/src/docbkx/imagesapi.xml
+openstack-image-service-dev/src/docbkx/os-image-service-devguide.xml

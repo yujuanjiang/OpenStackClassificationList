@@ -1,0 +1,3 @@
+puppet/modules/base/files/git_clone.sh
+puppet/modules/devstack/files/git_clone.sh
+puppet/modules/devstack/files/local.sh

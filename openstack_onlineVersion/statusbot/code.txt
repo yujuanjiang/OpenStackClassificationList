@@ -1,0 +1,5 @@
+statusbot/bot.py
+statusbot/__init__.py
+statusbot/openstack/common/__init__.py
+statusbot/openstack/common/version.py
+statusbot/openstack/__init__.py

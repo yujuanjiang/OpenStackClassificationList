@@ -1,0 +1,4 @@
+.gitignore
+oslo/sphinx/theme/openstack/static/openstack_logo.png
+oslo/sphinx/theme/openstack/static/header_bg.jpg
+.gitreview

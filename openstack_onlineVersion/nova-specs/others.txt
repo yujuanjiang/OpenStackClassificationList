@@ -1,0 +1,8 @@
+.gitignore
+juno/approved/.gitignore
+juno/.gitignore
+juno/implemented/.gitignore
+specs/juno/approved/.gitignore
+specs/juno/.gitignore
+specs/juno/implemented/.gitignore
+.gitreview

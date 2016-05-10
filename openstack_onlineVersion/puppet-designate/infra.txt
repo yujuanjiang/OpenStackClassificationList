@@ -1,0 +1,16 @@
+example/all.pp
+lib/puppet/provider/designate_config/ini_setting.rb
+lib/puppet/type/designate_config.rb
+manifests/agent.pp
+manifests/api.pp
+manifests/backend/bind9.pp
+manifests/central.pp
+manifests/client.pp
+manifests/db/mysql/host_access.pp
+manifests/db/mysql.pp
+manifests/db.pp
+manifests/dns.pp
+manifests/init.pp
+manifests/keystone/auth.pp
+manifests/params.pp
+manifests/sink.pp

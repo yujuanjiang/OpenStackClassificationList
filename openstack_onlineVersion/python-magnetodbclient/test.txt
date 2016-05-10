@@ -1,0 +1,4 @@
+magnetodbclient/tests/test_auth.py
+magnetodbclient/tests/test_base.py
+magnetodbclient/tests/test_shell.py
+tox.ini

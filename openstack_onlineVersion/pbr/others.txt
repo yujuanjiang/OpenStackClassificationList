@@ -1,0 +1,7 @@
+pbr/d2to1/tests/testpackage/README.txt
+pbr/tests/testpackage/README.txt
+.gitignore
+doc/source/static/openstack_logo.png
+doc/source/static/header_bg.jpg
+.gitreview
+.mailmap

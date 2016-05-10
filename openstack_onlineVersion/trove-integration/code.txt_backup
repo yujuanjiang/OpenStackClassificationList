@@ -1,0 +1,9 @@
+scripts/files/bootstrap_init-mysql.sh
+scripts/files/bootstrap_init.sh
+scripts/local.sh
+scripts/create_vm
+scripts/files/keys/authorized_keys
+scripts/functions_qemu
+scripts/image-projects-list
+scripts/projects-list
+scripts/redstack

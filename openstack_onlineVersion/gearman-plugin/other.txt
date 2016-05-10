@@ -1,0 +1,3 @@
+debug
+install-fast
+run-fast

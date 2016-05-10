@@ -1,0 +1,7 @@
+nodepool/tests/fixtures/node_az.yaml
+nodepool/tests/fixtures/node_dib.yaml
+nodepool/tests/fixtures/node.yaml
+nodepool/tests/fixtures/subnodes.yaml
+nodepool/tests/test_allocator.py
+nodepool/tests/test_nodepool.py
+tox.ini

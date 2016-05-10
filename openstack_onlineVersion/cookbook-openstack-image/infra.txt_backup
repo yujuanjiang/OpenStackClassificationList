@@ -1,0 +1,11 @@
+recipes/api.rb
+recipes/client.rb
+recipes/db.rb
+recipes/default.rb
+recipes/glance-rsyslog.rb
+recipes/identity_registration.rb
+recipes/image_upload.rb
+recipes/keystone_registration.rb
+recipes/registry.rb
+attributes/default.rb
+Berksfile.lock

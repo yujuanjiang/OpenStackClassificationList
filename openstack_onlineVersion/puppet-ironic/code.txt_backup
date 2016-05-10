@@ -1,0 +1,11 @@
+spec/classes/ironic_api_spec.rb
+spec/classes/ironic_client_spec.rb
+spec/classes/ironic_conductor_spec.rb
+spec/classes/ironic_db_mysql_spec.rb
+spec/classes/ironic_drivers_ipmi_spec.rb
+spec/classes/ironic_drivers_pxe_spec.rb
+spec/classes/ironic_init_spec.rb
+spec/classes/ironic_keystone_auth_spec.rb
+spec/defines/ironic_db_mysql_host_access_spec.rb
+spec/shared_examples.rb
+spec/spec_helper.rb

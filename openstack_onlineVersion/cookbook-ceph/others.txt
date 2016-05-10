@@ -1,0 +1,8 @@
+admin-tools/README.rdoc
+btrfs/README.rdoc
+ceph/README.md
+collectd/README.rdoc
+handle-core/README.rdoc
+parted/README.rdoc
+.gitignore
+.gitreview

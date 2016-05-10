@@ -1,0 +1,11 @@
+CHANGELOG.md
+.gitignore
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/api-paste.ini.erb
+templates/default/trove-conductor.conf.erb
+templates/default/trove.conf.erb
+templates/default/trove-taskmanager.conf.erb
+TESTING.md

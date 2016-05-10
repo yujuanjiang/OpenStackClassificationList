@@ -1,0 +1,4 @@
+java/monasca-common-kafka/src/main/resources/com/hpcloud/kafka-consumer-config-yml
+java/mon-kafka/src/main/resources/com/hpcloud/kafka-config-yml
+java/mon-kafka/src/main/resources/com/hpcloud/kafka-consumer-config-yml
+run_maven.sh

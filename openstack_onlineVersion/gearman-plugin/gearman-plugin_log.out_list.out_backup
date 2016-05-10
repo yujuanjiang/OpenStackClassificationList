@@ -1,0 +1,7 @@
+debug
+install-fast
+run-fast
+src/main/resources/hudson/plugins/gearman/GearmanPluginConfig/config.jelly
+src/main/resources/hudson/plugins/gearman/GearmanPlugin/config.jelly
+src/main/resources/hudson/plugins/gearman/GearmanPlugin/global.jelly
+src/main/resources/index.jelly

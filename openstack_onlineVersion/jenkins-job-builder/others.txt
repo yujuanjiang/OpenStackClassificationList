@@ -1,0 +1,4 @@
+samples/README.md
+tests/publishers/fixtures/README
+.gitignore
+.gitreview

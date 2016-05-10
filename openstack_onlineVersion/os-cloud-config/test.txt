@@ -1,0 +1,12 @@
+os_cloud_config/cmd/tests/test_generate_keystone_pki.py
+os_cloud_config/cmd/tests/test_init_keystone.py
+os_cloud_config/cmd/tests/test_register_nodes.py
+os_cloud_config/tests/base.py
+os_cloud_config/tests/test_keystone_pki.py
+os_cloud_config/tests/test_keystone.py
+os_cloud_config/tests/test_nodes.py
+os_cloud_config/tests/test_os_cloud_config.py
+os_cloud_config/tests/test_utils.py
+os_cloud_config/utils/tests/test_clients.py
+os_cloud_config/utils/tests/test_utils.py
+tox.ini

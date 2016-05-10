@@ -1,0 +1,12 @@
+doc/deployment.md
+doc/prerequisites.md
+doc/purpose.md
+files/mysql/skip-name-resolve.cnf
+.gitreview
+LICENSE
+Modulefile
+README.md
+templates/default.neutron-server.erb
+templates/init.neutron-plugin-openvswitch-agent.erb
+templates/l2-agent-config.erb
+templates/openstackrc.erb

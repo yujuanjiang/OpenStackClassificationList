@@ -1,0 +1,15 @@
+LICENSE
+README.md
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+MANIFEST.in
+doc/source/conf.py
+openstack-common.conf
+tools/pip-requires
+tools/ceilometer.bash_completion
+setup.cfg
+ceilometerclient/openstack/common/setup.py
+setup.py

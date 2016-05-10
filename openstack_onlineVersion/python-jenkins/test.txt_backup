@@ -1,0 +1,6 @@
+tests/helper.py
+tests/test_jenkins.py
+test-jenkins.py
+tox.ini
+requirements.txt
+test-requirements.txt

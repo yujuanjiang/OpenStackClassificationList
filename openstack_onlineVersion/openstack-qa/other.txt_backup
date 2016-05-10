@@ -1,0 +1,15 @@
+README
+README.md
+.gitignore
+.gitreview
+doc/_templates/.placeholder
+doc/index.rst
+doc/integration.rst
+doc/systems.rst
+doc/_static/basic.css
+doc/_static/default.css
+doc/_static/tweaks.css
+doc/conf.py
+doc/_theme/theme.conf
+doc/_theme/layout.html
+doc/_static/jquery.tweet.js

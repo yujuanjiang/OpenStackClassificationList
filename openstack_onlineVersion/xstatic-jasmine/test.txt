@@ -1,0 +1,2 @@
+xstatic/pkg/jasmine/data/jasmine-html.js
+xstatic/pkg/jasmine/data/jasmine.js

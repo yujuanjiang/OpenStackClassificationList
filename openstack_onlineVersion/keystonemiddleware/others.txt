@@ -1,0 +1,14 @@
+doc/.gitignore
+docs/.gitignore
+.gitignore
+doc/source/images/graphs_authCompDelegate.svg
+doc/source/images/graphs_authComp.svg
+docs/source/images/graphs_authCompDelegate.svg
+docs/source/images/graphs_authComp.svg
+source/images/graphs_authCompDelegate.svg
+source/images/graphs_authComp.svg
+doc/source/static/openstack_logo.png
+source/static/openstack_logo.png
+doc/source/static/header_bg.jpg
+source/static/header_bg.jpg
+.gitreview

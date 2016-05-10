@@ -1,0 +1,16 @@
+os-collect-config-and-friends.svg
+LICENSE
+README.md
+README.rst
+.coveragerc
+.gitignore
+.gitreview
+.testr.conf
+.travis.yml
+MANIFEST.in
+openstack-common.conf
+os-collect-config-and-friends.odg
+setup.cfg
+setup.py
+requirements.txt
+test-requirements.txt

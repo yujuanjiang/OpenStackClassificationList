@@ -1,0 +1,5 @@
+.gitignore
+doc/img/production.png
+doc/libralayout.png
+.gitreview
+.mailmap

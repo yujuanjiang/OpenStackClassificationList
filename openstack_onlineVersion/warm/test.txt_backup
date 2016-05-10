@@ -1,0 +1,10 @@
+warm/tests/templates/test.ci
+warm/tests/test_components.py
+warm/tests/test_noop.py
+run_tests.sh
+warm/openstack/common/test.py
+tox.ini
+deps.deb.txt
+deps.rpm.txt
+requirements.txt
+test-requirements.txt

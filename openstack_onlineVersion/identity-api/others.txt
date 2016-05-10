@@ -1,0 +1,7 @@
+.gitignore
+openstack-identity-api/.gitignore
+openstack-identity-api/src/docbkx/common/img/Check_mark_23x20_02.svg
+openstack-identity-api/src/docbkx/img/Check_mark_23x20_02.svg
+openstack-identity-api/v2.0/src/docbkx/img/Check_mark_23x20_02.svg
+v2.0/src/images/Check_mark_23x20_02.svg
+.gitreview

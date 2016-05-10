@@ -1,0 +1,9 @@
+.fixtures.yml
+.gitignore
+.gitreview
+Modulefile
+README.markdown
+.rspec
+templates/tempest.conf.erb
+templates/tempest.folsom.conf.erb
+templates/tempest.grizzly.conf.erb

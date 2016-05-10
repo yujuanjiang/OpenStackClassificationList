@@ -1,0 +1,6 @@
+diskimage_builder/element_dependencies.py
+diskimage_builder/elements.py
+baremetal-mkinitrd.sh
+phy-mkinitrd.sh
+udev/firmware.sh
+diskimage_builder/__init__.py

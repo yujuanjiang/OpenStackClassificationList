@@ -1,0 +1,4 @@
+run_tests.sh
+tox.ini
+tuskar_sat_ui/infrastructure/test/test_data/node_data.py
+tuskar_ui/infrastructure/test/test_data/node_data.py

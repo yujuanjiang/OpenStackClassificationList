@@ -1,0 +1,7 @@
+MANIFEST.in
+README.txt
+setup.py
+xstatic/__init__.py
+xstatic/pkg/angular_mock/data/angular-mock.js
+xstatic/pkg/angular_mock/__init__.py
+xstatic/pkg/__init__.py

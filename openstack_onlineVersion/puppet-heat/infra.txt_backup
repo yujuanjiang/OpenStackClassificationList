@@ -1,0 +1,15 @@
+examples/site.pp
+manifests/api_cfn.pp
+manifests/api-cfn.pp
+manifests/api_cloudwatch.pp
+manifests/api-cloudwatch.pp
+manifests/api.pp
+manifests/client.pp
+manifests/db/mysql/host_access.pp
+manifests/db/mysql.pp
+manifests/db.pp
+manifests/engine.pp
+manifests/init.pp
+manifests/keystone/auth_cfn.pp
+manifests/keystone/auth.pp
+manifests/params.pp

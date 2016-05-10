@@ -1,0 +1,7 @@
+MANIFEST.in
+README.txt
+setup.py
+xstatic/__init__.py
+xstatic/pkg/d3/data/d3.js
+xstatic/pkg/d3/__init__.py
+xstatic/pkg/__init__.py

@@ -1,0 +1,9 @@
+.gitignore
+openstack-common.conf
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

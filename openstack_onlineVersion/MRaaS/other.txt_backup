@@ -1,0 +1,13 @@
+prototype/README
+README
+mraas/README.md
+README.md
+.gitignore
+.gitreview
+mraas/.gitignore
+prototype/.gitignore
+prototype/prototype/config.py.template
+hadoop-swiftn-driver/lib/hpswift.jar
+mraas/src/main/resources/com/hpcloud/mraas/db/ClusterDAO.sql.stg
+mraas/src/main/resources/banner.txt
+src/main/resources/banner.txt

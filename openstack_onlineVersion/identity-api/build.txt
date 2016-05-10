@@ -1,0 +1,6 @@
+openstack-identity-api/pom.xml
+openstack-identity-api/v2.0/pom.xml
+openstack-identity-api/v3/pom.xml
+pom.xml
+v2.0/pom.xml
+v3/pom.xml

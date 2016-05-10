@@ -1,0 +1,16 @@
+bin/smithy
+checks.sh
+clean-pip
+euca.sh
+multipip/multipip
+multipip/py2rpm
+prepare.sh
+run_checks.sh
+smithy
+stack
+utils/pkgfinder.pl
+warmup
+warmups/fedora.sh
+warmup.sh
+warmups/rhel6.sh
+warmups/ubuntu.sh

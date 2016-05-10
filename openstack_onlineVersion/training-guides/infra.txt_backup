@@ -1,0 +1,6 @@
+doc/training-guides/training-labs/Vagrantfile
+labs/Vagrantfile
+training-labs/Vagrantfile
+labs/config/deploy.vagrant
+labs/config/scripts.nodeinit_vagrant
+tools/test-languages.sh

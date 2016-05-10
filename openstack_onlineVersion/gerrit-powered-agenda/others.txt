@@ -1,0 +1,5 @@
+libs/icalendar-3.6.1/README.rst
+libs/PyYAML-3.10/README
+libs/setuptools-2.2/README.txt
+.gitignore
+.gitreview

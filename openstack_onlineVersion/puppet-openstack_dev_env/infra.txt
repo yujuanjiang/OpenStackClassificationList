@@ -1,0 +1,9 @@
+manifests/hosts.pp
+manifests/scenarios/all_in_one.pp
+manifests/scenarios/multi_role.pp
+manifests/setup/centos.pp
+manifests/setup/hosts.pp
+manifests/setup/precise64.pp
+manifests/site.pp
+Puppetfile
+Vagrantfile

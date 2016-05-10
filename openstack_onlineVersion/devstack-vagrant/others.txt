@@ -1,0 +1,9 @@
+puppet/modules/vcsrepo/README.BZR.markdown
+puppet/modules/vcsrepo/README.CVS.markdown
+puppet/modules/vcsrepo/README.GIT.markdown
+puppet/modules/vcsrepo/README.HG.markdown
+puppet/modules/vcsrepo/README.markdown
+puppet/modules/vcsrepo/README.SVN.markdown
+puppet/modules/vcsrepo/spec/unit/puppet/type/README.markdown
+.gitignore
+.gitreview

@@ -1,0 +1,13 @@
+src/theme/custom/README.md
+.gitignore
+src/fonts/custom_icons.svg
+src/fonts/src/openstack.svg
+src/fonts/src/storyboard.svg
+src/images/logo/logo_128.png
+src/images/logo/logo_16.png
+src/images/logo/logo_256.png
+src/images/logo/logo_32.png
+src/images/logo/logo_48.png
+src/images/logo/logo_512.png
+src/images/logo/logo_64.png
+.gitreview

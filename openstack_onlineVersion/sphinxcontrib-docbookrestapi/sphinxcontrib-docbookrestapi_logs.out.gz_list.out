@@ -1,0 +1,15 @@
+LICENSE
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+sphinxcontrib/docbook.py
+sphinxcontrib/docbookrestapi/docbook.py
+sphinxcontrib/docbookrestapi/__init__.py
+sphinxcontrib/docbookrestapi/setup.py
+sphinxcontrib/docbookrestapi/tests/test_utils.py
+sphinxcontrib/__init__.py
+sphinxcontrib/setup.py
+.testr.conf
+test-requirements.txt
+tox.ini

@@ -1,0 +1,16 @@
+dashboard/doc/Makefile
+dashboard/Makefile
+docs/src/glazier-manual/pom.xml
+manuals/pom.xml
+meta/io.murano.Application/manifest.yaml
+meta/io.murano.Environment/manifest.yaml
+meta/io.murano.lib.networks.Neutron/manifest.yaml
+meta/io.murano/manifest.yaml
+meta/io.murano.Object/manifest.yaml
+meta/io.murano.windows.ActiveDirectory/manifest.yaml
+meta/org.openstack.murano.Application/manifest.yaml
+meta/org.openstack.murano.Environment/manifest.yaml
+meta/org.openstack.murano.Object/manifest.yaml
+meta/packages/activedirectory/manifest.yaml
+meta/packages/core/manifest.yaml
+windc/doc/Makefile

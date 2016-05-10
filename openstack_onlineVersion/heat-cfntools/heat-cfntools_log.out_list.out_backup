@@ -1,0 +1,6 @@
+bin/cfn-create-aws-symlinks
+bin/cfn-get-metadata
+bin/cfn-hup
+bin/cfn-init
+bin/cfn-push-stats
+bin/cfn-signal

@@ -1,0 +1,10 @@
+tests/functions.sh
+tests/test_config.sh
+tests/test_ini.sh
+tests/test_ip.sh
+run_tests.sh
+exercises/neutron-adv-test.sh
+exercises/quantum-adv-test.sh
+files/pips/openstack-integration-tests
+tools/ironic/templates/brbm.xml
+tools/ironic/templates/vm.xml

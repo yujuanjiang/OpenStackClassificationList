@@ -1,0 +1,11 @@
+bin/galloper-api
+bin/galloper-cli
+bin/galloper-rpc-zmq-receiver
+etc/galloper/galloper-api.conf.example
+etc/galloper/galloper-cli.conf.example
+.gitignore
+LICENSE
+openstack-common.conf
+README.md
+README.rst
+requirements.txt

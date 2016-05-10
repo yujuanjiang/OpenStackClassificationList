@@ -1,0 +1,6 @@
+doc/docbkx/api-ref/pom.xml
+doc/docbkx/heat-admin/pom.xml
+doc/docbkx/heat-cli-guide/pom.xml
+doc/Makefile
+heat/api/openstack/v1/build_info.py
+Makefile

@@ -1,0 +1,8 @@
+oslo.utils/locale/oslo.utils-log-critical.pot
+oslo.utils/locale/oslo.utils-log-error.pot
+oslo.utils/locale/oslo.utils-log-info.pot
+oslo.utils/locale/oslo.utils-log-warning.pot
+oslo.utils/locale/oslo.utils.pot
+.gitignore
+.gitreview
+.mailmap

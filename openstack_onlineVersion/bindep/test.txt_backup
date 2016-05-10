@@ -1,0 +1,6 @@
+bindep/tests/test_depends.py
+bindep/tests/test_main.py
+tox.ini
+other-requirements.txt
+requirements.txt
+test-requirements.txt

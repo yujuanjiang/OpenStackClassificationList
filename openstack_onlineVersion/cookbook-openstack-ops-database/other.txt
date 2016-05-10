@@ -1,0 +1,10 @@
+CHANGELOG.md
+.gitignore
+.gitreview
+LICENSE
+README.md
+.rubocop.yml
+Strainerfile
+.tailor
+templates/default/openstack.cnf.erb
+TESTING.md

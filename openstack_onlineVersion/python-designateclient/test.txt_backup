@@ -1,0 +1,7 @@
+designateclient/tests/base.py
+designateclient/tests/test_designateclient.py
+tools/test-requires
+tox.ini
+doc/requirements.txt
+requirements.txt
+test-requirements.txt

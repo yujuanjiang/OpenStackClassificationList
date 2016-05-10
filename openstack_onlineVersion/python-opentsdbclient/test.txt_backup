@@ -1,0 +1,4 @@
+opentsdbclient/tests/test_client.py
+tox.ini
+requirements.txt
+test-requirements.txt

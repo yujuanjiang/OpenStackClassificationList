@@ -1,0 +1,10 @@
+test/unit/locale/eo.po
+test/unit/test_locale/eo.po
+locale/swift.pot
+test/unit/locale/README
+test/unit/test_locale/README
+.gitignore
+doc/source/howto_cyberduck_config.png
+doc/source/images/howto_cyberduck_config.png
+.gitreview
+.mailmap

@@ -1,0 +1,2 @@
+lib/facter/kernel_modules.rb
+lib/facter/openvswitch.rb

@@ -1,0 +1,6 @@
+examples/00-authentication.go
+examples/10-objectstore.go
+examples/setup.go
+examples/run-all.sh
+objectstorage/objectstorage.go
+objectstorage/v1/objectstorage.go

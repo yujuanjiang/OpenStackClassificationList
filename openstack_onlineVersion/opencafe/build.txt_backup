@@ -1,0 +1,9 @@
+docs/Makefile
+docs/Makefile
+plugins/elasticsearch/setup.py
+plugins/http/setup.py
+plugins/mongo/setup.py
+plugins/rsyslog/setup.py
+plugins/skip_on_issue/setup.py
+plugins/ssh/setup.py
+plugins/winrm/setup.py

@@ -1,0 +1,9 @@
+tools/autogenerate-config-docs/test/genconfs.sh
+tools/autogenerate-config-docs/test/generator.py
+doc/install-guide/samples/test-stack.yml
+doc-test.conf
+doc/training-guides/training-labs/Scripts/test_scripts.sh
+doc/training-guide/training-labs/Scripts/test_scripts.sh
+tox.ini
+tools/test.py
+tools/test-languages.sh

@@ -1,0 +1,9 @@
+doc/Makefile
+docs/Makefile
+tests/signing/Makefile
+doc/Makefile
+docs/Makefile
+tests/signing/Makefile
+rally-scenarios/keystone.yaml
+docs/guide/pom.xml
+doc/guide/pom.xml

@@ -1,0 +1,12 @@
+doc/source/reference
+doc/source/resolutions
+pre-history/meetings
+reference/charter
+reference/extra-atcs
+reference/incubation-integration-requirements
+reference/members
+reference/new-programs-requirements
+resolutions/20131106-ceilometer-and-heat-official-names
+resolutions/20140211-tc_defcore_response
+resolutions/20140402-defcore-designated-sections-guidelines
+resolutions/20140617-defcore-capabilities-scoring/extract.py

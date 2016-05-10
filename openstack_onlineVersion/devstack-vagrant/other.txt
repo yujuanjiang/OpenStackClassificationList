@@ -1,0 +1,14 @@
+config.yaml.sample
+.gitignore
+.gitreview
+LICENSE.md
+local_config.rb.sample
+puppet/modules/vcsrepo/CHANGELOG
+puppet/modules/vcsrepo/LICENSE
+puppet/modules/vcsrepo/README.BZR.markdown
+puppet/modules/vcsrepo/README.CVS.markdown
+puppet/modules/vcsrepo/README.GIT.markdown
+puppet/modules/vcsrepo/README.HG.markdown
+puppet/modules/vcsrepo/README.markdown
+puppet/modules/vcsrepo/README.SVN.markdown
+README.md

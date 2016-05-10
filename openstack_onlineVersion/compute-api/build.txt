@@ -1,0 +1,7 @@
+incubation/openstack-api-extensions/pom.xml
+openstack-compute-api-1.0/pom.xml
+openstack-compute-api-1.1/pom.xml
+openstack-compute-api-2/pom.xml
+pom.xml
+v1.0/pom.xml
+v2/pom.xml

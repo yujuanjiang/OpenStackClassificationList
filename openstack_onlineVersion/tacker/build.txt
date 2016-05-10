@@ -1,0 +1,4 @@
+doc/Makefile
+doc/pom.xml
+doc/source/docbkx/docbkx-example/pom.xml
+neutron/plugins/openvswitch/agent/xenapi/contrib/build-rpm.sh

@@ -1,0 +1,4 @@
+run_vagrant_provision.sh
+vagrant/cookbooks/openstack-validator/recipes/default.rb
+vagrant/cookbooks/rubick/recipes/default.rb
+Vagrantfile

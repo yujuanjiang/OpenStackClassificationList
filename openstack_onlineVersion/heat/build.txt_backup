@@ -1,0 +1,7 @@
+doc/Makefile
+Makefile
+Makefile
+doc/Makefile
+doc/docbkx/api-ref/pom.xml
+doc/docbkx/heat-admin/pom.xml
+doc/docbkx/heat-cli-guide/pom.xml

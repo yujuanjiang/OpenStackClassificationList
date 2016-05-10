@@ -1,0 +1,5 @@
+doc/README.rst
+doc/.gitignore
+doc/source/sourcecode/.gitignore
+.gitignore
+.gitreview

@@ -1,0 +1,10 @@
+docs/0.0.1/Makefile
+docs/Makefile
+docs/0.0.1/Makefile
+docs/Makefile
+pecan/scaffolds/base/setup.py_tmpl
+pecan/scaffolds/rest-api/setup.py_tmpl
+pecan/scaffolds/base/setup.cfg_tmpl
+pecan/scaffolds/rest-api/setup.cfg_tmpl
+pecan/templates/project/setup.cfg
+pecan/templates/project/setup.cfg_tmpl

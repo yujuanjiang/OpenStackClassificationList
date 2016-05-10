@@ -1,0 +1,5 @@
+ext/glance.rb
+ext/glance.sh
+ini_setting.rb
+manifests/api.rb
+Modulefile

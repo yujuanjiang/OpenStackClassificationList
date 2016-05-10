@@ -1,0 +1,14 @@
+conf/patches/glance/README.txt
+conf/patches/keystone/README.txt
+conf/patches/nova/README.txt
+conf/patches/quantum/README.txt
+docs/README.rst
+multipip/README.rst
+tools/README.rst
+.gitignore
+docs/source/img/anvil.png
+docs/source/img/anvil-tiny.png
+docs/source/img/logo.png
+docs/source/img/logo.jpg
+.gitreview
+.mailmap

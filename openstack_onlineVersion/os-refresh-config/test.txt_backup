@@ -1,0 +1,6 @@
+os_refresh_config/tests/test_main.py
+os_refresh_config/tests/test_os_refresh_config.py
+tests/pre-configure.d/01-test
+tox.ini
+requirements.txt
+test-requirements.txt

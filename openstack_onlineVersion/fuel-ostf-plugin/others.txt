@@ -1,0 +1,5 @@
+core/storage/sql/migrations/README
+ostf_adapter/storage/migrations/README
+ostf_adapter/storage/sql/migrations/README
+.gitignore
+.gitreview

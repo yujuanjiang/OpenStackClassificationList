@@ -1,0 +1,3 @@
+saharaclient/tests/integration/tests/resources/edp-java/README
+.gitignore
+.gitreview

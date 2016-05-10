@@ -1,0 +1,2 @@
+hot/software-config/elements/heat-config-script/install.d/hook-script.py
+hot/software-config/example-templates/config-scripts/example-script.sh

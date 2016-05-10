@@ -1,0 +1,11 @@
+lib/puppet/application/dashboard.rb
+lib/puppet/dashboard/classifier.rb
+lib/puppet/face/dashboard.rb
+manifests/init.pp
+manifests/params.pp
+manifests/passenger.pp
+site_lib/puppet/application/dashboard.rb
+site_lib/puppet/dashboard/classifier.rb
+site_lib/puppet/face/dashboard.rb
+templates/puppet-dashboard-sysconfig
+tests/init.pp

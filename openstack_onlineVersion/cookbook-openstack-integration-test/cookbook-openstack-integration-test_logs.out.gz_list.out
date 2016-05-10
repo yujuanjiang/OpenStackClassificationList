@@ -1,0 +1,14 @@
+attributes/default.rb
+Berksfile
+Gemfile
+Gemfile.lock
+metadata.rb
+README.md
+recipes/setup.rb
+.rubocop.yml
+spec/setup-redhat_spec.rb
+spec/setup_spec.rb
+spec/spec_helper.rb
+Strainerfile
+templates/default/tempest.conf.erb
+TESTING.md

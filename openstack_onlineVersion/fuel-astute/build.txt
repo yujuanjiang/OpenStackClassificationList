@@ -1,0 +1,12 @@
+astute2.yaml
+astute.gemspec
+astute/module.mk
+docs/Makefile
+Gemfile
+Gemfile.lock
+lib/astute/cli/deploy_schema.yaml
+lib/astute/cli/provision_schema.yaml
+lib/astute/cli/schema.yaml
+module.mk
+Rakefile
+utils/jenkins/astute_rspec_check.sh

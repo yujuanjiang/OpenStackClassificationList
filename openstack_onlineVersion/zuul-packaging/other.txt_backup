@@ -1,0 +1,13 @@
+debian/README.Debian
+README.rst
+debian/patches/0001-Fix-import-error-for-zuul-version-with-docs.patch
+debian/patches/0002-Add-the-ability-to-set-git-user.email-and-user.name.patch
+debian/patches/0002-Add-user.email-and-user.name-to-.git-config.patch
+debian/patches/0003-doc-rename-manpage-from-zuul-to-zuul-server.patch
+debian/changelog
+debian/copyright
+debian/gbp.conf
+debian/compat
+debian/control
+debian/rules
+debian/install

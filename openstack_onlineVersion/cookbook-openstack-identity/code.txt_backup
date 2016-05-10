@@ -1,0 +1,6 @@
+resources/credentials.rb
+resources/register.rb
+libraries/matchers.rb
+providers/credentials.rb
+providers/register.rb
+files/default/keystone_plugin.py

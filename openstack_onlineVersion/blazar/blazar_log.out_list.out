@@ -1,0 +1,2 @@
+bin/climate-rpc-zmq-receiver
+bin/climate-scheduler

@@ -1,0 +1,17 @@
+COPYING
+.coveragerc
+doc/conf.py
+doc/index.rst
+doc/source/api.rst
+doc/source/conf.py
+doc/source/example.rst
+doc/source/index.rst
+doc/source/install.rst
+.gitignore
+.gitreview
+.pep8
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

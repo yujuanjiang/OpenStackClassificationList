@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+opentsdbclient/client.py
+opentsdbclient/__init__.py
+opentsdbclient/tests/__init__.py
+opentsdbclient/tests/test_client.py
+opentsdbclient/utils.py
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt
+tox.ini

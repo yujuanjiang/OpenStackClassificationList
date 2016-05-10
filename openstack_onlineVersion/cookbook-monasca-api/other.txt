@@ -1,0 +1,10 @@
+files/default/hpmiddleware-keystore-development.jks
+files/default/hpmiddleware-keystore-production.jks
+files/default/hpmiddleware-truststore.jks
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/ehCacheConfig.xml.erb
+templates/default/mon-service-config.yml.erb
+templates/default/service-config.yml.erb

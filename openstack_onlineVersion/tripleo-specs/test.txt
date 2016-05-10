@@ -1,0 +1,4 @@
+tests/test_titles.py
+tox.ini
+tripleo-specs/tests/base.py
+tripleo-specs/tests/test_tripleo-specs.py

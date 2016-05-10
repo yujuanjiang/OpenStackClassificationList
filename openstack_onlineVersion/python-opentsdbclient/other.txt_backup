@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+MANIFEST.in
+setup.cfg
+setup.py

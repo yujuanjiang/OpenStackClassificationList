@@ -1,0 +1,15 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+CONTRIBUTING.rst
+MANIFEST.in
+etc/rootwrap.conf.sample
+etc/oslo/rootwrap.conf
+etc/oslo-rootwrap/rootwrap.conf
+etc/oslo.rootwrap/rootwrap.conf
+benchmark/filters.d/ip.filters
+benchmark/rootwrap.conf
+setup.cfg
+setup.py

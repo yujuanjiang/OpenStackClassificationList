@@ -1,0 +1,6 @@
+run_tests.sh
+tox.ini
+warm/openstack/common/test.py
+warm/tests/templates/test.ci
+warm/tests/test_components.py
+warm/tests/test_noop.py

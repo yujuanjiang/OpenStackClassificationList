@@ -1,0 +1,13 @@
+elements/testenv-worker/bin/ci_commands
+elements/testenv-worker/bin/ensure-test-env
+elements/testenv-worker/bin/testenv-ctl
+elements/testenv-worker/element-deps
+elements/testenv-worker/install.d/79-te-worker
+elements/testenv-worker/os-refresh-config/configure.d/60-setup-testenvs
+elements/testenv-worker/source-repository-testenv-worker
+elements/testenv-worker/testenv-worker
+testenv-client
+toci_devtest.sh
+toci_gate_test_instack.sh
+toci_gate_test.sh
+toci_test.sh

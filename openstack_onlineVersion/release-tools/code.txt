@@ -1,0 +1,15 @@
+consolidate_release_page.py
+create_milestones.py
+milestone.sh
+mpcut.sh
+mpdelivery.sh
+ms2version.py
+process_bugs.py
+rccut.sh
+rcdelivery.sh
+repo_tarball_diff.sh
+similar_tarballs.sh
+spec2bp.py
+swiftrc.sh
+upload_release.py
+wait_for_tarball.py

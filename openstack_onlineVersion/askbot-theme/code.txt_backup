@@ -1,0 +1,7 @@
+os/templates/base.html
+os/templates/maintenance.html
+os/templates/meta/fonts.html
+os/templates/widgets/footer.html
+os/templates/widgets/meta_nav.html
+os/templates/widgets/user_navigation.html
+__init__.py

@@ -1,0 +1,5 @@
+bindep/depends.py
+bindep/__init__.py
+bindep/main.py
+bindep/support_py26.py
+bindep/tests/__init__.py

@@ -1,0 +1,5 @@
+tools/fluentd-plugin-udp_msgpack/Gemfile
+tools/fluentd-plugin-udp_msgpack/fluent-plugin-udp_msgpack.gemspec
+tools/fluentd-plugin-udp_msgpack/Rakefile
+tools/ansible-openstack-log/set_log.yml
+tools/ansible-openstack/set_openstack.yml

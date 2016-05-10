@@ -1,0 +1,16 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+CONTRIBUTING.rst
+doc/source/api_v1.rst
+doc/source/cli.rst
+doc/source/contributing.rst
+doc/source/index.rst
+MANIFEST.in
+doc/source/conf.py
+openstack-common.conf
+tools/ironic.bash_completion
+setup.cfg
+setup.py

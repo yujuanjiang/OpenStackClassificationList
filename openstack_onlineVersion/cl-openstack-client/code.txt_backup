@@ -1,0 +1,4 @@
+cl-openstack-client.asd
+keystone.lisp
+openstack.lisp
+update-deps.lisp

@@ -1,0 +1,5 @@
+app/database/production.sqlite
+artisan
+composer.json
+phpunit.xml
+server.php

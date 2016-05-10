@@ -1,0 +1,3 @@
+run_tests_remote.sh
+run_tests.sh
+xenapi-os-testing.sh

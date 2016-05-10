@@ -1,0 +1,7 @@
+contrib/puppet/fileserver.conf
+contrib/puppet/puppet.conf
+contrib/puppet/templates/haproxy.cfg.erb
+contrib/puppet/templates/monitrc-nova-api.erb
+contrib/puppet/templates/nova-iptables.erb
+contrib/puppet/templates/production/nova-common.conf.erb
+contrib/puppet/templates/production/nova-nova.conf.erb

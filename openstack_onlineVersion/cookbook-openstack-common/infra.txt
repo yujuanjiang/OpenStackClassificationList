@@ -1,0 +1,10 @@
+attributes/database.rb
+attributes/default.rb
+attributes/messaging.rb
+recipes/ceph_client.rb
+recipes/client.rb
+recipes/default.rb
+recipes/logging.rb
+recipes/openrc.rb
+recipes/set_endpoints_by_interface.rb
+recipes/sysctl.rb

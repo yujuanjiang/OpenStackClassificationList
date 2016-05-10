@@ -1,0 +1,4 @@
+README
+LICENSE
+.gitignore
+templates/vhost.erb

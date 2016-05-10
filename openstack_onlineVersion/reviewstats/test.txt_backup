@@ -1,0 +1,8 @@
+reviewstats/tests/base.py
+reviewstats/tests/test_projectinfo.py
+reviewstats/tests/test_reviewstats.py
+tests/test_reviewers.py
+testprojectinfo.py
+tox.ini
+requirements.txt
+test-requirements.txt

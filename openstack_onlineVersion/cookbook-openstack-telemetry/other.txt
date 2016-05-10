@@ -1,0 +1,12 @@
+attributes/.rubocop.yml
+CHANGELOG.md
+files/default/policy.json
+.gitignore
+.gitreview
+README.md
+recipes/.rubocop.yml
+.rubocop.yml
+Strainerfile
+templates/default/ceilometer.conf.erb
+TESTING.md
+spec/.rubocop.yml

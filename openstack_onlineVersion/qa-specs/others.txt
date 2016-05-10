@@ -1,0 +1,3 @@
+doc/source/README.rst
+.gitignore
+.gitreview

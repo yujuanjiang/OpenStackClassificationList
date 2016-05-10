@@ -1,0 +1,6 @@
+tests/test_titles.py
+tripleo-specs/tests/base.py
+tripleo-specs/tests/test_tripleo-specs.py
+tox.ini
+requirements.txt
+test-requirements.txt

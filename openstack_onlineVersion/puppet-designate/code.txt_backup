@@ -1,0 +1,3 @@
+spec/classes/ceilometer_db_mysql_spec.rb
+spec/classes/designate_db_mysql_spec.rb
+spec/spec_helper.rb

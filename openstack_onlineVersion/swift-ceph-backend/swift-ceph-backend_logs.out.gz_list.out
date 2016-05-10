@@ -1,0 +1,8 @@
+README.md
+setup.py
+swift_ceph_backend/rados_diskfile.py
+swift_ceph_backend/rados_server.py
+tests/test_rados_diskfile.py
+tests/test_rados_diskfile.pyc
+tests/test_rados_server.py
+tox.ini

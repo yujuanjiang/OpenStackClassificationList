@@ -1,0 +1,12 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+CONTRIBUTING.rst
+HACKING.rst
+MANIFEST.in
+openstack-common.conf
+tools/pip-requires
+setup.cfg
+gerritlib/openstack/common/setup.py
+setup.py

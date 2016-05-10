@@ -1,0 +1,16 @@
+LICENSE
+README.rst
+.coveragerc
+.gitignore
+.gitreview
+.pylintrc
+.testr.conf
+doc/source/index.rst
+HACKING.rst
+MANIFEST.in
+doc/source/conf.py
+openstack-common.conf
+tools/neutron.bash_completion
+tools/tacker.bash_completion
+setup.cfg
+setup.py

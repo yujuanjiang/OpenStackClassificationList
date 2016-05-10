@@ -1,0 +1,17 @@
+attributes/backup.rb
+attributes/default.rb
+attributes/ufw.rb
+Berksfile
+files/default/hpmiddleware-keystore-development.jks
+files/default/hpmiddleware-keystore-production.jks
+files/default/hpmiddleware-truststore.jks
+Gemfile
+metadata.rb
+README.md
+recipes/default.rb
+.rubocop.yml
+spec/empty.rb
+Strainerfile
+templates/default/ehCacheConfig.xml.erb
+templates/default/mon-service-config.yml.erb
+templates/default/service-config.yml.erb

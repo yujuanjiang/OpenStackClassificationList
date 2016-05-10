@@ -1,0 +1,15 @@
+README
+LICENSE
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+index.rst
+MANIFEST.in
+conf.py
+doc/source/conf.py
+make.bat
+bin/pyghmicons
+bin/pyghmiutil
+setup.cfg
+setup.py

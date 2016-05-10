@@ -1,0 +1,3 @@
+spec/spec_helper.rb
+spec/test_swift_cluster.rb
+spec/test_two_node.rb

@@ -1,0 +1,17 @@
+policies/CWpolicy.json
+policies/default.json
+README.md
+requirements
+setup.py
+swiftpolicy/enforcer.py
+swiftpolicy/__init__.py
+swiftpolicy/keystoneauth.py
+swiftpolicy/openstack/common/__init__.py
+swiftpolicy/openstack/common/policy_parser.py
+swiftpolicy/openstack/__init__.py
+swiftpolicy/policy.py
+swiftpolicy/swiftpolicy.py
+tests/__init__.py
+tests/policies/default.json
+tests/test_CWpolicy.sh
+tests/test_swiftpolicy.py

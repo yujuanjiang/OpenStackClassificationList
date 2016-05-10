@@ -1,0 +1,4 @@
+hot/software-config/example-templates/config-scripts/example-puppet-manifest.pp
+hot/software-config/elements/heat-config-cfn-init/install.d/hook-cfn-init.py
+hot/software-config/elements/heat-config-puppet/install.d/hook-puppet.py
+hot/software-config/elements/heat-config-salt/install.d/hook-salt.py

@@ -1,0 +1,12 @@
+dashboard/doc/Makefile
+dashboard/Makefile
+docs/src/glazier-manual/pom.xml
+manuals/pom.xml
+src/administrators-guide/pom.xml
+src/developers-guide/pom.xml
+src/getting-started/pom.xml
+src/glazier-manual/pom.xml
+src/murano-deployment-guide/pom.xml
+src/murano-manual/pom.xml
+src/user-guide/pom.xml
+windc/doc/Makefile

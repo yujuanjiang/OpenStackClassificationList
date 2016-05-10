@@ -1,0 +1,5 @@
+xstatic/pkg/jsencrypt/data/jsencrypt.js
+xstatic/__init__.py
+xstatic/pkg/__init__.py
+xstatic/pkg/jsencrypt/__init__.py
+setup.py

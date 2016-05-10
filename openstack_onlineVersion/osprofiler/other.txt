@@ -1,0 +1,13 @@
+babel.cfg
+doc/source/conf.py
+doc/source/index.rst
+.gitignore
+.gitreview
+LICENSE
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

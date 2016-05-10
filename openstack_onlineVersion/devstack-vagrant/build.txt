@@ -1,0 +1,3 @@
+puppet/modules/vcsrepo/Gemfile
+puppet/modules/vcsrepo/Gemfile.lock
+puppet/modules/vcsrepo/Rakefile

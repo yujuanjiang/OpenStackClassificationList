@@ -1,0 +1,9 @@
+.gitreview
+LICENSE
+README.rst
+refstack-client/refstack-client
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

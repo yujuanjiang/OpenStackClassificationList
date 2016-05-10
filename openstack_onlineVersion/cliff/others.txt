@@ -1,0 +1,3 @@
+demoapp/README.rst
+.gitignore
+.gitreview

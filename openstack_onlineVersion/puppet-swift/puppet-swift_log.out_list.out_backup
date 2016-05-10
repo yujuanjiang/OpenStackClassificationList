@@ -1,0 +1,6 @@
+ext/swift.rb
+QUESTIONS
+spec/fixtures/default_proxy_server
+spec/fixtures/modules/swift
+spec/fixtures/swauth_default_proxy_server
+spec/fixtures/swauth_overrides_proxy_server

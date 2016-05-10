@@ -1,0 +1,6 @@
+imagebuild/coreos/README.md
+imagebuild/coreos/README.rst
+imagebuild/README.md
+imagebuild/README.rst
+.gitignore
+.gitreview

@@ -1,0 +1,6 @@
+fuel_health/etc/heat_autoscale_nova.yaml
+fuel_health/etc/heat_autoscaling_template.yaml
+fuel_health/etc/heat_create_neutron_stack_template.yaml
+fuel_health/etc/heat_create_nova_stack_template.yaml
+sanity/etc/config.yaml
+sanity/etc/nodes.yaml

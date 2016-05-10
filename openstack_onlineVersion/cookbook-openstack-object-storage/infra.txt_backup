@@ -1,0 +1,15 @@
+recipes/account-server.rb
+recipes/client.rb
+recipes/common.rb
+recipes/container-server.rb
+recipes/disks.rb
+recipes/management-server.rb
+recipes/memcached.rb
+recipes/object-server.rb
+recipes/proxy-server.rb
+recipes/ring-repo.rb
+recipes/rsync.rb
+recipes/setup.rb
+recipes/storage-common.rb
+attributes/default.rb
+Berksfile.lock

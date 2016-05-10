@@ -1,0 +1,11 @@
+CHANGELOG.md
+.gitignore
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/api-paste.ini.erb
+templates/default/default.yaml.erb
+templates/default/heat.conf.erb
+templates/default/policy.json.erb
+TESTING.md

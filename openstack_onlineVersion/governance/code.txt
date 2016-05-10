@@ -1,0 +1,1 @@
+resolutions/20140617-defcore-capabilities-scoring/extract.py

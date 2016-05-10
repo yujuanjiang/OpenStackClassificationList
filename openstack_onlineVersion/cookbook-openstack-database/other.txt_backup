@@ -1,0 +1,16 @@
+CHANGELOG.md
+.gitignore
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/api-paste.ini.erb
+templates/default/trove-conductor.conf.erb
+templates/default/trove.conf.erb
+templates/default/trove-taskmanager.conf.erb
+TESTING.md
+spec/api-suse_spec.rb
+spec/conductor-suse_spec.rb
+spec/identity_registration-suse_spec.rb
+spec/spec_helper.rb
+spec/taskmanager-suse_spec.rb

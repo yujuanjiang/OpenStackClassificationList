@@ -1,0 +1,14 @@
+example/all.pp
+manifests/agent.pp
+manifests/api.pp
+manifests/backend/bind9.pp
+manifests/central.pp
+manifests/client.pp
+manifests/db/mysql/host_access.pp
+manifests/db/mysql.pp
+manifests/db.pp
+manifests/dns.pp
+manifests/init.pp
+manifests/keystone/auth.pp
+manifests/params.pp
+manifests/sink.pp

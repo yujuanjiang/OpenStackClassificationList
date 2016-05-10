@@ -1,0 +1,5 @@
+os_loganalyze/tests/base.py
+os_loganalyze/tests/test_filters.py
+os_loganalyze/tests/test_os_loganalyze.py
+os_loganalyze/tests/test_wsgi.py
+tox.ini

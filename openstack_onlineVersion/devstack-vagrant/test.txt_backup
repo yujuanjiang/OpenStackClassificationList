@@ -1,0 +1,9 @@
+puppet/modules/vcsrepo/spec/spec_helper.rb
+puppet/modules/vcsrepo/spec/spec.opts
+puppet/modules/vcsrepo/spec/support/filesystem_helpers.rb
+puppet/modules/vcsrepo/spec/support/fixture_helpers.rb
+puppet/modules/vcsrepo/spec/unit/puppet/provider/vcsrepo/bzr_spec.rb
+puppet/modules/vcsrepo/spec/unit/puppet/provider/vcsrepo/cvs_spec.rb
+puppet/modules/vcsrepo/spec/unit/puppet/provider/vcsrepo/git_spec.rb
+puppet/modules/vcsrepo/spec/unit/puppet/provider/vcsrepo/hg_spec.rb
+puppet/modules/vcsrepo/spec/unit/puppet/provider/vcsrepo/svn_spec.rb

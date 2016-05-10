@@ -1,0 +1,7 @@
+.gitignore
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/mon-thresh-config.yml.erb
+templates/default/thresh-config.yml.erb

@@ -1,0 +1,11 @@
+hadoop-swiftn-driver/src/test/java/org/apache/hadoop/fs/swiftnative/NativeSwiftFileSystemContractBaseTest.java
+hadoop-swiftn-driver/src/test/java/org/apache/hadoop/fs/swiftnative/SwiftNativeFileSystemContractTest.java
+hadoop-swiftn-driver/src/test/java/org/apache/hadoop/fs/swift/TestSwiftNativeCredentials.java
+mraas/src/test/java/com/hpcloud/mraas/tests/core/ClusterTest.java
+mraas/src/test/java/com/hpcloud/mraas/tests/nova/ClientTest.java
+mraas/src/test/java/com/hpcloud/mraas/tests/resources/ClusterResourceTest.java
+mraas/src/test/resources/fixtures/cluster.json
+src/test/java/com/hpcloud/mraas/tests/domain/ClusterTest.java
+src/test/java/com/hpcloud/mraas/tests/nova/ClientTest.java
+src/test/java/com/hpcloud/mraas/tests/resources/ClusterResourceTest.java
+src/test/resources/fixtures/cluster.json

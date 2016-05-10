@@ -1,0 +1,6 @@
+{{cookiecutter.repo_name}}/README.rst
+{{cookiecutter.repo_name}}/.gitignore
+{{cookiecutter.repo_name}}/specs/.gitignore
+{{cookiecutter.repo_name}}/.gitreview
+.gitreview
+{{cookiecutter.repo_name}}/.mailmap

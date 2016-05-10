@@ -1,0 +1,13 @@
+manifests/api.pp
+manifests/client.pp
+manifests/conductor.pp
+manifests/db/mysql/host_access.pp
+manifests/db/mysql.pp
+manifests/db/postgresql.pp
+manifests/db/sync.pp
+manifests/generic_service.pp
+manifests/guestagent.pp
+manifests/init.pp
+manifests/keystone/auth.pp
+manifests/params.pp
+manifests/taskmanager.pp

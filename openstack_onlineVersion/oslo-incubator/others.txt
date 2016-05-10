@@ -1,0 +1,11 @@
+openstack/common/db/sqlalchemy/migration_cli/README.rst
+openstack/paste/templates/openstack/README
+openstack/paste/templates/openstack/README_tmpl
+pypi/README
+tools/config/README
+.gitignore
+openstack/paste/templates/openstack/.gitignore
+doc/source/static/openstack_logo.png
+doc/source/static/header_bg.jpg
+.gitreview
+.mailmap

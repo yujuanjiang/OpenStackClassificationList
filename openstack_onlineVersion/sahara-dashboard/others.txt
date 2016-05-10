@@ -1,0 +1,7 @@
+saharadashboard/tests/README.rst
+saharadashboard/tests/resources/README.rst
+savannadashboard/tests/README.rst
+savannadashboard/tests/resources/README.rst
+.gitignore
+.gitreview
+.mailmap

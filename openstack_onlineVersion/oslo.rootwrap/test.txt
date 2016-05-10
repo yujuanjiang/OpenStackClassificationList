@@ -1,0 +1,5 @@
+etc/openstack-common.conf.test
+tests/test_functional.py
+tests/test_rootwrap.py
+tests/unit/test_rootwrap.py
+tox.ini

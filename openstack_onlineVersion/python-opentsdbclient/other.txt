@@ -1,0 +1,10 @@
+.gitignore
+.gitreview
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

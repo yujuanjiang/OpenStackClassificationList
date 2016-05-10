@@ -1,0 +1,4 @@
+doc/Makefile
+nodepool/jenkins_manager.py
+nodepool/myjenkins.py
+tools/fake.yaml

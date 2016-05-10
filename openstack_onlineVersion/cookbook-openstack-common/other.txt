@@ -1,0 +1,17 @@
+attributes/.rubocop.yml
+CHANGELOG.md
+Cheffile
+.gitignore
+.gitreview
+LICENSE
+README.md
+recipes/.rubocop.yml
+.rubocop.yml
+Strainerfile
+.tailor
+templates/default/60-openstack.conf.erb
+templates/default/ceph.client.keyring.erb
+templates/default/ceph.conf.erb
+templates/default/logging.conf.erb
+templates/default/openrc.erb
+TESTING.md

@@ -1,0 +1,7 @@
+git_review/tests/prepare.py
+git_review/tests/test_git_review.py
+git_review/tests/test_unit.py
+git_review/tests/utils.py
+tox.ini
+requirements.txt
+test-requirements.txt

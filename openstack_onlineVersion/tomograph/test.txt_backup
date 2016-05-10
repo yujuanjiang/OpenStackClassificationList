@@ -1,0 +1,8 @@
+tests/basic.py
+tests/bench.py
+tox.ini
+LICENSE.txt
+py33-requirements.txt
+py33-test-requirements.txt
+requirements.txt
+test-requirements.txt

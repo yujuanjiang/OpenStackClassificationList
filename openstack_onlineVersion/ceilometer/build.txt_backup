@@ -1,0 +1,5 @@
+doc/Makefile
+doc/Makefile
+etc/ceilometer/deprecated_pipeline.yaml
+etc/ceilometer/event_definitions.yaml
+etc/ceilometer/pipeline.yaml

@@ -1,0 +1,12 @@
+swiftclient/client.py
+swiftclient/command_helpers.py
+swiftclient/exceptions.py
+swiftclient/https_connection.py
+swiftclient/multithreading.py
+swiftclient/openstack/common/version.py
+swiftclient/shell.py
+swiftclient/utils.py
+swiftclient/version.py
+swiftclient/__init__.py
+swiftclient/openstack/common/__init__.py
+swiftclient/openstack/__init__.py

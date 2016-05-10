@@ -1,0 +1,17 @@
+LICENSE
+os-refresh-config
+os_refresh_config/__init__.py
+os_refresh_config/os_refresh_config.py
+os_refresh_config/tests/__init__.py
+os_refresh_config/tests/test_main.py
+os_refresh_config/tests/test_os_refresh_config.py
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt
+tests/configure.d/40-error
+tests/pre-configure.d/01-test
+tox.ini

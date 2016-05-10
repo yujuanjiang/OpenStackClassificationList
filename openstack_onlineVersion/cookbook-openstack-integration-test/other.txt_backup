@@ -1,0 +1,10 @@
+.gitignore
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/tempest.conf.erb
+TESTING.md
+spec/setup-redhat_spec.rb
+spec/setup_spec.rb
+spec/spec_helper.rb

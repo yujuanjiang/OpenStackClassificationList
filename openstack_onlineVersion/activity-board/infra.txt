@@ -1,0 +1,2 @@
+templates/bs3_upgrade.sh
+templates/gen.sh

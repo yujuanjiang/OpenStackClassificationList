@@ -1,0 +1,7 @@
+policies/CWpolicy.json
+policies/default.json
+requirements
+swiftpolicy/enforcer.py
+swiftpolicy/keystoneauth.py
+swiftpolicy/policy.py
+swiftpolicy/swiftpolicy.py

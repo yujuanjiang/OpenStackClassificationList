@@ -1,0 +1,17 @@
+{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/tests/base.py
+{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/tests/test_{{cookiecutter.module_name}}.py
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/tests/test_{{cookiecutter.repo_name}}.py
+{{cookiecutter.repo_name}}/tests/test_{{cookiecutter.repo_name}}.py
+{{cookiecutter.repo_name}}/tests/test_{{project.repo_name}}.py
+package/tests/input/about.html
+package/tests/input/base.html
+package/tests/input/index.html
+package/tests/input/test.json
+package/tests/test_complexity.py
+package/tests/test_package.py
+{{project.repo_name}}/tests/test_{{project.repo_name}}.py
+repo_name/tests/test_package.py
+{{cookiecutter.repo_name}}/tox.ini
+package/tox.ini
+{{project.repo_name}}/tox.ini
+repo_name/tox.ini

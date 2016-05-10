@@ -1,0 +1,4 @@
+migrate/versioning/templates/repository/default/README
+migrate/versioning/templates/repository/pylons/README
+.gitignore
+.gitreview

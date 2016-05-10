@@ -1,0 +1,3 @@
+fuel_upgrade_system/fuel_upgrade/bin/fuel-upgrade
+fuel_upgrade_system/fuel_upgrade/fuel_upgrade/templates/cobbler_runner
+fuel_upgrade_system/fuel_upgrade/fuel_upgrade/templates/supervisor.conf

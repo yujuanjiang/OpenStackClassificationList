@@ -1,0 +1,10 @@
+bin/melange
+bin/melange-client
+bin/melange-delete-deallocated-ips
+bin/melange-manage
+bin/melange-scheduler
+bin/melange-server
+etc/esx/guest_tool.py
+etc/vmware_guest_tool.py
+exercise_rsapi.py
+xenapi/etc/xapi.d/plugins/pluginlib_nova.py

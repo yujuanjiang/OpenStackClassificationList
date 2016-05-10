@@ -1,0 +1,6 @@
+cookbooks/osops-utils/libraries/database.rb
+cookbooks/osops-utils/libraries/ip_location.rb
+cookbooks/osops-utils/libraries/patch.rb
+cookbooks/osops-utils/metadata.rb
+environments/example.rb
+environments/production.rb

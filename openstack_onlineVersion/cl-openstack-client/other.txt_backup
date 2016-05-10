@@ -1,0 +1,5 @@
+README.md
+.gitignore
+.gitreview
+COPYING
+cl-openstack-client.asd

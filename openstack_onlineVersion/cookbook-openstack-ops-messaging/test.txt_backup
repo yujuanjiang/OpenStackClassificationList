@@ -1,0 +1,6 @@
+spec/default_spec.rb
+spec/rabbitmq-server-redhat_spec.rb
+spec/rabbitmq-server_spec.rb
+spec/server_spec.rb
+spec/spec_helper.rb
+spec/support/matcher.rb

@@ -1,0 +1,5 @@
+oslo/version/tests/test_version.py
+pbr/tests/test_version.py
+tests/test_version.py
+tox.ini
+test-requirements.txt

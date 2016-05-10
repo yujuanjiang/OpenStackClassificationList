@@ -1,0 +1,4 @@
+spec/default_spec.rb
+spec/empty.rb
+spec/plugin_cfg_spec.rb
+spec/spec_helper.rb

@@ -1,0 +1,9 @@
+.gitignore
+docs/source/essays/api-enforcement.jpg
+docs/source/essays/ceilometer-design.jpg
+docs/source/essays/discovery.jpg
+docs/source/essays/enabling.jpg
+docs/source/essays/importing.jpg
+docs/source/essays/integration.jpg
+docs/source/essays/invocation.jpg
+.gitreview

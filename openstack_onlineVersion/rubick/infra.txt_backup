@@ -1,0 +1,5 @@
+tox.ini
+Vagrantfile
+vagrant/cookbooks/openstack-validator/recipes/default.rb
+vagrant/cookbooks/rubick/recipes/default.rb
+run_vagrant_provision.sh

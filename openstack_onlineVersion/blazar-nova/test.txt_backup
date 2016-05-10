@@ -1,0 +1,15 @@
+blazarnova/tests/api/extensions/test_default_reservation.py
+blazarnova/tests/api/extensions/test_reservation.py
+blazarnova/tests/scheduler/filters/test_blazar_filter.py
+climatenova/tests/api/extensions/test_default_reservation.py
+climatenova/tests/api/extensions/test_reservation.py
+climatenova/tests/scheduler/filters/test_blazar_filter.py
+climatenova/tests/scheduler/filters/test_climate_filter.py
+climatenova/tests/test_climate_scheduler.py
+climate/tests/test_climate_scheduler.py
+blazarnova/openstack/common/test.py
+climatenova/openstack/common/test.py
+tox.ini
+climate/openstack/common/test.py
+requirements.txt
+test-requirements.txt

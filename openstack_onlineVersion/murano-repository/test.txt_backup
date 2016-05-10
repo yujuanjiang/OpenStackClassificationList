@@ -1,0 +1,17 @@
+muranorepository/tests/fixtures/consts.py
+muranorepository/tests/fixtures.py
+muranorepository/tests/_test_client_api.py
+muranorepository/tests/test.conf
+muranorepository/tests/test_data_type_listing.py
+muranorepository/tests/test_dir_operations.py
+muranorepository/tests/_test_get_files.py
+muranorepository/tests/test_main.py
+muranorepository/tests/test_upload.py
+metadata_service/openstack/common/notifier/test_notifier.py
+metadata_service/openstack/common/test.py
+metadata_service/tools/run_itests
+metadata_service/tools/run_tests
+muranorepository/openstack/common/notifier/test_notifier.py
+muranorepository/openstack/common/test.py
+test.py
+tox.ini

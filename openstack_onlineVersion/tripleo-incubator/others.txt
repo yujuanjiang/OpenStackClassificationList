@@ -1,0 +1,12 @@
+doc/source/README.rst
+image-config/README.md
+stacks/README.md
+tripleo-cloud/README.md
+.gitignore
+doc/source/overview.svg
+images/baremetal-bootstrap.svg
+images/baremetal-build-images.svg
+images/baremetal-deploy-process.svg
+images/tripleo-concept.svg
+images/tripleo-overview.png
+.gitreview

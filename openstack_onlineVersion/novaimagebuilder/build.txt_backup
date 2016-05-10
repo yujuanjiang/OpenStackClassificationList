@@ -1,0 +1,11 @@
+novaimagebuilder/BaseOS.py
+novaimagebuilder/Builder.py
+novaimagebuilder/CacheManager.py
+novaimagebuilder/ISOHelper.py
+novaimagebuilder/NovaInstance.py
+novaimagebuilder/OSInfo.py
+novaimagebuilder/RedHatOS.py
+novaimagebuilder/Singleton.py
+novaimagebuilder/StackEnvironment.py
+novaimagebuilder/SyslinuxHelper.py
+novaimagebuilder/WindowsOS.py

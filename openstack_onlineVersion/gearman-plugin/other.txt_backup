@@ -1,0 +1,7 @@
+debug
+install-fast
+run-fast
+src/main/webapp/help-globalConfig.html
+src/main/webapp/help-launchWorker.html
+src/main/webapp/help-serverHost.html
+src/main/webapp/help-serverPort.html

@@ -1,0 +1,14 @@
+stevedore/dispatch.py
+stevedore/driver.py
+stevedore/enabled.py
+stevedore/example/base.py
+stevedore/example/fields.py
+stevedore/example/__init__.py
+stevedore/example/load_as_driver.py
+stevedore/example/load_as_extension.py
+stevedore/example/simple.py
+stevedore/extension.py
+stevedore/hook.py
+stevedore/__init__.py
+stevedore/named.py
+stevedore/tests/__init__.py

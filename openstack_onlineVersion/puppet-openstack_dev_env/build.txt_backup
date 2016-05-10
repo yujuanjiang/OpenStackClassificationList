@@ -1,0 +1,7 @@
+Gemfile
+config.yaml
+hiera_data/common.yaml
+hiera_data/swift-storage-1.yaml
+hiera_data/swift-storage-2.yaml
+hiera_data/swift-storage-3.yaml
+Rakefile

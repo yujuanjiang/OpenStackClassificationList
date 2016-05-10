@@ -1,0 +1,4 @@
+gear/tests/test_gear.py
+tox.ini
+requirements.txt
+test-requirements.txt

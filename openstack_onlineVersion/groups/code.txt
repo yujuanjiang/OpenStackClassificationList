@@ -1,0 +1,10 @@
+modules/commons/commons_bw/plugins/quicktabs_styles/commons_pills/config.rb
+modules/commons/commons_bw/plugins/quicktabs_styles/commons_tabs/config.rb
+modules/commons/commons_like/config.rb
+modules/commons/commons_q_a/config.rb
+scripts/bootstrap.sh
+themes/groups/openstack/js/script.js
+themes/groups/openstack/sass-extensions/zen-grids/lib/zen-grids.rb
+themes/openstack/js/script.js
+themes/openstack/layouts/panels/openstack_front/openstack_front.inc
+themes/openstack/sass-extensions/zen-grids/lib/zen-grids.rb

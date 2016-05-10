@@ -1,0 +1,2 @@
+elements/tuskar/os-apply-config/etc/tuskar/nova_overcloud_config.yml
+elements/tuskar/os-config-applier/etc/tuskar/nova_overcloud_config.yml

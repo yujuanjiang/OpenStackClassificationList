@@ -1,0 +1,3 @@
+files/default/neutron-ha-tool.py
+files/default/quantum-ha-tool.py
+metadata.rb

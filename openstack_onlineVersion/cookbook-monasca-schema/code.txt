@@ -1,0 +1,3 @@
+files/default/vertica/create_mon_db_cluster.sh
+files/default/vertica/create_mon_db.sh
+metadata.rb

@@ -1,0 +1,12 @@
+run_tests.sh
+satori/tests/test_bash.py
+satori/tests/test_common_logging.py
+satori/tests/test_common_templating.py
+satori/tests/test_dns.py
+satori/tests/test_formats_text.py
+satori/tests/test_shell.py
+satori/tests/test_ssh.py
+satori/tests/test_sysinfo_ohai_solo.py
+satori/tests/test_utils.py
+satori/tests/utils.py
+tox.ini

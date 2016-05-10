@@ -1,0 +1,13 @@
+LICENSE
+README.md
+README.rst
+.coveragerc
+.gitignore
+.gitreview
+.testr.conf
+.travis.yml
+MANIFEST.in
+setup.cfg
+setup.py
+requirements.txt
+test-requirements.txt

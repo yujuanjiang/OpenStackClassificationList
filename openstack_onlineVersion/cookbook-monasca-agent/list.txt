@@ -1,0 +1,8 @@
+code.txt
+infra.txt
+infra.txt
+shell.out
+code.txt
+descriptors.txt
+libs.txt
+other.txt

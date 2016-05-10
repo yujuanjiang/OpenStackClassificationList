@@ -1,0 +1,10 @@
+test_scripts/openstack_test.sh
+lib/puppetlabs/os_tester/github.rb
+lib/puppetlabs/os_tester/git.rb
+lib/puppetlabs/os_tester/librarian.rb
+lib/puppetlabs/os_tester/openstack.rb
+lib/puppetlabs/os_tester.rb
+lib/puppetlabs/os_tester/swift.rb
+lib/puppetlabs/os_tester/system.rb
+lib/puppetlabs/os_tester/vagrant.rb
+spec/spec_helper.rb

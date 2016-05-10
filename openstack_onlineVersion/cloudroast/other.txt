@@ -1,0 +1,12 @@
+AUTHORS.md
+.gitignore
+.gitreview
+HACKING.rst
+HISTORY.md
+HISTORY.rst
+LICENSE
+MANIFEST.in
+NOTICE
+pip-requires
+README.md
+setup.py

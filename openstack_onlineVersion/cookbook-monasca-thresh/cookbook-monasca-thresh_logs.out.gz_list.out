@@ -1,0 +1,11 @@
+attributes/default.rb
+Berksfile
+Gemfile
+metadata.rb
+README.md
+recipes/default.rb
+.rubocop.yml
+spec/empty.rb
+Strainerfile
+templates/default/mon-thresh-config.yml.erb
+templates/default/thresh-config.yml.erb

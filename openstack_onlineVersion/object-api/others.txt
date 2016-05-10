@@ -1,0 +1,4 @@
+.gitignore
+openstack-object-storage-dev/.gitignore
+v1/.gitignore
+.gitreview

@@ -1,0 +1,6 @@
+mcagents/puppetd.ddl
+mcagents/puppetd.rb
+mcagents/puppetsync.ddl
+mcagents/puppetsync.rb
+astute/setup-env.sh
+setup-env.sh

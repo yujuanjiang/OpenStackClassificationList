@@ -1,0 +1,4 @@
+manifests/deploy.pp
+manifests/init.pp
+manifests/pkgprep_ovscfg.pp
+manifests/vsmprep.pp

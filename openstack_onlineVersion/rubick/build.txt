@@ -1,0 +1,6 @@
+config_samples/fuel_web/golden_fuelweb/cnt1/swift/account.builder
+config_samples/fuel_web/golden_fuelweb/cnt1/swift/container.builder
+config_samples/fuel_web/golden_fuelweb/cnt1/swift/object.builder
+devstack.yaml
+joker/joker.yaml
+joker/sandbox/worm.yaml

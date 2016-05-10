@@ -1,0 +1,17 @@
+integration-test/test.sh
+hacking/tests/checks/test_comments.py
+hacking/tests/test_config.py
+hacking/tests/test_core.py
+hacking/tests/test_doctest.py
+hacking/tests/test_gittest.py
+hacking/tests/test_import_exceptions.py
+hacking/tests/test_local.py
+hacking/tests/test_noqa_decorator.py
+regression_tester.py
+test-options
+test-requires
+xenserver/stress_test.py
+tox.ini
+ajaxterm/README.txt
+requirements.txt
+test-requirements.txt

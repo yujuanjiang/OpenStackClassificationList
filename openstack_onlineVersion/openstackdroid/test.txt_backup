@@ -1,0 +1,17 @@
+com.rcarrillocruz.android.openstackdroid/AndroidManifest.xml
+com.rcarrillocruz.android.openstackdroid/res/layout/activity_main.xml
+com.rcarrillocruz.android.openstackdroid/res/layout/connection_profile_activity.xml
+com.rcarrillocruz.android.openstackdroid/res/layout-land/cloud_browser.xml
+com.rcarrillocruz.android.openstackdroid/res/layout/profile_list_item.xml
+com.rcarrillocruz.android.openstackdroid/res/menu/connection_profile_menu.xml
+com.rcarrillocruz.android.openstackdroid/res/menu/contextual.xml
+com.rcarrillocruz.android.openstackdroid/res/menu/login_contextual.xml
+com.rcarrillocruz.android.openstackdroid/res/menu/login_menu.xml
+com.rcarrillocruz.android.openstackdroid/res/menu/main.xml
+com.rcarrillocruz.android.openstackdroid/res/values/dimens.xml
+com.rcarrillocruz.android.openstackdroid/res/values/strings.xml
+com.rcarrillocruz.android.openstackdroid/res/values/styles.xml
+com.rcarrillocruz.android.openstackdroid/res/values-sw600dp/dimens.xml
+com.rcarrillocruz.android.openstackdroid/res/values-sw720dp-land/dimens.xml
+com.rcarrillocruz.android.openstackdroid/res/values-v11/styles.xml
+com.rcarrillocruz.android.openstackdroid/res/values-v14/styles.xml

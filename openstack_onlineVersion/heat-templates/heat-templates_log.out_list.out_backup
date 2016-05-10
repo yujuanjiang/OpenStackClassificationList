@@ -1,0 +1,3 @@
+hot/software-config/elements/heat-config/os-apply-config/var/run/heat-config/heat-config
+hot/software-config/elements/heat-config/os-config-applier/var/run/heat-config/heat-config
+hot/software-config/elements/heat-config/os-refresh-config/configure.d/55-heat-config

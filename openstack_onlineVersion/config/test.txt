@@ -1,0 +1,12 @@
+modules/jenkins_jobs/files/test.sh
+modules/openstack_project/files/gerrit/acls/openstack/oslo.test.config
+modules/openstack_project/files/gerrit/acls/openstack/oslotest.config
+modules/openstack_project/files/gerrit/acls/stackforge-attic/murano-tests.config
+modules/openstack_project/files/gerrit/acls/stackforge/fuel-ostf-tests.config
+modules/openstack_project/files/gerrit/acls/stackforge/xenapi-os-testing.config
+modules/openstack_project/files/gerrit/acls/test-manage-project.config
+modules/orchestra/files/openstack-test.preseed
+modules/salt/templates/tests.reactor.erb
+test.sh
+tools/test-jenkins-api.py
+tox.ini

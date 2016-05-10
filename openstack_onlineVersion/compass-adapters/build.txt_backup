@@ -1,0 +1,8 @@
+chef/cookbooks/python/src/15/calling_python_from_c/Makefile
+chef/cookbooks/python/src/15/Makefile
+chef/cookbooks/python/src/15/calling_python_from_c/Makefile
+chef/cookbooks/python/src/15/Makefile
+chef/cookbooks/nodejs/Rakefile
+chef/cookbooks/ntp/Rakefile
+chef/cookbooks/runit/Rakefile
+chef/cookbooks/ntp/Guardfile

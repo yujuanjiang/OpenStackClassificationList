@@ -1,0 +1,12 @@
+{{cookiecutter.repo_name}}/README.rst
+package/README.rst
+{{project.repo_name}}/README.rst
+repo_name/README.rst
+{{cookiecutter.repo_name}}/.gitignore
+.gitignore
+package/.gitignore
+{{project.repo_name}}/.gitignore
+repo_name/.gitignore
+{{cookiecutter.repo_name}}/.gitreview
+.gitreview
+{{cookiecutter.repo_name}}/.mailmap

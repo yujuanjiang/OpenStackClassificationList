@@ -1,0 +1,3 @@
+bin/galloper-api
+bin/galloper-cli
+bin/galloper-rpc-zmq-receiver

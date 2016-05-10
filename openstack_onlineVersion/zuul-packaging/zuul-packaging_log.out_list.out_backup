@@ -1,0 +1,11 @@
+debian/dirs
+debian/docs
+debian/examples
+debian/init
+debian/links
+debian/manpages
+debian/patches/series
+debian/postinst
+debian/postrm
+debian/pydist-overrides
+debian/watch

@@ -1,0 +1,15 @@
+LICENSE
+README.rst
+.coveragerc
+.gitignore
+.gitreview
+.pylintrc
+.testr.conf
+doc/source/index.rst
+HACKING.rst
+MANIFEST.in
+doc/source/conf.py
+openstack-common.conf
+tools/magnetodb.bash_completion
+setup.cfg
+setup.py

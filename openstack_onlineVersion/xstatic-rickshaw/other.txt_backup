@@ -1,0 +1,4 @@
+.gitignore
+MANIFEST.in
+xstatic/pkg/rickshaw/data/rickshaw.css
+setup.py

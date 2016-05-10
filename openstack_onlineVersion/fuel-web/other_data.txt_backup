@@ -1,0 +1,7 @@
+fuel_upgrade_system/fuel_upgrade/fuel_upgrade/config.yaml
+fuel_upgrade_system/fuel_upgrade/fuel_upgrade/version.yaml
+iso/ks.yaml
+naily/Gemfile
+naily/Gemfile.lock
+naily/naily.gemspec
+astute/astute.gemspec

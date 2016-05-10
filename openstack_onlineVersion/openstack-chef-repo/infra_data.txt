@@ -1,0 +1,15 @@
+Berksfile
+Berksfile.lock
+cookbooks/mysql/templates/default/debian.cnf.erb
+cookbooks/mysql/templates/default/grants.sql.erb
+cookbooks/mysql/templates/default/my.cnf.erb
+cookbooks/mysql/templates/default/mysql-server.seed.erb
+cookbooks/mysql/templates/default/port_mysql.erb
+cookbooks/mysql/templates/windows/my.cnf.erb
+cookbooks/rabbitmq/templates/default/doterlang.cookie.erb
+cookbooks/rabbitmq/templates/default/rabbitmq.config.erb
+cookbooks/rabbitmq/templates/default/rabbitmq-env.conf.erb
+environments/vagrant-aio-neutron.json
+environments/vagrant-aio-nova.json
+environments/vagrant.json
+environments/vagrant-multi-neutron.json

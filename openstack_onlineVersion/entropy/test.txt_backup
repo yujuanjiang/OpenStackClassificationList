@@ -1,0 +1,3 @@
+run_tests.sh
+entropy/examples/cfg/test.cfg
+tox.ini

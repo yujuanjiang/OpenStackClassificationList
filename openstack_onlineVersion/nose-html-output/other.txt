@@ -1,0 +1,6 @@
+CONTRIBUTING.rst
+.gitignore
+.gitreview
+README
+setup.py
+tools/pip-requires

@@ -1,0 +1,14 @@
+README
+README.rst
+.gitignore
+.gitreview
+melange_client/views/ip_route_list.tpl
+melange/client/views/ip_route_list.tpl
+MANIFEST.in
+openstack-common.conf
+tools/pip-requires
+pylintrc
+bin/melange
+setup.cfg
+melange/client/openstack/common/setup.py
+setup.py

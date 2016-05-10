@@ -1,0 +1,9 @@
+.fixtures.yml
+.gitignore
+.gitreview
+LICENSE
+Modulefile
+README.md
+spec/classes/vswitch_ovs_spec.rb
+spec/spec_helper.rb
+spec/unit/puppet/lib/type/vs_bridge_spec.rb

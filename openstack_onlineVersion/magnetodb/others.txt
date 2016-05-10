@@ -1,0 +1,7 @@
+contrib/devstack/README.rst
+magnetodb/openstack/common/README
+tempest/cli/keyvalue/README.txt
+tempest/cli/README.rst
+tempest/README.rst
+.gitignore
+.gitreview

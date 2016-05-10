@@ -1,0 +1,17 @@
+AUTHORS
+bin/swift-bench
+bin/swift-bench-client
+CHANGELOG
+etc/swift-bench.conf-sample
+.gitignore
+.gitreview
+LICENSE
+.mailmap
+MANIFEST.in
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt
+.unittests

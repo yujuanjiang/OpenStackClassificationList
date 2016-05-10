@@ -1,0 +1,2 @@
+pages/installation-fuel-web/common_conf.py
+pages/installation-fuel-web/conf.py

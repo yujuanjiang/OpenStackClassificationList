@@ -1,0 +1,9 @@
+oslo.i18n/locale/de/LC_MESSAGES/oslo.i18n.po
+oslo.i18n/locale/oslo.i18n-log-critical.pot
+oslo.i18n/locale/oslo.i18n-log-error.pot
+oslo.i18n/locale/oslo.i18n-log-info.pot
+oslo.i18n/locale/oslo.i18n-log-warning.pot
+oslo.i18n/locale/oslo.i18n.pot
+.gitignore
+.gitreview
+.mailmap

@@ -1,0 +1,5 @@
+spec/api-suse_spec.rb
+spec/conductor-suse_spec.rb
+spec/identity_registration-suse_spec.rb
+spec/spec_helper.rb
+spec/taskmanager-suse_spec.rb

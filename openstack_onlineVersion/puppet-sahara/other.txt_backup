@@ -1,0 +1,14 @@
+.gitignore
+.gitreview
+metadata.json
+Modulefile
+README.md
+README.rst
+templates/sahara-api.conf.erb
+templates/sahara-api.erb
+templates/sahara-api-redhat.erb
+templates/sahara.conf.erb
+templates/savanna-api.conf.erb
+templates/savanna-api.erb
+templates/savanna.conf.erb
+spec/spec_helper.rb

@@ -1,0 +1,15 @@
+doc/Makefile
+projects/stackforge/ceilometer.yml
+projects/stackforge/heat.yml
+projects/stackforge/mraas.yml
+projects/stackforge/reddwarf.yml
+templates/openstack_publish_jobs.yml
+templates/pypi_jobs.yml
+templates/python_bitrot_jobs.yml
+templates/python_jobs.yml
+templates/python_library_jobs.yml
+jenkins_jobs/errors.py
+jenkins_jobs/openstack/common/version.py
+jenkins_jobs/version.py
+jenkins_talker.py
+jenkins_jobs.py

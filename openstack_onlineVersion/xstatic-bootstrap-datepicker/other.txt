@@ -1,0 +1,5 @@
+.gitignore
+MANIFEST.in
+README.txt
+setup.py
+xstatic/pkg/bootstrap_datepicker/data/datepicker.css

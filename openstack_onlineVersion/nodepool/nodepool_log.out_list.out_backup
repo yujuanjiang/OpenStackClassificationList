@@ -1,0 +1,12 @@
+nodepool/allocation.py
+nodepool/cmd/nodepoolcmd.py
+nodepool/cmd/nodepoold.py
+nodepool/fakeprovider.py
+nodepool/jenkins_manager.py
+nodepool/myjenkins.py
+nodepool/nodedb.py
+nodepool/nodepool.py
+nodepool/nodeutils.py
+nodepool/provider_manager.py
+nodepool/sshclient.py
+nodepool/task_manager.py

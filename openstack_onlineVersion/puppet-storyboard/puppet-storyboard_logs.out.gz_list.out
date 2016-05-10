@@ -1,0 +1,15 @@
+manifests/application.pp
+manifests/cert.pp
+manifests/init.pp
+manifests/load_projects.pp
+manifests/load_superusers.pp
+manifests/mysql.pp
+manifests/params.pp
+manifests/rabbit.pp
+Modulefile
+Rakefile
+README.md
+templates/storyboard.conf.erb
+templates/storyboard_https.vhost.erb
+templates/storyboard_http.vhost.erb
+templates/storyboard.vhost.erb

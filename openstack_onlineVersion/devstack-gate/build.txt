@@ -1,0 +1,3 @@
+builddeb.sh
+rebuild_slaves.sh
+slave_scripts/build-venv.sh

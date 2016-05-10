@@ -1,0 +1,17 @@
+config/sahara/sahara-test-config-spark.yaml
+config/sahara/sahara-test-config-vanilla-2.6.yaml
+jenkins_job_builder/ci-infra.yaml
+jenkins_job_builder/defaults.yaml
+jenkins_job_builder/devstack-gate.yaml
+jenkins_job_builder/diskimage.yaml
+jenkins_job_builder/jobs-updater.yaml
+jenkins_job_builder/macros.yaml
+jenkins_job_builder/misc.yaml
+jenkins_job_builder/projects.yaml
+jenkins_job_builder/python-jobs.yaml
+jenkins_job_builder/sahara-ci-check.yaml
+jenkins_job_builder/sahara-pypimirror.yaml
+jenkins_job_builder/sahara-ui.yaml
+jenkins_job_builder/sahara.yaml
+jenkins_job_builder/update-config.yaml
+jenkins_job_builder/update-pool.yaml

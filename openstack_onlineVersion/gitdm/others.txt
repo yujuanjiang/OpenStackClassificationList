@@ -1,0 +1,3 @@
+openstack-config/README
+.gitignore
+.gitreview

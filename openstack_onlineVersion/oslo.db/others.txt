@@ -1,0 +1,10 @@
+oslo.db/locale/oslo.db-log-critical.pot
+oslo.db/locale/oslo.db-log-error.pot
+oslo.db/locale/oslo.db-log-info.pot
+oslo.db/locale/oslo.db-log-warning.pot
+oslo.db/locale/oslo.db.pot
+openstack/common/db/sqlalchemy/migration_cli/README.rst
+oslo/db/sqlalchemy/migration_cli/README.rst
+.gitignore
+.gitreview
+.mailmap

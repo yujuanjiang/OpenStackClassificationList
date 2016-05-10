@@ -1,0 +1,10 @@
+oslo.messaging/locale/de/LC_MESSAGES/oslo.messaging.po
+oslo.messaging/locale/oslo.messaging-log-critical.pot
+oslo.messaging/locale/oslo.messaging-log-error.pot
+oslo.messaging/locale/oslo.messaging-log-info.pot
+oslo.messaging/locale/oslo.messaging-log-warning.pot
+oslo.messaging/locale/oslo.messaging.pot
+.gitignore
+doc/source/static/openstack_logo.png
+doc/source/static/header_bg.jpg
+.gitreview

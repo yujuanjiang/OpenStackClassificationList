@@ -1,0 +1,8 @@
+swiftpolicy/openstack/common/policy_parser.py
+swiftpolicy/enforcer.py
+swiftpolicy/keystoneauth.py
+swiftpolicy/policy.py
+swiftpolicy/swiftpolicy.py
+swiftpolicy/__init__.py
+swiftpolicy/openstack/common/__init__.py
+swiftpolicy/openstack/__init__.py

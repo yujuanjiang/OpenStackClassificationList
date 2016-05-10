@@ -1,0 +1,5 @@
+doc/guide/pom.xml
+doc/Makefile
+docs/guide/pom.xml
+docs/Makefile
+tests/signing/Makefile

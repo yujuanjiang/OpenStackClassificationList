@@ -1,0 +1,5 @@
+xstatic/pkg/angular/data/angular.js
+xstatic/__init__.py
+xstatic/pkg/angular/__init__.py
+xstatic/pkg/__init__.py
+setup.py

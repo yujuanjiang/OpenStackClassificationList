@@ -1,0 +1,5 @@
+solumdashboard/tests/common/test_workflow_parsers.py
+solumdashboard/tests/settings.py
+tox.ini
+requirements.txt
+test-requirements.txt

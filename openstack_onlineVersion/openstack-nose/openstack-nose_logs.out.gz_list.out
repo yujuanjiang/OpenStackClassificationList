@@ -1,0 +1,7 @@
+MANIFEST.in
+novanose.py
+openstack/__init__.py
+openstack/nose_plugin.py
+openstack/nose.py
+README.rst
+setup.py

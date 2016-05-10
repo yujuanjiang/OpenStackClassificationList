@@ -1,0 +1,13 @@
+elements/os-svc-install/tests/test_os_svc_daemon.py
+tests/base.py
+tests/test_no_dup_filenames.py
+diskimage_builder/test_elementdeps.py
+diskimage_builder/test_elements.py
+elements/tempest/tests2skip.py
+elements/tripleo-cd/bin/deploy-testenv
+tools/test-requires
+tox.ini
+elements/cinder-volume/os-apply-config/etc/cinder/shares.txt
+elements/tempest/tests2skip.txt
+requirements.txt
+test-requirements.txt

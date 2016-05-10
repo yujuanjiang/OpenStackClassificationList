@@ -1,0 +1,7 @@
+src/test/java/hudson/plugins/gearman/AbstractWorkerThreadTest.java
+src/test/java/hudson/plugins/gearman/ExecutorWorkerThreadTest.java
+src/test/java/hudson/plugins/gearman/FakeWorkerThread.java
+src/test/java/hudson/plugins/gearman/GearmanPluginConfigTest.java
+src/test/java/hudson/plugins/gearman/GearmanPluginUtilTest.java
+src/test/java/hudson/plugins/gearman/GearmanProxyTest.java
+src/test/java/hudson/plugins/gearman/ManagementWorkerThreadTest.java

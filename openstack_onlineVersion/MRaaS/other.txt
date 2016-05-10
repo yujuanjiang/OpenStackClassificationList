@@ -1,0 +1,15 @@
+.gitignore
+.gitreview
+hadoop-swiftn-driver/lib/hpswift.jar
+mraas/.gitignore
+mraas/README.md
+mraas/src/main/resources/banner.txt
+mraas/src/main/resources/com/hpcloud/mraas/db/ClusterDAO.sql.stg
+mraas/src/test/resources/fixtures/cluster.json
+prototype/.gitignore
+prototype/prototype/config.py.template
+prototype/README
+README
+README.md
+src/main/resources/banner.txt
+src/test/resources/fixtures/cluster.json

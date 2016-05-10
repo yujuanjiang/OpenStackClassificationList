@@ -1,0 +1,17 @@
+OpenStack/Examples/CustomServiceClientExample/App.config
+OpenStack/Examples/CustomServiceClientExample/CustomServiceClientExample.csproj
+OpenStack/Examples/SimpleStorageExample/App.config
+Openstack/Examples/SimpleStorageExample/App.config
+OpenStack/Examples/SimpleStorageExample/SimpleStorageExample.csproj
+Openstack/Examples/SimpleStorageExample/SimpleStorageExample.csproj
+OpenStack/OpenStack45-PCL/OpenStack45-PCL.csproj
+OpenStack/OpenStack45-PCL/packages.config
+OpenStack/OpenStack.Common/OpenStack.Common.csproj
+Openstack/Openstack.Common/Openstack.Common.csproj
+OpenStack/openstack-dotnet.pfx
+OpenStack/OpenStack.nuspec
+OpenStack/OpenStack/OpenStack40.csproj
+OpenStack/OpenStack/OpenStack.csproj
+Openstack/Openstack/Openstack.csproj
+OpenStack/OpenStack/packages.config
+Openstack/Openstack/packages.config

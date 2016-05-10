@@ -1,0 +1,9 @@
+templates/heat_base.json
+toci_cleanup.sh
+toci-defaults
+toci_functions.sh
+toci_git.sh
+toci_instack.sh
+toci_setup.sh
+toci.sh
+updated_launch.sh

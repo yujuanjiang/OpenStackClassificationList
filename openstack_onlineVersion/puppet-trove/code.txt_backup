@@ -1,0 +1,11 @@
+spec/classes/trove_api_spec.rb
+spec/classes/trove_client_spec.rb
+spec/classes/trove_conductor_spec.rb
+spec/classes/trove_db_mysql_spec.rb
+spec/classes/trove_db_postgresql_spec.rb
+spec/classes/trove_guestagent_spec.rb
+spec/classes/trove_init_spec.rb
+spec/classes/trove_keystone_auth_spec.rb
+spec/classes/trove_taskmanager_spec.rb
+spec/shared_examples.rb
+spec/spec_helper.rb

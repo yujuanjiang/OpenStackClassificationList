@@ -1,0 +1,16 @@
+LICENSE
+metatests/cloudcafe/identity/v2_0/extensions_api/data/extensions.json
+metatests/cloudcafe/identity/v2_0/tokens_api/data/access.json
+metatests/images/v1_0/data/image.json
+metatests/images/v1_0/data/images.json
+metatests/images/v2_0/data/image.json
+metatests/images/v2_0/data/image_schema.json
+metatests/images/v2_0/data/images.json
+metatests/images/v2_0/data/images_schema.json
+README.md
+.gitignore
+.gitreview
+HISTORY.rst
+MANIFEST.in
+pip-requires
+setup.py

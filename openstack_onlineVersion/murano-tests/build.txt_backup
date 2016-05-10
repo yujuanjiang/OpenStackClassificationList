@@ -1,0 +1,17 @@
+dashboard/doc/Makefile
+dashboard/Makefile
+windc/doc/Makefile
+dashboard/doc/Makefile
+dashboard/Makefile
+windc/doc/Makefile
+manuals/pom.xml
+boffin/build/lib/Boffin/keywords/_Rest.py
+boffin/build/lib/Boffin/keywords/_Utils.py
+boffin/build/lib/Boffin/keywords/_WebUIlib.py
+boffin/build/lib/Boffin/_Settings.py
+boffin/build/lib/Boffin/version.py
+windc/windc/core/builder.py
+windc/windc/core/builders/ActiveDirectory.py
+windc/windc/core/builders/DataCenter.py
+windc/windc/core/builder_set.py
+docs/src/glazier-manual/pom.xml

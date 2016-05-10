@@ -1,0 +1,14 @@
+attributes/backup.rb
+attributes/default.rb
+attributes/monitor.rb
+Berksfile
+Gemfile
+metadata.rb
+README.md
+recipes/default.rb
+.rubocop.yml
+spec/empty.rb
+Strainerfile
+templates/default/monasca-notification.conf.erb
+templates/default/mon-notification.conf.erb
+templates/default/notification.yaml.erb

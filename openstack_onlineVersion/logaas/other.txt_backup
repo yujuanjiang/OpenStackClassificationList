@@ -1,0 +1,13 @@
+LICENSE
+README.rst
+.coveragerc
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+doc/source/conf.py
+babel.cfg
+openstack-common.conf
+setup.cfg
+babel.cfg
+setup.py

@@ -1,0 +1,3 @@
+puppet/modules/user/files/stack_bashrc
+puppet/modules/user/files/stack_sudoers
+puppet/modules/vcsrepo/spec/spec.opts

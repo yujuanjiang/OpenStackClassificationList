@@ -1,0 +1,4 @@
+fuel_plugin/ostf_adapter/storage/migrations/README
+fuel_plugin/testing/tests/etc/.gitignore
+.gitignore
+.gitreview

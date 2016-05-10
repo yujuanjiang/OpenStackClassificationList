@@ -1,0 +1,7 @@
+imagebuild/coreos/docker_build.bash
+imagebuild/coreos/docker_clean.bash
+imagebuild/coreos/full_trusty_build.sh
+imagebuild/coreos/Makefile
+imagebuild/coreos/oem/cloud-config.yml
+imagebuild/coreos/oem/run.sh
+Makefile

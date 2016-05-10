@@ -1,0 +1,7 @@
+cl-openstack-client.asd
+COPYING
+.gitignore
+.gitreview
+README.md
+requirements.txt
+test-requirements.txt

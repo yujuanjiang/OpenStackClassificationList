@@ -1,0 +1,17 @@
+.coveragerc
+doc/source/conf.py
+doc/source/index.rst
+.gitignore
+.gitreview
+HACKING.rst
+LICENSE
+MANIFEST.in
+openstack-common.conf
+.pylintrc
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt
+tools/magnetodb.bash_completion

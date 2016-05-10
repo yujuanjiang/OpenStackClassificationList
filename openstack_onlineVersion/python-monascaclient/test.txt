@@ -1,0 +1,6 @@
+monascaclient/tests/fakes.py
+monascaclient/tests/test_shell.py
+monclient/tests/fakes.py
+monclient/tests/test_shell.py
+run_tests.sh
+tox.ini

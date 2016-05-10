@@ -1,0 +1,8 @@
+recipes/client.rb
+recipes/db.rb
+recipes/default.rb
+recipes/keystone-rsyslog.rb
+recipes/registration.rb
+recipes/server.rb
+attributes/default.rb
+Berksfile.lock

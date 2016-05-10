@@ -1,0 +1,7 @@
+tooz/tests/drivers/test_memcached.py
+tooz/tests/test_coordination.py
+run_tests.sh
+setup-test-env.sh
+tox.ini
+requirements.txt
+test-requirements.txt

@@ -1,0 +1,9 @@
+README.md
+README.md.orig
+.coveralls.yml
+.gitignore
+.ruby-gemset
+.ruby-version
+.travis.yml
+tmp/.gitignore
+bin/aviator

@@ -1,0 +1,6 @@
+build_addons/rpm/modify-horizon-config.sh
+dashboard/doc/Makefile
+dashboard/Makefile
+docs/src/glazier-manual/pom.xml
+manuals/pom.xml
+windc/doc/Makefile

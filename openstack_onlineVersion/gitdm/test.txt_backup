@@ -1,0 +1,12 @@
+tests/expected-datelc
+tests/gitdm-tests.py
+tests/testrepo/config
+tests/testrepo/HEAD
+tests/testrepo/info/refs
+tests/testrepo/objects/info/packs
+tests/testrepo/objects/pack/pack-f62fb949b32db1bccdc300fc13de20bca92b4c01.idx
+tests/testrepo/objects/pack/pack-f62fb949b32db1bccdc300fc13de20bca92b4c01.pack
+tests/testrepo/packed-refs
+openstack-config/launchpad-ids.txt
+sample-config/filetypes.txt
+tests/expected-results.txt

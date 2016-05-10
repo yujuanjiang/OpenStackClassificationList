@@ -1,0 +1,16 @@
+doc/source/conf.py
+doc/source/index.rst
+doc/source/specs
+LICENSE
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+specs/juno/api.rst
+specs/juno/example.rst
+specs/skeleton.rst
+specs/template.rst
+.testr.conf
+tests/__init__.py
+tests/test_titles.py
+tox.ini

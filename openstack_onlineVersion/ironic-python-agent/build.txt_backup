@@ -1,0 +1,10 @@
+imagebuild/coreos/Makefile
+Makefile
+Makefile
+imagebuild/coreos/Makefile
+imagebuild/coreos/full_trusty_build.sh
+imagebuild/coreos/oem/run.sh
+imagebuild/coreos/oem/cloud-config.yml
+imagebuild/coreos/coreos-oem-inject.py
+imagebuild/coreos/docker_build.bash
+imagebuild/coreos/docker_clean.bash

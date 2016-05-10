@@ -1,0 +1,13 @@
+contrib/aptira/README.md
+contrib/ci/README.md
+contrib/README
+data/class_groups/README.md
+data/nodes/heat/README.md
+data/README.md
+scripts/README
+stack-builder/README.md
+vendor/gems/thor-0.18.1/README.md
+vendor/gems/thor-0.18.1/spec/fixtures/app{1}/README
+vendor/gems/thor-0.18.1/spec/fixtures/doc/README
+.gitignore
+.gitreview

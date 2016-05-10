@@ -1,0 +1,7 @@
+diskimage_builder/test_elementdeps.py
+diskimage_builder/test_elements.py
+diskimage_builder/tests/test_elementdeps.py
+diskimage_builder/tests/test_elements.py
+diskimage_builder/tests/test_no_dup_filenames.py
+tools/test-requires
+tox.ini

@@ -1,0 +1,2 @@
+cookbooks/ds-build/files/default/autostack.sh
+ds-build/roles/Devstack-Build.json

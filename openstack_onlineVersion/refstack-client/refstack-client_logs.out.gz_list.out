@@ -1,0 +1,15 @@
+LICENSE
+README.rst
+refstack-client/refstack-client
+refstack-client/scripts/prep_cloud.py
+refstack-client/subunit_processor.py
+requirements.txt
+setup.cfg
+setup.py
+setup_ubuntu_env.sh
+.testr.conf
+test-requirements.txt
+tests/__init__.py
+tests/unit/__init__.py
+tests/unit/tests.py
+tox.ini

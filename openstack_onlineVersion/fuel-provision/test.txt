@@ -1,0 +1,2 @@
+galloper/openstack/common/notifier/test_notifier.py
+run_tests.sh

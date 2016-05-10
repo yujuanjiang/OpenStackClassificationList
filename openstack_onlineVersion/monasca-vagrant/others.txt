@@ -1,0 +1,13 @@
+cookbooks/apt/README.md
+cookbooks/devstack/README.md
+cookbooks/ds-build/README.md
+cookbooks/mini-mon/README.md
+ds-build/README.md
+hlinux/README.md
+HPCloud/README.md
+split/README.md
+tests/README.md
+utils/cluster/README.md
+utils/README.md
+.gitignore
+.gitreview

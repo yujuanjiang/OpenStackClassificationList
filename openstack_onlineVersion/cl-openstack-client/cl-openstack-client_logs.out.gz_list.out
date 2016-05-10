@@ -1,0 +1,13 @@
+cl-openstack-client.asd
+cl-openstack-client-test.asd
+COPYING
+keystone.lisp
+openstack.lisp
+README.md
+requirements.txt
+run-tests.lisp
+run-tests.sh
+test-requirements.txt
+tests/keystone.lisp
+tests/openstack.lisp
+update-deps.lisp

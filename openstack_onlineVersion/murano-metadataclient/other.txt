@@ -1,0 +1,12 @@
+AUTHORS
+ChangeLog
+.gitignore
+.gitreview
+.idea/dictionaries/fervent.xml
+LICENSE
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+test-requirements.txt

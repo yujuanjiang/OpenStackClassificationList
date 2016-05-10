@@ -1,0 +1,8 @@
+.gitignore
+specs/swift/images/handoff1.png
+specs/swift/images/handoff2.png
+specs/swift/images/meta.png
+specs/swift/images/overview.png
+specs/swift/images/recon.png
+.gitreview
+.mailmap

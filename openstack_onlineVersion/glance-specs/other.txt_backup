@@ -1,0 +1,17 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+specs/juno/add-bash-completion.rst
+specs/juno/example.rst
+specs/juno/fake-keystone-for-testing.rst
+specs/juno/metadata-schema-catalog.rst
+specs/juno/refactoring-glance-logging.rst
+specs/juno/restrict-downloading-images.rst
+specs/template.rst
+doc/source/specs
+doc/source/conf.py
+setup.cfg
+setup.py

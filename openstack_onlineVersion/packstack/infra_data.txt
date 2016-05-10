@@ -1,0 +1,8 @@
+packstack/puppet/modules/packstack/templates/cinder-list.erb
+packstack/puppet/modules/packstack/templates/glance-index.erb
+packstack/puppet/modules/packstack/templates/innodb.cnf.erb
+packstack/puppet/modules/packstack/templates/keystone-user-list.erb
+packstack/puppet/modules/packstack/templates/nova-list.erb
+packstack/puppet/modules/packstack/templates/openstack-neutron.modules.erb
+packstack/puppet/modules/packstack/templates/ssl/generate_ssl_certs.sh.erb
+packstack/puppet/modules/packstack/templates/swift-list.erb

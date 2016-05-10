@@ -1,0 +1,10 @@
+recipes/api-cfn.rb
+recipes/api-cloudwatch.rb
+recipes/api.rb
+recipes/client.rb
+recipes/common.rb
+recipes/default.rb
+recipes/engine.rb
+recipes/identity_registration.rb
+attributes/default.rb
+Berksfile.lock

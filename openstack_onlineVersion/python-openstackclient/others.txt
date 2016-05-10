@@ -1,0 +1,5 @@
+.gitignore
+doc/source/_static/openstack_logo.png
+doc/source/_static/header_bg.jpg
+.gitreview
+.mailmap

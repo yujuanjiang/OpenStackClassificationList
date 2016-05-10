@@ -1,0 +1,11 @@
+bin/manila-all
+bin/manila-api
+bin/manila-backup
+bin/manila-clear-rabbit-queues
+bin/manila-manage
+bin/manila-rootwrap
+bin/manila-rpc-zmq-receiver
+bin/manila-scheduler
+bin/manila-share
+bin/manila-volume
+bin/manila-volume-usage-audit

@@ -1,0 +1,13 @@
+attributes/default.rb
+recipes/api.rb
+recipes/cinder-common.rb
+recipes/client.rb
+recipes/common.rb
+recipes/db.rb
+recipes/default.rb
+recipes/identity_registration.rb
+recipes/keystone_registration.rb
+recipes/scheduler.rb
+recipes/server.rb
+recipes/setup.rb
+recipes/volume.rb

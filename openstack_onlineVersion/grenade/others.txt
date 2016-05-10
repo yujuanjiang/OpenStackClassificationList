@@ -1,0 +1,3 @@
+from-icehouse/README.rst
+.gitignore
+.gitreview

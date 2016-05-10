@@ -1,0 +1,16 @@
+config/local_settings.py
+cosmos/overcloud/dashboard.py
+cosmos/overcloud/models.py
+enabled/_40_cosmos.py
+enabled/_60_admin_add_notification_panel.py
+local_settings.py
+monitoring/static/monitoring/js/alarms.html
+monitoring/static/monitoring/js/animation.html
+monitoring/static/monitoring/js/health.html
+panel.py
+static/monitoring/js/alarms.html
+static/monitoring/js/animation.html
+static/monitoring/js/health.html
+tables.py
+urls.py
+views.py

@@ -1,0 +1,8 @@
+config.js.sample
+.gitignore
+.gitreview
+LICENSE
+README.rst
+setup.py
+templates/index.html
+templates/project.html

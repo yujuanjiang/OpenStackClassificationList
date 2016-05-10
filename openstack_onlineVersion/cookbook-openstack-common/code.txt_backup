@@ -1,0 +1,11 @@
+libraries/cli.rb
+libraries/database.rb
+libraries/default.rb
+libraries/endpoints.rb
+libraries/memcache.rb
+libraries/network.rb
+libraries/parse.rb
+libraries/passwords.rb
+libraries/roles.rb
+libraries/search.rb
+libraries/uri.rb

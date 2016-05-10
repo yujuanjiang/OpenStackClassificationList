@@ -1,0 +1,15 @@
+README
+LICENSE
+.gitignore
+.gitreview
+.testr.conf
+AUTHORS
+HACKING.rst
+MANIFEST.in
+openstack-common.conf
+etc/config.yaml.sample
+templates/config.yaml.sample
+ChangeLog
+VERSION
+setup.cfg
+setup.py

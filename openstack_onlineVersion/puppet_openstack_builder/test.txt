@@ -1,0 +1,13 @@
+basic_test.sh
+contrib/aptira/tests/base.sh
+contrib/aptira/tests/provider/test.sh
+stack-builder/clean.py
+stack-builder/debug.py
+stack-builder/fragment.py
+stack-builder/fragments/test-nova
+stack-builder/metadata.py
+tests/2_role.sh
+tests/basic_test.sh
+tests/multi_node.sh
+tests/multi_node_tempest.sh
+tests/swift.sh

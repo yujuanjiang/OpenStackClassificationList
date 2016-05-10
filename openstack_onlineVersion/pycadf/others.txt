@@ -1,0 +1,6 @@
+.gitignore
+doc/source/images/audit_event.png
+doc/source/images/middleware.png
+doc/source/images/monitor_event.png
+doc/source/images/observer_cadf.png
+.gitreview

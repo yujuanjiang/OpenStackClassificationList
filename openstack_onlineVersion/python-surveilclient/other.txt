@@ -1,0 +1,2 @@
+.gitreview
+README.rst

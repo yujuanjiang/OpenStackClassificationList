@@ -1,0 +1,8 @@
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/monasca-notification.conf.erb
+templates/default/mon-notification.conf.erb
+templates/default/notification.yaml.erb
+spec/empty.rb

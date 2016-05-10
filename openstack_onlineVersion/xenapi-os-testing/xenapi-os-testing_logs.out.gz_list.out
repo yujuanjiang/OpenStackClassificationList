@@ -1,0 +1,11 @@
+disown_child.sh
+doc/launch.uxf
+doc/nodepool.uxf
+functions
+launch-node.sh
+README.md
+run_tests_remote.sh
+run_tests.sh
+tempest_exclusion_list
+update-node-image.sh
+xenapi-os-testing.sh

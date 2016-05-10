@@ -1,0 +1,6 @@
+LICENSE
+README.md
+specs/common-openstack-database-resource.rst
+specs/template.rst
+specs/template_temp.rst
+specs/use-aviator-in-module-resources.rst

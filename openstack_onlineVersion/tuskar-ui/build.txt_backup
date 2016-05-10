@@ -1,0 +1,14 @@
+django-openstack/Makefile
+doc/Makefile
+docs/Makefile
+horizon/Makefile
+Makefile
+openstack-dashboard/Makefile
+Makefile
+django-openstack/Makefile
+doc/Makefile
+docs/Makefile
+horizon/Makefile
+openstack-dashboard/Makefile
+openstack-dashboard/tools/install_venv.py
+tools/install_venv.py

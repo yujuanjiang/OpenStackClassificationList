@@ -1,0 +1,6 @@
+recipes/default.rb
+recipes/rabbitmq.rb
+recipes/rabbitmq-server.rb
+recipes/server.rb
+attributes/default.rb
+Berksfile.lock

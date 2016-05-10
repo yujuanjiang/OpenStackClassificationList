@@ -1,0 +1,3 @@
+tests/test_rados_diskfile.py
+tests/test_rados_diskfile.pyc
+tests/test_rados_server.py

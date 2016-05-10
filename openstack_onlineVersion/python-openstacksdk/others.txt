@@ -1,0 +1,4 @@
+api_strawman/README.rst
+.gitignore
+.gitreview
+.mailmap

@@ -1,0 +1,14 @@
+ext/glance.sh
+ext/nova.sh
+scripts/blank.sh
+scripts/install-pe-master.sh
+scripts/run-all.sh
+scripts/run-compute.sh
+scripts/run-controller.sh
+scripts/run-db.sh
+scripts/run-glance.sh
+scripts/run-master.sh
+scripts/run-rabbitmq.sh
+scripts/run.sh
+scripts/run-swift-all.sh
+scripts/run-swift-multi.sh

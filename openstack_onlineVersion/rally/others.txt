@@ -1,0 +1,16 @@
+contrib/devstack/README.rst
+doc/samples/tasks/contexts/README.rst
+doc/samples/tasks/README.rst
+doc/samples/tasks/runners/README.rst
+doc/samples/tasks/scenarios/README.rst
+doc/samples/tasks/sla/README.rst
+openstack-patches/README
+.gitignore
+doc/source/images/Amqp_rpc_single_reply_queue.png
+doc/source/images/Rally-Actions.png
+doc/source/images/Rally_Architecture.png
+doc/source/images/Rally_QA.png
+doc/source/images/Rally_snapshot_vm.png
+doc/source/images/Rally-UseCases.png
+doc/source/images/Rally_VM_list.png
+.gitreview

@@ -1,0 +1,10 @@
+keystoneclient/locale/keystoneclient.pot
+doc/.gitignore
+docs/.gitignore
+.gitignore
+doc/source/images/graphs_authCompDelegate.svg
+doc/source/images/graphs_authComp.svg
+doc/source/static/openstack_logo.png
+doc/source/static/header_bg.jpg
+.gitreview
+.mailmap

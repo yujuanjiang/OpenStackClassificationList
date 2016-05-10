@@ -1,0 +1,12 @@
+.gitignore
+monitoring/static/monitoring/img/critical-icon.png
+monitoring/static/monitoring/img/notfound-icon.png
+monitoring/static/monitoring/img/ok-icon.png
+monitoring/static/monitoring/img/unknown-icon.png
+monitoring/static/monitoring/img/warning-icon.png
+static/monitoring/img/critical-icon.png
+static/monitoring/img/notfound-icon.png
+static/monitoring/img/ok-icon.png
+static/monitoring/img/unknown-icon.png
+static/monitoring/img/warning-icon.png
+.gitreview

@@ -1,0 +1,1 @@
+etc/tuskar/nova_overcloud_config.yml

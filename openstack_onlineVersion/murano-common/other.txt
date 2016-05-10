@@ -1,0 +1,15 @@
+doc/.gitignore
+doc/source/conf.py
+doc/source/index.rst
+.gitignore
+.gitreview
+LICENSE
+MANIFEST.in
+openstack-common.conf
+README.md
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+.testr.conf
+test-requirements.txt

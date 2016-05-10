@@ -1,0 +1,3 @@
+.gitignore
+os-collect-config-and-friends.svg
+.gitreview

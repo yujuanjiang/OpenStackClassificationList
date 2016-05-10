@@ -1,0 +1,6 @@
+.gitignore
+src/main/resources/swagger-ui/images/explorer_icons.png
+src/main/resources/swagger-ui/images/logo_small.png
+src/main/resources/swagger-ui/images/pet_store_api.png
+src/main/resources/swagger-ui/images/wordnik_api.png
+.gitreview

@@ -1,0 +1,10 @@
+.gitreview
+LICENSE
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+sphinxcontrib/docbookrestapi/setup.py
+sphinxcontrib/setup.py
+.testr.conf
+test-requirements.txt

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+README.rst
+.gitignore
+.gitreview
+AUTHORS
+ChangeLog
+setup.cfg
+setup.py
+requirements.txt
+test-requirements.txt

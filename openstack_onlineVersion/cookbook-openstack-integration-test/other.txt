@@ -1,0 +1,7 @@
+.gitignore
+.gitreview
+README.md
+.rubocop.yml
+Strainerfile
+templates/default/tempest.conf.erb
+TESTING.md

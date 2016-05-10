@@ -1,0 +1,8 @@
+.gitignore
+doc/source/_static/openstack_logo.png
+docs/api/img/model_v1.jpg
+docs/api/img/model_v2.jpg
+docs/api/img/model_v3.jpg
+docs/api/img/model_v4.jpg
+doc/source/_static/header_bg.jpg
+.gitreview

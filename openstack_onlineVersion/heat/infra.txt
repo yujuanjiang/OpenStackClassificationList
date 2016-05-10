@@ -1,0 +1,7 @@
+tools/glance-jeos-add-from-github.sh
+tools/install_venv_common.py
+tools/install_venv.py
+tools/nova_create_flavors.sh
+tools/patch_tox_venv.py
+tools/run_pep8.sh
+tools/with_venv.sh

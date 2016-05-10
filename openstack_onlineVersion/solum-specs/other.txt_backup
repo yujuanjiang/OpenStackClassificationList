@@ -1,0 +1,17 @@
+LICENSE
+README.md
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+doc/source/index.rst
+specs/juno/chef-language-pack.rst
+specs/juno/empty.rst
+specs/juno/pipeline.rst
+specs/juno/stage-logs.rst
+specs/juno/template.rst
+specs/template.rst
+doc/source/specs
+doc/source/conf.py
+setup.cfg
+setup.py

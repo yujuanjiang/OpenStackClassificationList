@@ -1,0 +1,12 @@
+tests/run_test.py
+MeetBot/test.py
+Meeting/test.py
+test.py
+README.txt
+doc/Manual.txt
+ircmeeting/template.txt
+Manual.txt
+meeting-minutes-template.txt
+template.txt
+tests/test-script-1.log.txt
+tests/test-script-2.log.txt

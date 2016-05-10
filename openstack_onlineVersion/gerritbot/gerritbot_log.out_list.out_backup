@@ -1,0 +1,3 @@
+gerritbot/bot.py
+gerritbot/openstack/common/version.py
+gerritbot/version.py

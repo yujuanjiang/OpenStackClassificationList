@@ -1,0 +1,12 @@
+examples/common.yaml
+examples/hiera.yaml
+examples/nodes/first.yaml
+examples/nodes/second.yaml
+.fixtures.yml
+.gitignore
+.gitreview
+LICENSE
+Modulefile
+.nodeset.yml
+README.md
+USECASES.md

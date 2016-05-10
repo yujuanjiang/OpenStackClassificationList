@@ -1,0 +1,14 @@
+tests/base.py
+tests/objects/test_datastore.py
+tests/test_api.py
+tests/test_image_transfer.py
+tests/test_pbm.py
+tests/test_rw_handles.py
+tests/test_service.py
+tests/test_vim.py
+tests/test_vim_util.py
+tests/test_vmware.py
+tox.ini
+tools/run_cross_tests.sh
+requirements.txt
+test-requirements.txt

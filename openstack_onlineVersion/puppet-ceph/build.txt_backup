@@ -1,0 +1,7 @@
+Gemfile
+Gemfile-rspec-system
+examples/common.yaml
+examples/hiera.yaml
+examples/nodes/first.yaml
+examples/nodes/second.yaml
+Rakefile

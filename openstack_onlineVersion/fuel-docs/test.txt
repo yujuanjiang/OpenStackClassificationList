@@ -1,0 +1,2 @@
+_build/doctrees/pages/installation-instructions/0080-testing-openstack.doctree
+_build/html/pages/installation-instructions/0080-testing-openstack.html

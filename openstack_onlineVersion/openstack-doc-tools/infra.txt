@@ -1,0 +1,6 @@
+build_environment/Vagrantfile
+build_environment/Vagrantfile.box
+os_doc_tools/scripts/markdown-docbook.sh
+tools/install_venv_common.py
+tools/install_venv.py
+tools/with_venv.sh

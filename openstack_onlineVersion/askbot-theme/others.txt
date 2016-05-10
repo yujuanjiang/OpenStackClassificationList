@@ -1,0 +1,4 @@
+.gitignore
+os/media/images/open-stack-cloud-computing-logo-2.png
+os/media/images/sprites.png
+.gitreview

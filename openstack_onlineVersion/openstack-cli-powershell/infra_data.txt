@@ -1,0 +1,14 @@
+AcmeInc.Openstack.Client.Powershell/Deployment/ServiceProvider.xml
+Openstack.Client.Powershell/bin/Release/Deployment/ReleaseNotes.xml
+Openstack.Client.Powershell/Deployment/CredentialList.xml
+Openstack.Client.Powershell/Deployment/Examples/CredentialList.xml
+Openstack.Client.Powershell/Deployment/Examples/ReleaseManifest.xml
+Openstack.Client.Powershell/Deployment/Examples/ReleaseNotes.xml
+Openstack.Client.Powershell/Deployment/Openstack.Client.Powershell.dll-Help.xml
+Openstack.Client.Powershell/Deployment/ReleaseManifest.xml
+Openstack.Client.Powershell/Deployment/ReleaseNotes.xml
+Openstack.Client.Powershell/Deployment/ScratchPad/SecurityGroupData/SecurityGroups.xml
+Openstack.Client.Powershell/Deployment/ScratchPad/ServerData/Server1.xml
+Openstack.Client.Powershell/Deployment/ScratchPad/ServerData/Servers.xml
+Openstack.Client.Powershell/Deployment/ScratchPad/ServerData/Server.xml
+WidgetInc.Openstack.Client.Powershell/Deployment/ServiceProvider.xml

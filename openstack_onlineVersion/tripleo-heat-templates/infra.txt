@@ -1,0 +1,15 @@
+swift-deploy.yaml
+swift-source.yaml
+swift-storage-source.yaml
+undercloud-bm-nova-config.yaml
+undercloud-bm-nova-deploy.yaml
+undercloud-bm-source.yaml
+undercloud-bm.yaml
+undercloud-source.yaml
+undercloud-vm-ironic-config.yaml
+undercloud-vm-ironic-deploy.yaml
+undercloud-vm-ironic-source.yaml
+undercloud-vm-nova-config.yaml
+undercloud-vm-nova-deploy.yaml
+undercloud-vm-source.yaml
+undercloud-vm.yaml

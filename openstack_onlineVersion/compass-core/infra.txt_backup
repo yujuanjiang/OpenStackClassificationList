@@ -1,0 +1,9 @@
+bin/chef/addcookbooks.py
+bin/chef/adddatabags.py
+bin/chef/addroles.py
+bin/trigger_install.py
+install/chef.sh
+misc/chef-server/chef-server.rb
+tools/install_venv_common.py
+tools/install_venv.py
+tools/with_venv.sh

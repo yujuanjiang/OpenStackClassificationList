@@ -1,0 +1,8 @@
+files/run_tests.sh
+spec/classes/tempest_spec.rb
+spec/spec_helper.rb
+spec/unit/provider/tempest_config/ini_setting_spec.rb
+spec/unit/puppet/parser/os_concat_spec.rb
+spec/unit/type/tempest_config_spec.rb
+spec/unit/type/tempest_glance_id_setter_spec.rb
+spec/unit/type/tempest_neutron_net_id_setter_spec.rb

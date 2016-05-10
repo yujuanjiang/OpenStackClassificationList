@@ -1,0 +1,8 @@
+requests_mock/adapter.py
+requests_mock/compat.py
+requests_mock/contrib/fixture.py
+requests_mock/exceptions.py
+requests_mock/fixture.py
+requests_mock/mocker.py
+requests_mock/mock.py
+requests_mock/response.py

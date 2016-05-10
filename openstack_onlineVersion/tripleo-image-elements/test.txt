@@ -1,0 +1,9 @@
+diskimage_builder/test_elementdeps.py
+diskimage_builder/test_elements.py
+elements/os-svc-install/tests/test_os_svc_daemon.py
+elements/tempest/tests2skip.py
+elements/tripleo-cd/bin/deploy-testenv
+tests/base.py
+tests/test_no_dup_filenames.py
+tools/test-requires
+tox.ini

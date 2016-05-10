@@ -1,0 +1,12 @@
+bugdaystats.py
+config.js.sample
+LICENSE
+output/js/jquery.flot.js
+output/js/jquery.flot.stack.js
+output/js/jquery.js
+output/js/package-triaging.js
+README.rst
+setup.py
+templates/index.html
+templates/project.html
+tox.ini

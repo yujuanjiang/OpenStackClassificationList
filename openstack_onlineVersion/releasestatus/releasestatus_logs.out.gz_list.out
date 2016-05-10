@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+releasestatus.py
+releasestatus.yaml.sample
+static/arrowBlank
+static/arrowDown
+static/arrowUp
+static/combo.css
+static/sorting.js
+template.html

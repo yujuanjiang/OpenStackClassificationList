@@ -1,0 +1,13 @@
+com.rcarrillocruz.android.openstackdroid/ic_launcher-web.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-hdpi/ic_launcher.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-mdpi/ic_launcher.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-xhdpi/ic_launcher.png
+com.rcarrillocruz.android.openstackdroid/res/drawable-xxhdpi/ic_launcher.png
+README.md
+.gitignore
+com.rcarrillocruz.android.openstackdroid/.settings/org.eclipse.jdt.core.prefs
+LICENSE.md
+com.rcarrillocruz.android.openstackdroid/project.properties
+com.rcarrillocruz.android.openstackdroid/libs/android-support-v4.jar
+com.rcarrillocruz.android.openstackdroid/libs/gson-2.2.3.jar
+com.rcarrillocruz.android.openstackdroid/proguard-project.txt

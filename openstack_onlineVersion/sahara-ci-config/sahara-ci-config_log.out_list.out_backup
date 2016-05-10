@@ -1,0 +1,8 @@
+config/devstack/localrc
+config/devstack/micro-osd.sh
+config/pip.conf
+config/sahara/pip.conf
+config/zuul/gearman-logging.conf
+config/zuul/logging.conf
+config/zuul/zuul.conf
+slave-scripts/credentials.conf

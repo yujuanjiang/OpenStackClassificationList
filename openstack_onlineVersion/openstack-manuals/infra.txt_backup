@@ -1,0 +1,6 @@
+doc/training-guides/training-labs/Vagrantfile
+doc/training-guide/training-labs/Vagrantfile
+doc/src/docbkx/openstack-install/samples/local_settings.py
+tools/cleanup/remove_trailing_whitespaces.sh
+tools/sync-projects.sh
+tools/test-languages.sh

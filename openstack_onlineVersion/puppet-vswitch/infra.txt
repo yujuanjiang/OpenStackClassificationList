@@ -1,0 +1,12 @@
+lib/puppet/provider/vs_bridge/ovs.rb
+lib/puppet/provider/vs_bridge/ovs_redhat.rb
+lib/puppet/provider/vs_port/ovs.rb
+lib/puppet/provider/vs_port/ovs_redhat.rb
+lib/puppet/type/vs_bridge.rb
+lib/puppet/type/vs_port.rb
+manifests/bridge.pp
+manifests/init.pp
+manifests/ovs.pp
+manifests/params.pp
+manifests/port.pp
+Puppetfile

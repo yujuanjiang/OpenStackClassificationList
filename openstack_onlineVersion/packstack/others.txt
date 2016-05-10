@@ -1,0 +1,7 @@
+.gitignore
+installer/.gitignore
+packstack/installer/.gitignore
+resources/jboss/images/logo.png
+resources/jboss/ROOT.war/images/logo.png
+resources/jboss/images/header_right.jpg
+.gitreview

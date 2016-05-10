@@ -1,0 +1,11 @@
+LICENSE
+README.rst
+.gitignore
+.gitreview
+.testr.conf
+CONTRIBUTING.rst
+doc/source/index.rst
+MANIFEST.in
+doc/source/conf.py
+setup.cfg
+setup.py

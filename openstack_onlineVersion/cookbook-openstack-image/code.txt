@@ -1,0 +1,6 @@
+files/default/glance_plugin.py
+libraries/matchers.rb
+metadata.rb
+providers/image.rb
+resources/image.rb
+templates/default/swift.py

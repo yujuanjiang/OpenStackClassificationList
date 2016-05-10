@@ -1,0 +1,6 @@
+identity/auth_integration_test.go
+identity/identitytest/setupUser.go
+misc/util_test.go
+objectstorage/objectstorage_integration_test.go
+objectstorage/objectstorage_test.go
+objectstorage/v1/objectstorage_test.go

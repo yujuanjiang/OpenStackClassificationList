@@ -1,0 +1,14 @@
+doc/source/code_review.png
+LICENSE
+README.rst
+.gitignore
+.gitreview
+doc/source/core.rst
+doc/source/developers.rst
+doc/source/drivers.rst
+doc/source/index.rst
+doc/source/third-party.rst
+doc/source/conf.py
+doc/source/notes
+setup.cfg
+setup.py

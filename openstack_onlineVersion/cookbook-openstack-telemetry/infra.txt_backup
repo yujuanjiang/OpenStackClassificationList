@@ -1,0 +1,12 @@
+recipes/agent-central.rb
+recipes/agent-compute.rb
+recipes/agent-notification.rb
+recipes/alarm-evaluator.rb
+recipes/alarm-notifier.rb
+recipes/api.rb
+recipes/client.rb
+recipes/collector.rb
+recipes/common.rb
+recipes/identity_registration.rb
+attributes/default.rb
+Berksfile.lock

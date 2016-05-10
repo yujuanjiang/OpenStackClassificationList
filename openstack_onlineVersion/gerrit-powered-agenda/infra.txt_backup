@@ -1,0 +1,7 @@
+libs/setuptools-2.2/setuptools/command/test.py
+libs/setuptools-2.2/setuptools/command/easy_install.py
+libs/setuptools-2.2/setuptools/command/install_egg_info.py
+libs/setuptools-2.2/setuptools/command/install_lib.py
+libs/setuptools-2.2/setuptools/command/install.py
+libs/setuptools-2.2/setuptools/command/install_scripts.py
+libs/setuptools-2.2/easy_install.py

@@ -1,0 +1,16 @@
+cfntools/README
+cftools/README
+doc/README.rst
+heat/cfntools/README
+heat/db/sqlalchemy/migrate_repo/README
+heat_jeos/cfntools/README
+heat/openstack/common/README
+heat/testing/README.rst
+templates/README
+tools/README
+doc/.gitignore
+.gitignore
+logo/heat_logo.svg
+doc/source/_static/openstack_logo.png
+doc/source/_static/header_bg.jpg
+.gitreview

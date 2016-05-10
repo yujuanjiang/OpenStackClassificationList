@@ -1,0 +1,5 @@
+doc/.gitignore
+docs/.gitignore
+.gitignore
+.gitreview
+.mailmap

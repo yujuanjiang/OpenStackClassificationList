@@ -1,0 +1,11 @@
+{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/__init__.py
+{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/tests/__init__.py
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/__init__.py
+{{cookiecutter.repo_name}}/{{cookiecutter.repo_name}}/tests/__init__.py
+{{cookiecutter.repo_name}}/tests/__init__.py
+package/my_proj/__init__.py
+package/tests/__init__.py
+{{project.repo_name}}/{{project.repo_name}}/__init__.py
+{{project.repo_name}}/tests/__init__.py
+repo_name/repo_name/__init__.py
+repo_name/tests/__init__.py

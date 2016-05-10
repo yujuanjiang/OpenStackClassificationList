@@ -1,0 +1,4 @@
+{{cookiecutter.repo_name}}/docs/Makefile
+package/docs/Makefile
+{{project.repo_name}}/docs/Makefile
+repo_name/docs/Makefile

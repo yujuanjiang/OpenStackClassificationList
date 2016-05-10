@@ -1,0 +1,15 @@
+CHANGELOG
+.gitreview
+LICENSE
+Modulefile
+README
+README.markdown
+templates/config.Debian.erb
+templates/config.RedHat.erb
+templates/database.yml.erb
+templates/logrotate.erb
+templates/passenger-vhost.erb
+templates/puppet-dashboard.default.erb
+templates/puppet-dashboard.logrotate.erb
+templates/puppet-dashboard-passenger-vhost.erb
+TODO

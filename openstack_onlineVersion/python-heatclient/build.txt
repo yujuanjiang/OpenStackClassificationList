@@ -1,0 +1,4 @@
+doc/Makefile
+heatclient/openstack/common/setup.pyc
+heatclient/tests/test_build_info.py
+heatclient/v1/build_info.py

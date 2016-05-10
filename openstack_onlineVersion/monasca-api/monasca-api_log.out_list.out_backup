@@ -1,0 +1,6 @@
+docs/mon-api-sped.mc
+etc/security/project
+src/deb/control/postinst
+src/deb/control/postrm
+src/deb/control/prerm
+src/deb/init/mon-api.conf

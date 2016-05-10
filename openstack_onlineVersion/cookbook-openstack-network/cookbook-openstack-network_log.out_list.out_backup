@@ -1,0 +1,4 @@
+files/default/disable-eth-offload.sh
+files/default/neutron-ha-tool.py
+files/default/ovs-dpctl-top
+files/default/quantum-ha-tool.py

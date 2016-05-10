@@ -1,0 +1,14 @@
+tests/api_registry_test.py
+tests/dummy_api.py
+tests/extensions/test_occi_future.py
+tests/extensions/test_openstack.py
+tests/system_test.py
+tests/test_backends_compute.py
+tests/test_backends_network.py
+tests/test_backends_storage.py
+tests/test_computeresource.py
+tests/test_storageresource.py
+tests/test_wsgi.py
+run_tests.sh
+tests/extensions/__init__.py
+tests/__init__.py

@@ -1,0 +1,3 @@
+manifests/init.pp
+manifests/mirror.pp
+manifests/repo.pp

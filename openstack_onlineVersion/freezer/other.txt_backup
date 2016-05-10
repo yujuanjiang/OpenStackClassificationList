@@ -1,0 +1,14 @@
+README.rst
+.gitignore
+.gitreview
+CHANGES.rst
+CREDITS.rst
+FAQ.rst
+HACKING.rst
+INSTALL.rst
+LICENSE.rst
+TODO.rst
+MANIFEST.in
+MANIFEST
+bin/freezerc
+setup.py

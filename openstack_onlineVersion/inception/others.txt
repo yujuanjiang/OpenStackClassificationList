@@ -1,0 +1,6 @@
+doc/README.rst
+doc/source/macros/README
+doc/source/.gitignore
+.gitignore
+.gitreview
+Authors

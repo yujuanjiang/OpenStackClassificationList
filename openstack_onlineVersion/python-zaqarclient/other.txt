@@ -1,0 +1,11 @@
+.gitignore
+.gitreview
+HACKING.rst
+LICENSE
+openstack-common.conf
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+test-requirements.txt
+tools/pip-requires

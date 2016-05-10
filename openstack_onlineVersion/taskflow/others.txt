@@ -1,0 +1,15 @@
+docs/README.md
+taskflow/persistence/backends/sqlalchemy/alembic/README
+taskflow/persistence/backends/sqlalchemy/alembic/versions/README
+.gitignore
+doc/source/img/engine_states.svg
+doc/source/img/flow_states.svg
+doc/source/img/retry_states.svg
+doc/source/img/task_states.svg
+doc/source/img/distributed_flow_rpc.png
+doc/source/img/engine_states.png
+doc/source/img/flow_states.png
+doc/source/img/retry_states.png
+doc/source/img/task_states.png
+.gitreview
+.mailmap

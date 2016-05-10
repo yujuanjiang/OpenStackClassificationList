@@ -1,0 +1,3 @@
+doc/Makefile
+openstack/paste/templates/openstack/doc/Makefile
+openstack/paste/templates/openstack/setup.cfg_tmpl

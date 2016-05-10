@@ -1,0 +1,7 @@
+.gitignore
+.gitreview
+LICENSE
+openstack-common.conf
+setup.py
+statusbot/openstack/common/setup.py
+tools/pip-requires

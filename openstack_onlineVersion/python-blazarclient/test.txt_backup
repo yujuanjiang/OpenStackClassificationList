@@ -1,0 +1,8 @@
+climateclient/tests/test_base.py
+climateclient/tests/test_client.py
+climateclient/tests/test_command.py
+climateclient/tests/test_shell.py
+climateclient/openstack/common/test.py
+tox.ini
+requirements.txt
+test-requirements.txt

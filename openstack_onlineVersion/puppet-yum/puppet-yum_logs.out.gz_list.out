@@ -1,0 +1,7 @@
+LICENSE
+manifests/init.pp
+manifests/mirror.pp
+manifests/repo.pp
+Modulefile
+README
+templates/vhost.erb

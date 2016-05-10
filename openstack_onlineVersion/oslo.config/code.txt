@@ -1,0 +1,16 @@
+magic/__init__.py
+magic/openstack/common/__init__.py
+magic/openstack/__init__.py
+openstack/common/cfg.py
+openstack/common/iniparser.py
+oslo/config/cfgfilter.py
+oslo/config/cfg.py
+oslo/config/fixture.py
+oslo/config/generator.py
+oslo/config/iniparser.py
+oslo/config/__init__.py
+oslo/config/types.py
+oslo/__init__.py
+tests/__init__.py
+tests/testmods/__init__.py
+tools/lint.py

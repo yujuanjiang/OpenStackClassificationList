@@ -1,0 +1,6 @@
+cachemonkey/tests/base.py
+cachemonkey/tests/publisher/test_nop.py
+cachemonkey/tests/test_glance.py
+tox.ini
+requirements.txt
+test-requirements.txt

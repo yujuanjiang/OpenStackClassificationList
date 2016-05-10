@@ -1,0 +1,14 @@
+run_tests.bash
+spec/account_spec.rb
+spec/client_spec.rb
+spec/common_spec.rb
+spec/container_spec.rb
+spec/disks_spec.rb
+spec/management_spec.rb
+spec/object_spec.rb
+spec/proxy_spec.rb
+spec/ring-repo_spec.rb
+spec/rsync_spec.rb
+spec/setup_spec.rb
+spec/spec_helper.rb
+spec/storage-common_spec.rb

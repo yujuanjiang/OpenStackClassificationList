@@ -1,0 +1,11 @@
+spec/api-cfn-redhat_spec.rb
+spec/api-cloudwatch-redhat_spec.rb
+spec/api-redhat_spec.rb
+spec/client-redhat_spec.rb
+spec/client_spec.rb
+spec/common-redhat_spec.rb
+spec/common_spec.rb
+spec/default_spec.rb
+spec/engine-redhat_spec.rb
+spec/identity_registration_spec.rb
+spec/spec_helper.rb

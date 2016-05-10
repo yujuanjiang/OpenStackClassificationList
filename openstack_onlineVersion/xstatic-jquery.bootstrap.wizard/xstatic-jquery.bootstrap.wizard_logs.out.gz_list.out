@@ -1,0 +1,7 @@
+MANIFEST.in
+README.txt
+setup.py
+xstatic/__init__.py
+xstatic/pkg/__init__.py
+xstatic/pkg/jquery_bootstrap_wizard/data/jquery.bootstrap.wizard.js
+xstatic/pkg/jquery_bootstrap_wizard/__init__.py

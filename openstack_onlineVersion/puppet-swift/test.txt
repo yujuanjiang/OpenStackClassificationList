@@ -1,0 +1,4 @@
+ext/swift_keystone_test.rb
+files/swift_keystone_test.rb
+files/swift_tester.rb
+templates/swift_keystone_test.erb
