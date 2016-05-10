@@ -1,0 +1,9 @@
+manifests/client.pp
+manifests/defaults.pp
+manifests/init.pp
+manifests/mirror/consumer.pp
+manifests/mirror.pp
+manifests/server/jmxtrans.pp
+manifests/server.pp
+tests/kafka.pp
+tests/server.pp

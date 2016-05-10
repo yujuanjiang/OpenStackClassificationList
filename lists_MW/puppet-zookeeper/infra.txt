@@ -1,0 +1,6 @@
+manifests/defaults.pp
+manifests/init.pp
+manifests/jmxtrans.pp
+manifests/server.pp
+tests/server.pp
+tests/zookeeper.pp

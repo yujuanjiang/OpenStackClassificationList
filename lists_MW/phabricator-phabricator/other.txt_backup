@@ -1,0 +1,12 @@
+externals/balanced-php/tests/phpunit.xml
+externals/httpful/tests/phpunit.xml
+externals/restful/tests/phpunit.xml
+externals/twilio-php/tests/phpunit.xml
+src/applications/repository/engine/__tests__/data/CHA.git.tgz
+src/applications/repository/engine/__tests__/data/CHB.hg.tgz
+src/applications/repository/engine/__tests__/data/CHC.svn.tgz
+src/applications/repository/engine/__tests__/data/CHD.svn.tgz
+src/applications/repository/engine/__tests__/data/CHE.svn.tgz
+src/applications/repository/engine/__tests__/data/GT.git.tgz
+src/applications/repository/engine/__tests__/data/HT.hg.tgz
+src/applications/repository/engine/__tests__/data/ST.svn.tgz

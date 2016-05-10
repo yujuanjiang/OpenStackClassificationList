@@ -1,0 +1,13 @@
+maintenance/tests/FlaggedRevsTestSuite.php
+maintenance/tests/FRInclusionManagerTest.php
+maintenance/tests/FRUserCountersTest.php
+tests/FlaggablePageTest.php
+tests/FlaggedPageTest.php
+tests/FlaggedRevsLibraryTest.php
+tests/FlaggedRevsLibraryTests.lua
+tests/FlaggedRevsSetupTest.php
+tests/FlaggedRevsTest.hooks.php
+tests/FRInclusionManagerTest.php
+tests/FRParserCacheStableTest.php
+tests/FRUserActivityTest.php
+tests/FRUserCountersTest.php

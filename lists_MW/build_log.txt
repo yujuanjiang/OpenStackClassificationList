@@ -1,0 +1,119 @@
+>>> gerrit/test.txt: 1 bladfafhafadfa.txt
+gerrit-acceptance-tests/pom.xml
+>>> labs-private/infra_data.txt: 1 bladfafhafadfa.txt
+files/misc/jenkins.config.xml
+>>> operations-software-hhvm-dev/code.txt: 2 bladfafhafadfa.txt
+hphp/util/generate_buildinfo.sh
+hphp/util/generate-buildinfo.sh
+>>> VisualEditor/code.txt: 2 bladfafhafadfa.txt
+bin/buildi18n-json.sh
+bin/buildi18n.sh
+>>> operations-debs-hhvm/code.txt: 1 bladfafhafadfa.txt
+hphp/util/generate-buildinfo.sh
+>>> mediawiki-extensions-VisualEditor/code.txt: 2 bladfafhafadfa.txt
+bin/buildi18n-json.sh
+bin/buildi18n.sh
+>>> operations-debs-kubernetes/code.txt: 2 bladfafhafadfa.txt
+src/scripts/dev-build-and-push.sh
+src/scripts/dev-build-and-up.sh
+>>> mediawiki-vagrant/other.txt: 2 bladfafhafadfa.txt
+puppet/modules/rbenv/Rakefile
+puppet/modules/stdlib/Rakefile
+>>> operations-puppet/other.txt: 21 bladfafhafadfa.txt
+modules/apache/Rakefile
+modules/backup/Rakefile
+modules/bacula/Rakefile
+modules/base/Rakefile
+modules/gitconfig/Rakefile
+modules/git/Rakefile
+modules/install-server/Rakefile
+modules/mirrors/Rakefile
+modules/mongodb/Rakefile
+modules/mysql/Rakefile
+modules/nrpe/Rakefile
+modules/openstack/Rakefile
+modules/osm/Rakefile
+modules/postgresql/Rakefile
+modules/rsync/Rakefile
+modules/servermon/Rakefile
+modules/squid3/Rakefile
+modules/stdlib/Rakefile
+modules/strongswan/Rakefile
+modules/url_downloader/Rakefile
+modules/wmflib/Rakefile
+>>> mediawiki-extensions-Wikibase/test.txt: 15 bladfafhafadfa.txt
+client/tests/selenium/Rakefile
+repo/tests/selenium/Rakefile
+repo/tests/selenium/Rakefile_description
+repo/tests/selenium/Rakefile_empty_item
+repo/tests/selenium/Rakefile_label
+repo/tests/selenium/Rakefile_sitelinks
+repo/tests/selenium_ruby/Rakefile
+repo/tests/selenium_ruby/Rakefile_description
+repo/tests/selenium_ruby/Rakefile_empty_item
+repo/tests/selenium_ruby/Rakefile_label
+repo/tests/selenium_ruby/Rakefile_login
+repo/tests/selenium_ruby/Rakefile_new_page
+repo/tests/selenium_ruby/Rakefile_sitelinks
+selenium_cuc/Rakefile
+selenium/Rakefile
+>>> mediawiki-extensions-MobileFrontend/test.txt: 1 bladfafhafadfa.txt
+tests/acceptance/Rakefile
+>>> operations-debs-kubernetes/test.txt: 25 bladfafhafadfa.txt
+contrib/for-tests/dnsutils/Dockerfile
+contrib/for-tests/dnsutils/Makefile
+contrib/for-tests/entrypoint-tester/Dockerfile
+contrib/for-tests/entrypoint-tester/Makefile
+contrib/for-tests/jessie-dnsutils/Dockerfile
+contrib/for-tests/jessie-dnsutils/Makefile
+contrib/for-tests/mount-tester/Dockerfile
+contrib/for-tests/mount-tester/Makefile
+contrib/for-tests/mount-tester-user/Dockerfile
+contrib/for-tests/mount-tester-user/Makefile
+contrib/for-tests/network-tester/Dockerfile
+contrib/for-tests/network-tester/Makefile
+contrib/for-tests/porter/Dockerfile
+contrib/for-tests/porter/Makefile
+contrib/for-tests/resource-consumer/Dockerfile
+contrib/for-tests/resource-consumer/Makefile
+contrib/for-tests/volumes-tester/gluster/Dockerfile
+contrib/for-tests/volumes-tester/gluster/Makefile
+contrib/for-tests/volumes-tester/iscsi/Dockerfile
+contrib/for-tests/volumes-tester/iscsi/Makefile
+contrib/for-tests/volumes-tester/nfs/Dockerfile
+contrib/for-tests/volumes-tester/nfs/Makefile
+contrib/for-tests/volumes-tester/rbd/Dockerfile
+contrib/for-tests/volumes-tester/rbd/Makefile
+cluster/mesos/docker/test/Dockerfile
+>>> operations-debs-kubernetes/test.txt: 1 bladfafhafadfa.txt
+cluster/mesos/docker/test/build.sh
+>>> operations-debs-kubernetes/test.txt: 4 bladfafhafadfa.txt
+third_party/PyYAML/tests/lib3/test_build_ext.py
+third_party/PyYAML/tests/lib3/test_build.py
+third_party/PyYAML/tests/lib/test_build_ext.py
+third_party/PyYAML/tests/lib/test_build.py
+>>> operations-puppet/infra_data.txt: 15 bladfafhafadfa.txt
+files/misc/jenkins/apache_proxy
+files/misc/jenkins/doc_index.html
+files/misc/jenkins/etc_default_jenkins
+files/misc/jenkins/fetch_gerrit_head.sh
+files/misc/jenkins/firewall_rules
+files/misc/jenkins/gitconfig
+files/misc/jenkins/index.html
+files/misc/jenkins/jobs/MediaWiki-phpunit/build.properties
+files/misc/jenkins/jobs/MediaWiki-phpunit/build.xml
+files/misc/jenkins/jobs/MediaWiki-phpunit/config.xml
+files/misc/jenkins/nightly.css
+files/misc/jenkins/WikipediaMobile/HEADER.html
+files/misc/jenkins/WikipediaMobile/nightly.css
+files/misc/jenkins/WiktionaryMobile/HEADER.html
+files/misc/jenkins/WLMMobile/HEADER.html
+>>> operations-puppet/other.txt: 1 bladfafhafadfa.txt
+modules/wikidatabuilder/files/cron-build.sh
+>>> wikidata-query-blazegraph/other.txt: 1 bladfafhafadfa.txt
+bigdata-sails/src/resources/remoting/build.xml
+>>> operations-debs-hhvm/other.txt: 2 bladfafhafadfa.txt
+third-party/webscalesqlclient/webscalesql-5.6/storage/ndb/test/crund/build.xml
+third-party/webscalesqlclient/webscalesql-5.6/storage/ndb/test/crund/tws/tws_java/build.xml
+>>> mediawiki/other.txt: 1 bladfafhafadfa.txt
+testsuite/build.xml

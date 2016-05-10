@@ -1,0 +1,11 @@
+files/cgi-bin/noc/ng/config.py
+files/misc/fundraising/civicrm.civicrm.settings.php
+files/misc/fundraising/civicrm.default.settings.php
+files/misc/fundraising/civicrm.settings.php
+files/misc/fundraising/dev.civicrm.civicrm.settings.php
+files/misc/fundraising/dev.civicrm.default.settings.php
+files/misc/fundraising/dev.civicrm.settings.php
+files/misc/fundraising/misc.executeStompPFPPendingProcessorSA.php
+files/misc/fundraising/misc.IPNListener_Recurring.php
+files/misc/fundraising/misc.IPNListener_Standalone.php
+files/misc/udpmxircecho.py

@@ -1,0 +1,12 @@
+cpp/contrib/peg-0.1.9/examples/Makefile
+cpp/contrib/peg-0.1.9/Makefile
+cpp/Makefile
+cpp/src/Makefile
+cpp/src/token/Makefile
+cpp/test/Makefile
+tests/parser/Makefile
+docs/specs/apiv2.yaml
+docs/specs/html2wt.yaml
+docs/specs/wt2html.yaml
+docs/specs/wt2pagebundle.yaml
+cpp/contrib/netsurf/buildsystem

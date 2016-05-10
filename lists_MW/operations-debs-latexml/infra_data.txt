@@ -1,0 +1,9 @@
+debian/changelog
+debian/compat
+debian/control
+debian/copyright
+debian/docs
+debian/gbp.conf
+debian/rules
+debian/source/format
+debian/source/options

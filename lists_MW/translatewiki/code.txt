@@ -1,0 +1,15 @@
+LanguageSettings.php
+MainPage/Autoload.php
+MainPage/CachedStat.php
+MainPage/MainPage.alias.php
+MainPage/MainPage.i18n.php
+MainPage/MainPage.php
+MainPage/ProjectHandler.php
+MainPage/resources/js/ext.translate.mainpage.js
+MainPage/Resources.php
+MainPage/specials/SpecialTwnMainPage.php
+MainPage/UserStats.php
+PermissionSettings.php
+SpecialRally.php
+TranslateSettings.php
+TranslatewikiSettings.php

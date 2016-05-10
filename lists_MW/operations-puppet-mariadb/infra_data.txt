@@ -1,0 +1,1 @@
+templates/root.my.cnf.erb

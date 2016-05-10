@@ -1,0 +1,16 @@
+LocalSettings.php
+modules/phpsh/templates/rc.php
+puppet/modules/mediawiki/files/info.php
+puppet/modules/mediawiki/files/multiwiki/CommonSettings.php
+puppet/modules/mediawiki/files/multiwiki/stub.php
+puppet/modules/multiwiki/files/CommonSettings.php
+puppet/modules/multiwiki/files/docroot/api.php
+puppet/modules/multiwiki/files/docroot/index.php
+puppet/modules/multiwiki/files/docroot/load.php
+puppet/modules/multiwiki/files/docroot/missing.php
+puppet/modules/multiwiki/files/docroot/MWMultiVersion.php
+puppet/modules/multiwiki/files/docroot/MWScript.php
+puppet/modules/multiwiki/files/docroot/MWVersion.php
+puppet/modules/multiwiki/files/docroot/opensearch_desc.php
+puppet/modules/multiwiki/files/docroot/thumb_handler.php
+puppet/modules/multiwiki/files/docroot/thumb.php

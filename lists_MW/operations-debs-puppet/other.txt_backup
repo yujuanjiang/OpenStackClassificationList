@@ -1,0 +1,7 @@
+test/data/providers/cron/crontab_collections.yaml
+test/data/providers/cron/crontab_multiple_with_env.yaml
+test/data/providers/cron/crontab_sample_records.yaml
+test/data/providers/package/testpackages.yaml
+test/data/reports/1.yaml
+test/data/reports/2.yaml
+spec/fixtures/yaml/test.local.yaml

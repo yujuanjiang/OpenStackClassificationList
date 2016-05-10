@@ -1,0 +1,6 @@
+data4all/static/codemirror-4.3/mode/puppet/index.html
+data4all/static/codemirror-4.3/mode/puppet/puppet.js
+data4all/static/vendor/codemirror-4.3/mode/puppet/index.html
+data4all/static/vendor/codemirror-4.3/mode/puppet/puppet.js
+quarry/web/static/vendor/codemirror-4.3/mode/puppet/index.html
+quarry/web/static/vendor/codemirror-4.3/mode/puppet/puppet.js

@@ -1,0 +1,10 @@
+templates/initscripts/varnishkafka.systemd.erb
+templates/initscripts/varnishkafka.upstart.erb
+templates/varnishkafka.conf.erb
+templates/varnishkafka.default.erb
+templates/varnishkafka.service.erb
+templates/varnishkafka-stats.logrotate.erb
+templates/varnishkafka.upstart.conf.erb
+files/varnishkafka_ganglia.py
+files/varnishkafka_logrotate
+files/VarnishkafkaLogster.py

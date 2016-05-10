@@ -1,0 +1,4 @@
+files/gerrit/hooks/hookhelper_test.py
+files/swift/SwiftMedia/wmf/rewrite_integration_test.py
+modules/elasticsearch/files/nagios/check_elasticsearch_test.py
+templates/test

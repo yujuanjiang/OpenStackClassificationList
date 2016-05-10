@@ -1,0 +1,8 @@
+.fixtures.yml
+.gitignore
+LICENSE
+metadata.json
+Modulefile
+README.md
+spec/fixtures/hiera/hiera.yaml
+.travis.yml

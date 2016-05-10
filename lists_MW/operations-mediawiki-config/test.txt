@@ -1,0 +1,17 @@
+docroot/test/404.html
+docroot/test/503.html
+docroot/test/images
+docroot/test/w
+docroot/wikidata_test/404.html
+docroot/wikidata_test/503.html
+live-1.5/compress-test.php
+multiversion/vendor/cdb/cdb/test/CdbTest.php
+multiversion/vendor/wikimedia/cdb/test/CdbTest.php
+tests/bootstrap.php
+tests/dbconfigTest.php
+tests/DBList.php
+tests/dblistTest.php
+tests/multiversion/MWMultiVersionTest.php
+tests/multiversion/MWRealmTest.php
+tests/noc-conf/highlightTest.php
+tests/Provide.php

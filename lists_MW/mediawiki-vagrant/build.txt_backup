@@ -1,0 +1,6 @@
+Rakefile
+Gemfile
+puppet/modules/rbenv/Gemfile
+Gemfile.lock
+puppet/modules/rbenv/Gemfile.lock
+mediawiki-vagrant.gemspec

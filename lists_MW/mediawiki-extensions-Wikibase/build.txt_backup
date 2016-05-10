@@ -1,0 +1,17 @@
+client/tests/selenium/Gemfile
+repo/tests/selenium/Gemfile
+repo/tests/selenium_ruby/Gemfile
+repo/tests/selenium_ruby/Gemfile.lock
+selenium_cuc/Gemfile
+selenium_cuc/Gemfile.lock
+selenium/Gemfile
+selenium/Gemfile.lock
+tests/browser/Gemfile
+tests/browser/Gemfile.lock
+build/jenkins/mw-apply-wb-settings.sh
+build/travis/after_success.sh
+build/travis/before_script.sh
+build/travis/install.sh
+build/travis/mw-apply-wb-settings.sh
+build/travis/script.sh
+build/travis/update-db.sh

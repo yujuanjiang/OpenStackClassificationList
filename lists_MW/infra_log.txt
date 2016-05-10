@@ -1,0 +1,31 @@
+>>> gerrit/build.txt: 1 bladfafhafadfa.txt
+tools/maven_deploy.py
+>>> operations-puppet/other.txt: 28 bladfafhafadfa.txt
+files/misc/deployment-scripts/bin/clear-profile
+files/misc/deployment-scripts/bin/configchange
+files/misc/deployment-scripts/bin/deploy2graphite
+files/misc/deployment-scripts/bin/dologmsg
+files/misc/deployment-scripts/bin/fatalmonitor
+files/misc/deployment-scripts/bin/foreachwiki
+files/misc/deployment-scripts/bin/foreachwikiindblist
+files/misc/deployment-scripts/bin/lint
+files/misc/deployment-scripts/bin/mwscript
+files/misc/deployment-scripts/bin/mwscriptwikiset
+files/misc/deployment-scripts/bin/mw-update-l10n
+files/misc/deployment-scripts/bin/mwversionsinuse
+files/misc/deployment-scripts/bin/notifyNewProjects
+files/misc/deployment-scripts/bin/purge-checkuser
+files/misc/deployment-scripts/bin/purge-varnish
+files/misc/deployment-scripts/bin/refreshWikiversionsCDB
+files/misc/deployment-scripts/bin/reset-mysql-slave
+files/misc/deployment-scripts/bin/scap
+files/misc/deployment-scripts/bin/sql
+files/misc/deployment-scripts/bin/sync-apache
+files/misc/deployment-scripts/bin/sync-common-all
+files/misc/deployment-scripts/bin/sync-dblist
+files/misc/deployment-scripts/bin/sync-dir
+files/misc/deployment-scripts/bin/sync-docroot
+files/misc/deployment-scripts/bin/sync-file
+files/misc/deployment-scripts/bin/sync-wikiversions
+files/misc/deployment-scripts/bin/update-special-pages
+files/misc/deployment-scripts/bin/update-special-pages-small

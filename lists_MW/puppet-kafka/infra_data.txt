@@ -1,0 +1,6 @@
+templates/consumer.properties.erb
+templates/kafka.default.erb
+templates/kafka-mirror.default.erb
+templates/log4j.properties.erb
+templates/producer.properties.erb
+templates/server.properties.erb

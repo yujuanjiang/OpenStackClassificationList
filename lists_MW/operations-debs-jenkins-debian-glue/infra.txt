@@ -1,0 +1,2 @@
+puppet/apply.sh
+puppet/jenkins_debian_glue.pp

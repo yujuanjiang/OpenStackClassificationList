@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+.gitmodules
+.gitreview
+puppet/modules/apt/README
+puppet/modules/cdh4
+puppet/modules/java/README
+puppet/modules/kafka
+puppet/modules/zookeeper

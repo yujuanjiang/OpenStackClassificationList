@@ -1,0 +1,9 @@
+.gitreview
+manifests/init.pp
+manifests/package.pp
+manifests/service.pp
+manifests/site.pp
+manifests/ssl.pp
+manifests/status_site.pp
+templates/ssl.conf.erb
+templates/status.nginx.erb

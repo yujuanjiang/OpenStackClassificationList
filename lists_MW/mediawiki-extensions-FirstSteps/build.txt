@@ -1,0 +1,5 @@
+Doxyfile
+tests/browser/Gemfile
+tests/browser/Gemfile.lock
+tests/Makefile
+tests/phpunit/Makefile

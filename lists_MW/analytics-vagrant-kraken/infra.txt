@@ -1,0 +1,12 @@
+
+puppet/manifests/base.pp
+puppet/manifests/kraken.pp
+puppet/manifests/site.pp
+puppet/modules/apt/lib/facter/apt.rb
+puppet/modules/apt/manifests/conf.pp
+puppet/modules/apt/manifests/init.pp
+puppet/modules/apt/manifests/pin.pp
+puppet/modules/apt/manifests/repository.pp
+puppet/modules/apt/manifests/update.pp
+puppet/modules/java/manifests/init.pp
+Vagrantfile

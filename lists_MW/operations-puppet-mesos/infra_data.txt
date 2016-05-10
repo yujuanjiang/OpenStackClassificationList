@@ -1,0 +1,5 @@
+templates/default.erb
+templates/master.erb
+templates/mesos.conf.erb
+templates/service.erb
+templates/slave.erb

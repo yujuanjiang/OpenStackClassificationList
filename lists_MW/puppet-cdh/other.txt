@@ -1,0 +1,8 @@
+examples/README.md
+files/pig.properties
+files/spark/log4j.properties
+.gitreview
+LICENSE
+manifests/hadoop/jmxtrans/README.md
+README.md
+TODO.md

@@ -1,0 +1,7 @@
+manifests/config.pp
+manifests/init.pp
+manifests/monitor_disk.pp
+manifests/monitor_process.pp
+manifests/monitor_replication.pp
+manifests/packages.pp
+manifests/packages_wmf.pp

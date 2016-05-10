@@ -1,0 +1,3 @@
+files/hadoop/create_hdfs_user_directories.sh
+files/hue/hue.init.d.sh
+lib/facter/versions.rb

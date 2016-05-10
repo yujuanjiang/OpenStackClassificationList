@@ -1,0 +1,5 @@
+src/resources/deployment/vagrant/samples/AWS/Berksfile
+src/resources/deployment/vagrant/samples/VirtualBox/Berksfile
+src/resources/deployment/vagrant/systap-bigdata/Berksfile
+bigdata/src/resources/deployment/vagrant/systap-aws-bigdata-ha/Berksfile
+bigdata/src/resources/deployment/vagrant/systap-bigdata/Berksfile

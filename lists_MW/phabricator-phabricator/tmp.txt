@@ -1,0 +1,5 @@
+src/applications/cache/spec/PhabricatorCacheSpec.php
+src/applications/cache/spec/PhabricatorDataCacheSpec.php
+src/applications/cache/spec/PhabricatorOpcodeCacheSpec.php
+src/applications/fact/spec/PhabricatorFactSimpleSpec.php
+src/applications/fact/spec/PhabricatorFactSpec.php

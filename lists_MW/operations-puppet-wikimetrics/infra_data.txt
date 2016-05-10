@@ -1,0 +1,6 @@
+templates/db_config.yaml.erb
+templates/queue_config.yaml.erb
+templates/upstart.wikimetrics.conf.erb
+templates/upstart.wikimetrics-queue.conf.erb
+templates/web_config.yaml.erb
+templates/wikimetrics.vhost.erb

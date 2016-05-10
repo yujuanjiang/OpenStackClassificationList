@@ -1,0 +1,5 @@
+tests/article-pear.xml
+tests/data/anefo.json
+tests/data/article-pear.xml
+tests/data/article-pyrus.xml
+tests/data/csv_ingestion.csv

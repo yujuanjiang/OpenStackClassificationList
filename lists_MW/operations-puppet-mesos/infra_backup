@@ -1,0 +1,11 @@
+manifests/config.pp
+manifests/init.pp
+manifests/install.pp
+manifests/master.pp
+manifests/params.pp
+manifests/property.pp
+manifests/repo.pp
+manifests/service.pp
+manifests/slave.pp
+spec/fixtures/manifests/site.pp
+tests/init.pp

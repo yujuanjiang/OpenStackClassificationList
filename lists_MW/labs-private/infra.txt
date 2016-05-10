@@ -1,0 +1,7 @@
+manifests/contacts.pp
+manifests/mail.pp
+manifests/passwords.pp
+modules/contacts/manifests/init.pp
+modules/passwords/init.pp
+modules/passwords/manifests/init.pp
+modules/privateexim/manifests/init.pp

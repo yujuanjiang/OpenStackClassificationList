@@ -1,0 +1,6 @@
+templates/cassandra.default.erb
+templates/cassandra-env.sh.erb
+templates/cassandra-rackdc.properties.erb
+templates/cassandra.yaml.erb
+templates/logback.xml.erb
+templates/metrics.yaml.erb

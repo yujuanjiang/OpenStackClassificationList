@@ -1,0 +1,7 @@
+examples/README.md
+files/pig.properties
+.gitreview
+LICENSE
+manifests/hadoop/jmxtrans/README.md
+README.md
+TODO.md

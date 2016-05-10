@@ -1,0 +1,11 @@
+spec/classes/config_spec.rb
+spec/classes/init_spec.rb
+spec/classes/install_spec.rb
+spec/classes/master_spec.rb
+spec/classes/repo_spec.rb
+spec/classes/slave_spec.rb
+spec/defines/property_spec.rb
+spec/defines/service_spec.rb
+spec/functions/mesos_hash_parser_spec.rb
+spec/spec_helper.rb
+spec/spec_helper_system.rb

@@ -1,0 +1,8 @@
+Gemfile
+Gemfile.lock
+Makefile
+tests/acceptance/Gemfile
+tests/acceptance/Gemfile.lock
+tests/acceptance/Rakefile
+tests/browser/Gemfile
+tests/browser/Gemfile.lock

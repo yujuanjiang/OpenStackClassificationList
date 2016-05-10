@@ -1,0 +1,5 @@
+manifests/defaults.pp
+manifests/init.pp
+manifests/instance.pp
+manifests/monitoring.pp
+manifests/monitor.pp

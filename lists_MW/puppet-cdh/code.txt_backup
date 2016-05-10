@@ -1,0 +1,2 @@
+lib/facter/versions.rb
+files/hadoop/create_hdfs_user_directories.sh

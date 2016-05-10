@@ -1,0 +1,11 @@
+build/release/build_tarballs.sh
+build/travis/after_success.sh
+build/travis/before_script.sh
+build/travis/install-mediawiki.sh
+build/travis/install-semantic-mediawiki.sh
+build/travis/install-services.sh
+build/travis/run-tests.sh
+build/travis/script.sh
+build/travis/update-configuration-settings.sh
+build/travis/upload-coverage-report.sh
+REL1_2/phase3/math/Makefile

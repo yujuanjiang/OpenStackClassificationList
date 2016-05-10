@@ -1,0 +1,13 @@
+modules/backup/spec/fixtures/manifests/site.pp
+modules/bacula/spec/fixtures/manifests/site.pp
+modules/base/spec/fixtures/manifests/site.pp
+modules/install-server/spec/fixtures/manifests/site.pp
+modules/mirrors/spec/fixtures/manifests/site.pp
+modules/mongodb/spec/fixtures/manifests/site.pp
+modules/nrpe/spec/fixtures/manifests/site.pp
+modules/osm/spec/fixtures/manifests/site.pp
+modules/postgresql/spec/fixtures/manifests/site.pp
+modules/rsync/spec/fixtures/manifests/site.pp
+modules/servermon/spec/fixtures/manifests/site.pp
+modules/squid3/spec/fixtures/manifests/site.pp
+modules/url_downloader/spec/fixtures/manifests/site.pp

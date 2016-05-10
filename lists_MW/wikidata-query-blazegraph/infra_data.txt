@@ -1,0 +1,12 @@
+bigdata/src/resources/deployment/vagrant/systap-aws-bigdata-ha/Berksfile
+bigdata/src/resources/deployment/vagrant/systap-aws-bigdata-ha/templates/default/default/bigdataHA.erb
+bigdata/src/resources/deployment/vagrant/systap-aws-bigdata-ha/templates/default/init.d/bigdataHA.erb
+bigdata/src/resources/deployment/vagrant/systap-aws-bigdata-ha/templates/default/jetty.xml.erb
+bigdata/src/resources/deployment/vagrant/systap-aws-bigdata-ha/templates/default/zoo.cfg.erb
+bigdata/src/resources/deployment/vagrant/systap-bigdata/Berksfile
+src/resources/deployment/chef/templates/default/default/bigdataHA.erb
+src/resources/deployment/chef/templates/default/etc/default/bigdataHA.erb
+src/resources/deployment/chef/templates/default/zoo.cfg.erb
+src/resources/deployment/vagrant/samples/AWS/Berksfile
+src/resources/deployment/vagrant/samples/VirtualBox/Berksfile
+src/resources/deployment/vagrant/systap-bigdata/Berksfile

@@ -1,0 +1,2 @@
+templates/ssl.conf.erb
+templates/status.nginx.erb

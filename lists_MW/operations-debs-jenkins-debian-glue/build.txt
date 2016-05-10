@@ -1,0 +1,12 @@
+build-and-provide-package
+fabfile.py
+github/Gemfile
+jjb/jdg-freight.yaml
+jjb/jdg-reprepro.yaml
+Makefile
+pbuilder-hookdir/B20autopkgtest
+pbuilder-hookdir/C10shell
+pbuilder-hookdir/D10-man-db
+pbuilder-hookdir/D20releaserepo
+scripts/build-and-provide-package
+svn/trigger_jenkins

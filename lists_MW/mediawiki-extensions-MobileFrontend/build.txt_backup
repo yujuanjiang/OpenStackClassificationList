@@ -1,0 +1,7 @@
+Makefile
+Gemfile
+Gemfile.lock
+tests/acceptance/Gemfile
+tests/acceptance/Gemfile.lock
+tests/browser/Gemfile
+tests/browser/Gemfile.lock

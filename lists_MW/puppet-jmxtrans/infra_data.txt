@@ -1,0 +1,2 @@
+templates/jmxtrans.default.erb
+templates/jmxtrans.json.erb

@@ -1,0 +1,5 @@
+templates/storm.default.erb
+templates/storm-nimbus.default.erb
+templates/storm-supervisor.default.erb
+templates/storm-ui.default.erb
+templates/storm.yaml.erb

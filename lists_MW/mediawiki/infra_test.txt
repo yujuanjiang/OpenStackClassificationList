@@ -1,0 +1,4 @@
+tests/jasmine/spec/mediawiki.jqueryMsg.spec.data.js
+tests/jasmine/spec/mediawiki.jqueryMsg.spec.js
+tests/jasmine/spec/mediawiki.Uri.spec.js
+tests/jasmine/spec/mediawiki.uri.spec.js

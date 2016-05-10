@@ -1,0 +1,4 @@
+docroot/foundation/presentations/anthere/Frankfurt4.ppt
+docroot/foundation/presentations/anthere/Helsinki.ppt
+docroot/foundation/presentations/anthere/Pretoria5.ppt
+docroot/foundation/presentations/mav/WikipediaPres.ppt

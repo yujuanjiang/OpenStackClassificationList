@@ -1,0 +1,4 @@
+manifests/init.pp
+manifests/input.pp
+manifests/monitoring.pp
+manifests/output.pp

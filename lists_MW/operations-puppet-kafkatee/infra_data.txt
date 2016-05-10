@@ -1,0 +1,4 @@
+templates/input.kafka.conf.erb
+templates/input.pipe.conf.erb
+templates/kafkatee.conf.erb
+templates/output.conf.erb

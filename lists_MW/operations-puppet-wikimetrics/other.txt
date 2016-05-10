@@ -1,0 +1,3 @@
+files/backup/daily_script
+files/backup/hourly_script
+.gitreview

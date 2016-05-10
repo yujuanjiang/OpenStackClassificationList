@@ -1,0 +1,13 @@
+puppet/manifests/base.pp
+puppet/manifests/site.pp
+puppet/modules/apt/files/apt2xml.py
+puppet/modules/apt/lib/facter/apt.rb
+puppet/modules/apt/manifests/conf.pp
+puppet/modules/apt/manifests/init.pp
+puppet/modules/apt/manifests/pin.pp
+puppet/modules/apt/manifests/repository.pp
+puppet/modules/apt/manifests/update.pp
+puppet/modules/apt/README
+puppet/modules/java/manifests/init.pp
+puppet/modules/java/README
+Vagrantfile

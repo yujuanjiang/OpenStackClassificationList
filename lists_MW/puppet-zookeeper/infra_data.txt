@@ -1,0 +1,3 @@
+templates/log4j.properties.erb
+templates/zoo.cfg.erb
+templates/zookeeper.default.erb

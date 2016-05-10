@@ -1,0 +1,6 @@
+manifests/config.pp
+manifests/init.pp
+manifests/install.pp
+manifests/nimbus.pp
+manifests/supervisor.pp
+manifests/ui.pp

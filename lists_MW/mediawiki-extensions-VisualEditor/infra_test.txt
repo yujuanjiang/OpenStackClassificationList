@@ -1,0 +1,2 @@
+modules/ve-mw/test/browser/spec/rectangle_spec.rb
+modules/ve-mw/tests/browser/spec/rectangle_spec.rb

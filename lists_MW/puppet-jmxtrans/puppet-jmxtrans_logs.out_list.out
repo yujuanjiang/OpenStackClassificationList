@@ -1,0 +1,8 @@
+.gitreview
+LICENSE
+manifests/init.pp
+manifests/metrics/jvm.pp
+manifests/metrics.pp
+README.md
+templates/jmxtrans.default.erb
+templates/jmxtrans.json.erb

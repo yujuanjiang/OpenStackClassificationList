@@ -1,0 +1,9 @@
+tests/data/article-pear.xml
+tests/data/article-pyrus-utf16.xml
+tests/data/article-pyrus.xml
+tests/data/xml/article-pear-0.10.xml
+tests/data/xml/article-pear.xml
+tests/data/xml/article-pyrus.xml
+tests/data/xml/dummy-reflinks.xml
+tests/data/xml/pair-0.10.xml
+tests/data/xml/article-pyrus.xml.gz

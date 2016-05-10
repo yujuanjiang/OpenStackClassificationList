@@ -1,0 +1,10 @@
+bin/buildi18n-json.sh
+bin/buildi18n.sh
+build/modules.json
+Gemfile
+Gemfile.lock
+modules/ve-mw/test/browser/Gemfile
+modules/ve-mw/test/browser/Gemfile.lock
+modules/ve-mw/tests/browser/Gemfile
+modules/ve-mw/tests/browser/Gemfile.lock
+tests/parser/Makefile

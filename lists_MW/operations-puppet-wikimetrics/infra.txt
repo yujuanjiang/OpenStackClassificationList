@@ -1,0 +1,9 @@
+manifests/backup.pp
+manifests/database/create.pp
+manifests/database.pp
+manifests/init.pp
+manifests/queue.pp
+manifests/scheduler.pp
+manifests/web/apache.pp
+manifests/web/daemon.pp
+manifests/web.pp

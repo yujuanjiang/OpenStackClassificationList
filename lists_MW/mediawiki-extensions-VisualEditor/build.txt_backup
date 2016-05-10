@@ -1,0 +1,8 @@
+tests/parser/Makefile
+Gemfile
+Gemfile.lock
+modules/ve-mw/test/browser/Gemfile
+modules/ve-mw/test/browser/Gemfile.lock
+modules/ve-mw/tests/browser/Gemfile
+modules/ve-mw/tests/browser/Gemfile.lock
+build/modules.json

@@ -1,0 +1,4 @@
+puppet/manifests/osmtileserver.pp
+puppet/manifests/postgresql.pp
+wikipedia/puppet/manifests/osmtileserver.pp
+wikipedia/puppet/manifests/postgresql.pp
